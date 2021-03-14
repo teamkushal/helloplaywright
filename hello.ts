@@ -1,12 +1,20 @@
+import { Page } from "playwright";
+
 const { firefox } = require('playwright');
 
+const addresses = [
+  "https://www.google.com/",
+  "https://maps.google.com/",
+  "https://myreactivematerial.web.app/",
+  "https://pat.tilde.team/",
+  "https://coloradoquiz.web.app/",
+  "https://scottkast.github.com/"
+];
+
 (async () => {
-  await benchmark(`https://maps.google.com`);
-  await benchmark(`https://www.google.com`);
-  await benchmark(`https://myreactivematerial.web.app/`);
-  await benchmark(`https://pat.tilde.team/`);
-  await benchmark(`https://coloradoquiz.web.app/`);
-  await benchmark(`https://scottkast.github.com`);
+  for (const address of addresses) {
+    await benchmark(address);
+  }
 })();
 
 async function benchmark(address: string) {
@@ -17,9 +25,25 @@ async function benchmark(address: string) {
     await page.goto(address);
     const end_time = +new Date();
     console.log(`Total load time for ${address} was ${(end_time - start_time) / 1000} seconds`);
+    const metrics = await getMetrics(page);
+    console.log({ metrics });
     await browser.close();
   } catch (error) {
     console.log(`Error benchmarking ${address}`);
     console.error({ error });
   }
+}
+
+async function getMetrics(page: Page): Promise<{
+  format: 'PerformanceNavigationTiming'
+  data: PerformanceNavigationTiming
+}> {
+  return JSON.parse(
+    await page.evaluate(() => {
+      const [timing] = performance.getEntriesByType('navigation')
+      return JSON.stringify({
+        data: timing
+      })
+    })
+  )
 }
