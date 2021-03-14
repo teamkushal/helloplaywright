@@ -1,0 +1,1 @@
+Total load time for https://maps.google.com was 0.73 seconds
