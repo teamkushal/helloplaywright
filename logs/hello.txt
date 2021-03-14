@@ -1,1 +1,6 @@
-Total load time for https://maps.google.com was 0.73 seconds
+Total load time for https://maps.google.com was 0.863 seconds
+Total load time for https://www.google.com was 0.638 seconds
+Total load time for https://myreactivematerial.web.app/ was 0.816 seconds
+Total load time for https://pat.tilde.team/ was 0.846 seconds
+Total load time for https://coloradoquiz.web.app/ was 0.839 seconds
+Total load time for https://scottkast.github.com was 0.28 seconds
