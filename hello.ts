@@ -1,6 +1,6 @@
 import { Page } from "playwright";
 
-const { firefox } = require('playwright');
+const { firefox } = require("playwright");
 
 const addresses = [
   "https://www.google.com/",
@@ -8,7 +8,7 @@ const addresses = [
   "https://myreactivematerial.web.app/",
   "https://pat.tilde.team/",
   "https://coloradoquiz.web.app/",
-  "https://scottkast.github.com/"
+  "https://scottkast.github.com/",
 ];
 
 (async () => {
@@ -24,7 +24,11 @@ async function benchmark(address: string) {
     const start_time = +new Date();
     await page.goto(address);
     const end_time = +new Date();
-    console.log(`Total load time for ${address} was ${(end_time - start_time) / 1000} seconds`);
+    console.log(
+      `Total load time for ${address} was ${
+        (end_time - start_time) / 1000
+      } seconds`
+    );
     const metrics = await getMetrics(page);
     console.log({ metrics });
     await browser.close();
@@ -34,16 +38,18 @@ async function benchmark(address: string) {
   }
 }
 
-async function getMetrics(page: Page): Promise<{
-  format: 'PerformanceNavigationTiming'
-  data: PerformanceNavigationTiming
+async function getMetrics(
+  page: Page
+): Promise<{
+  format: "PerformanceNavigationTiming";
+  data: PerformanceNavigationTiming;
 }> {
   return JSON.parse(
     await page.evaluate(() => {
-      const [timing] = performance.getEntriesByType('navigation')
+      const [timing] = performance.getEntriesByType("navigation");
       return JSON.stringify({
-        data: timing
-      })
+        data: timing,
+      });
     })
-  )
+  );
 }
