@@ -1,0 +1,39 @@
+Total load time for https://stagepcna.znodedev.com/tools-services/build-your-own-flyers was 6.658 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6670,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 222,
+      fetchStart: 222,
+      domainLookupStart: 222,
+      domainLookupEnd: 222,
+      connectStart: 222,
+      connectEnd: 222,
+      secureConnectionStart: 222,
+      requestStart: 235,
+      responseStart: 1331,
+      responseEnd: 1333,
+      transferSize: 21869,
+      encodedBodySize: 20678,
+      decodedBodySize: 210766,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1942,
+      domContentLoadedEventStart: 2033,
+      domContentLoadedEventEnd: 2035,
+      domComplete: 6649,
+      loadEventStart: 6650,
+      loadEventEnd: 6670,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
