@@ -1,6 +1,7 @@
 {
     "extends": "./configs/base",
     "files": [
-        "hello.ts"
+        "hello.ts",
+        "stagepcna.ts"
     ]
 }
