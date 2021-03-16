@@ -1,0 +1,6513 @@
+Total load time for https://www.pcna.com/en-us#mm-2 was 3.491 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3494,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 69,
+      domainLookupEnd: 69,
+      connectStart: 69,
+      connectEnd: 203,
+      secureConnectionStart: 107,
+      requestStart: 203,
+      responseStart: 710,
+      responseEnd: 710,
+      transferSize: 46105,
+      encodedBodySize: 44147,
+      decodedBodySize: 204706,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1788,
+      domContentLoadedEventStart: 1834,
+      domContentLoadedEventEnd: 2140,
+      domComplete: 3480,
+      loadEventStart: 3482,
+      loadEventEnd: 3494,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/privacy-policy#mm-1 was 5.256 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/privacy-policy#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5250,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 109,
+      domainLookupEnd: 109,
+      connectStart: 109,
+      connectEnd: 249,
+      secureConnectionStart: 146,
+      requestStart: 249,
+      responseStart: 563,
+      responseEnd: 563,
+      transferSize: 48092,
+      encodedBodySize: 46199,
+      decodedBodySize: 204873,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3442,
+      domContentLoadedEventStart: 3539,
+      domContentLoadedEventEnd: 3752,
+      domComplete: 5224,
+      loadEventStart: 5225,
+      loadEventEnd: 5250,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2 was 4.436 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4558,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 107,
+      domainLookupEnd: 107,
+      connectStart: 107,
+      connectEnd: 246,
+      secureConnectionStart: 143,
+      requestStart: 246,
+      responseStart: 1841,
+      responseEnd: 1841,
+      transferSize: 79193,
+      encodedBodySize: 77207,
+      decodedBodySize: 454689,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3755,
+      domContentLoadedEventStart: 3847,
+      domContentLoadedEventEnd: 4153,
+      domComplete: 4406,
+      loadEventStart: 4406,
+      loadEventEnd: 4558,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2#mm-1 was 5.676 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5870,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 53,
+      domainLookupEnd: 53,
+      connectStart: 53,
+      connectEnd: 194,
+      secureConnectionStart: 89,
+      requestStart: 194,
+      responseStart: 1848,
+      responseEnd: 1848,
+      transferSize: 79210,
+      encodedBodySize: 77223,
+      decodedBodySize: 454689,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3812,
+      domContentLoadedEventStart: 3909,
+      domContentLoadedEventEnd: 4248,
+      domComplete: 5660,
+      loadEventStart: 5675,
+      loadEventEnd: 5870,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2#mm-10 was 4.537 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4692,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 52,
+      domainLookupEnd: 52,
+      connectStart: 52,
+      connectEnd: 188,
+      secureConnectionStart: 91,
+      requestStart: 188,
+      responseStart: 1792,
+      responseEnd: 1792,
+      transferSize: 79243,
+      encodedBodySize: 77257,
+      decodedBodySize: 454689,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3783,
+      domContentLoadedEventStart: 3875,
+      domContentLoadedEventEnd: 4228,
+      domComplete: 4529,
+      loadEventStart: 4530,
+      loadEventEnd: 4692,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2#mm-19 was 4.388 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/new.aspx?v1=sort_productintroductiondate&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4570,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 63,
+      domainLookupEnd: 63,
+      connectStart: 63,
+      connectEnd: 203,
+      secureConnectionStart: 105,
+      requestStart: 204,
+      responseStart: 1751,
+      responseEnd: 1751,
+      transferSize: 79229,
+      encodedBodySize: 77243,
+      decodedBodySize: 454689,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2720,
+      domContentLoadedEventStart: 2792,
+      domContentLoadedEventEnd: 3119,
+      domComplete: 4366,
+      loadEventStart: 4366,
+      loadEventEnd: 4570,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1 was 4.91 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5204,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 68,
+      domainLookupEnd: 68,
+      connectStart: 68,
+      connectEnd: 205,
+      secureConnectionStart: 104,
+      requestStart: 205,
+      responseStart: 2138,
+      responseEnd: 2138,
+      transferSize: 102120,
+      encodedBodySize: 100199,
+      decodedBodySize: 625734,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3110,
+      domContentLoadedEventStart: 3181,
+      domContentLoadedEventEnd: 3553,
+      domComplete: 4904,
+      loadEventStart: 4906,
+      loadEventEnd: 5204,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-1 was 4.092 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4308,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 53,
+      domainLookupEnd: 53,
+      connectStart: 53,
+      connectEnd: 190,
+      secureConnectionStart: 91,
+      requestStart: 191,
+      responseStart: 2197,
+      responseEnd: 2197,
+      transferSize: 102127,
+      encodedBodySize: 100206,
+      decodedBodySize: 625734,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3228,
+      domContentLoadedEventStart: 3326,
+      domContentLoadedEventEnd: 3708,
+      domComplete: 4074,
+      loadEventStart: 4074,
+      loadEventEnd: 4308,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-10 was 4.023 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4251,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 133,
+      domainLookupEnd: 133,
+      connectStart: 133,
+      connectEnd: 264,
+      secureConnectionStart: 170,
+      requestStart: 264,
+      responseStart: 2203,
+      responseEnd: 2203,
+      transferSize: 102107,
+      encodedBodySize: 100186,
+      decodedBodySize: 625734,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3239,
+      domContentLoadedEventStart: 3330,
+      domContentLoadedEventEnd: 3713,
+      domComplete: 4010,
+      loadEventStart: 4011,
+      loadEventEnd: 4251,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-19 was 4.278 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4500,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 119,
+      domainLookupEnd: 119,
+      connectStart: 119,
+      connectEnd: 255,
+      secureConnectionStart: 156,
+      requestStart: 256,
+      responseStart: 2470,
+      responseEnd: 2470,
+      transferSize: 102131,
+      encodedBodySize: 100210,
+      decodedBodySize: 625734,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3460,
+      domContentLoadedEventStart: 3538,
+      domContentLoadedEventEnd: 3928,
+      domComplete: 4268,
+      loadEventStart: 4268,
+      loadEventEnd: 4500,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-20 was 5.263 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/clearance.aspx?v1=sort_rank&asc=0&fl=1#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5549,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 99,
+      domainLookupEnd: 99,
+      connectStart: 99,
+      connectEnd: 230,
+      secureConnectionStart: 135,
+      requestStart: 230,
+      responseStart: 2414,
+      responseEnd: 2414,
+      transferSize: 102077,
+      encodedBodySize: 100156,
+      decodedBodySize: 625734,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3375,
+      domContentLoadedEventStart: 3458,
+      domContentLoadedEventEnd: 3828,
+      domComplete: 5254,
+      loadEventStart: 5271,
+      loadEventEnd: 5549,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/ecosmartv3 was 4.457 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/ecosmartv3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4486,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 110,
+      domainLookupEnd: 110,
+      connectStart: 110,
+      connectEnd: 240,
+      secureConnectionStart: 145,
+      requestStart: 242,
+      responseStart: 866,
+      responseEnd: 866,
+      transferSize: 47038,
+      encodedBodySize: 45145,
+      decodedBodySize: 215183,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3055,
+      domContentLoadedEventStart: 3161,
+      domContentLoadedEventEnd: 3468,
+      domComplete: 4445,
+      loadEventStart: 4467,
+      loadEventEnd: 4486,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/ecosmartv3#mm-2 was 4.37 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/ecosmartv3#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4376,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 96,
+      domainLookupEnd: 96,
+      connectStart: 96,
+      connectEnd: 237,
+      secureConnectionStart: 133,
+      requestStart: 238,
+      responseStart: 721,
+      responseEnd: 721,
+      transferSize: 47035,
+      encodedBodySize: 45142,
+      decodedBodySize: 215183,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2846,
+      domContentLoadedEventStart: 2943,
+      domContentLoadedEventEnd: 3279,
+      domComplete: 4356,
+      loadEventStart: 4357,
+      loadEventEnd: 4376,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/ecosmartv3#mm-11 was 3.608 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/ecosmartv3#mm-11',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3607,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 142,
+      domainLookupEnd: 142,
+      connectStart: 142,
+      connectEnd: 283,
+      secureConnectionStart: 181,
+      requestStart: 283,
+      responseStart: 732,
+      responseEnd: 732,
+      transferSize: 47038,
+      encodedBodySize: 45145,
+      decodedBodySize: 215183,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2806,
+      domContentLoadedEventStart: 2887,
+      domContentLoadedEventEnd: 3219,
+      domComplete: 3598,
+      loadEventStart: 3599,
+      loadEventEnd: 3607,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2 was 4.18 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4315,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 257,
+      secureConnectionStart: 157,
+      requestStart: 258,
+      responseStart: 2424,
+      responseEnd: 2424,
+      transferSize: 78381,
+      encodedBodySize: 76395,
+      decodedBodySize: 455646,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3403,
+      domContentLoadedEventStart: 3479,
+      domContentLoadedEventEnd: 3803,
+      domComplete: 4173,
+      loadEventStart: 4174,
+      loadEventEnd: 4315,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-1 was 3.848 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3990,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 55,
+      domainLookupEnd: 55,
+      connectStart: 55,
+      connectEnd: 191,
+      secureConnectionStart: 93,
+      requestStart: 192,
+      responseStart: 2084,
+      responseEnd: 2084,
+      transferSize: 78393,
+      encodedBodySize: 76407,
+      decodedBodySize: 455646,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3054,
+      domContentLoadedEventStart: 3127,
+      domContentLoadedEventEnd: 3473,
+      domComplete: 3844,
+      loadEventStart: 3844,
+      loadEventEnd: 3990,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-10 was 4.824 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4994,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 121,
+      domainLookupEnd: 121,
+      connectStart: 121,
+      connectEnd: 260,
+      secureConnectionStart: 157,
+      requestStart: 260,
+      responseStart: 2111,
+      responseEnd: 2111,
+      transferSize: 78394,
+      encodedBodySize: 76408,
+      decodedBodySize: 455646,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3102,
+      domContentLoadedEventStart: 3202,
+      domContentLoadedEventEnd: 3514,
+      domComplete: 4814,
+      loadEventStart: 4816,
+      loadEventEnd: 4994,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-19 was 4.819 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4988,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 121,
+      connectStart: 121,
+      connectEnd: 263,
+      secureConnectionStart: 161,
+      requestStart: 263,
+      responseStart: 2108,
+      responseEnd: 2108,
+      transferSize: 78389,
+      encodedBodySize: 76403,
+      decodedBodySize: 455646,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3116,
+      domContentLoadedEventStart: 3200,
+      domContentLoadedEventEnd: 3527,
+      domComplete: 4808,
+      loadEventStart: 4810,
+      loadEventEnd: 4988,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-20 was 3.614 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/category.aspx?cat=pcna&category=deals%20of%20the%20month&v1=sort_isspecial&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3751,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 61,
+      domainLookupEnd: 61,
+      connectStart: 61,
+      connectEnd: 201,
+      secureConnectionStart: 100,
+      requestStart: 201,
+      responseStart: 1871,
+      responseEnd: 1871,
+      transferSize: 78393,
+      encodedBodySize: 76407,
+      decodedBodySize: 455646,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2856,
+      domContentLoadedEventStart: 2936,
+      domContentLoadedEventEnd: 3256,
+      domComplete: 3604,
+      loadEventStart: 3605,
+      loadEventEnd: 3751,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/customizable-gift-site was 11.432 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/customizable-gift-site',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11390,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 124,
+      domainLookupEnd: 124,
+      connectStart: 124,
+      connectEnd: 253,
+      secureConnectionStart: 160,
+      requestStart: 254,
+      responseStart: 825,
+      responseEnd: 863,
+      transferSize: 30971,
+      encodedBodySize: 29077,
+      decodedBodySize: 93227,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1689,
+      domContentLoadedEventStart: 1770,
+      domContentLoadedEventEnd: 1864,
+      domComplete: 11373,
+      loadEventStart: 11374,
+      loadEventEnd: 11390,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/customizable-gift-site#toolbarListInactiveItems was 11.533 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/customizable-gift-site#toolbarListInactiveItems',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11551,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 254,
+      secureConnectionStart: 156,
+      requestStart: 254,
+      responseStart: 500,
+      responseEnd: 539,
+      transferSize: 30976,
+      encodedBodySize: 29083,
+      decodedBodySize: 93227,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1372,
+      domContentLoadedEventStart: 1449,
+      domContentLoadedEventEnd: 1550,
+      domComplete: 11520,
+      loadEventStart: 11521,
+      loadEventEnd: 11551,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnacontents/en-us/content/customizable-gift-site# was 11.029 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnacontents/en-us/content/customizable-gift-site#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 10999,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 114,
+      connectStart: 114,
+      connectEnd: 245,
+      secureConnectionStart: 150,
+      requestStart: 246,
+      responseStart: 480,
+      responseEnd: 517,
+      transferSize: 30972,
+      encodedBodySize: 29079,
+      decodedBodySize: 93227,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1319,
+      domContentLoadedEventStart: 1405,
+      domContentLoadedEventEnd: 1490,
+      domComplete: 10977,
+      loadEventStart: 10978,
+      loadEventEnd: 10999,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnatools/en-us/pages/mylists.aspx was 4.348 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pages/signin.aspx?returnurl=%2fpcnatools%2f_layouts%2f15%2fauthenticate.aspx%3fsource%3d%252fpcnatools%252fen%252dus%252fpages%252fmylists%252easpx&source=%2fpcnatools%2fen%2dus%2fpages%2fmylists%2easpx',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4343,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 1002,
+      fetchStart: 1002,
+      domainLookupStart: 1002,
+      domainLookupEnd: 1002,
+      connectStart: 1002,
+      connectEnd: 1002,
+      secureConnectionStart: 1002,
+      requestStart: 1006,
+      responseStart: 1295,
+      responseEnd: 1333,
+      transferSize: 28404,
+      encodedBodySize: 27552,
+      decodedBodySize: 87895,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3107,
+      domContentLoadedEventStart: 3175,
+      domContentLoadedEventEnd: 3261,
+      domComplete: 4329,
+      loadEventStart: 4330,
+      loadEventEnd: 4343,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/signin.aspx?returnurl=%2fpages%2fsignin.aspx%3freturnurl%3d%252fpcnatools%252f_layouts%252f15%252fauthenticate.aspx%253fsource%253d%25252fpcnatools%25252fen%25252dus%25252fpages%25252fmylists%25252easpx%26source%3d%252fpcnatools%252fen%252dus%252fpages%252fmylists%252easpx#toolbarListInactiveItems was 3.562 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/signin.aspx?returnurl=%2fpages%2fsignin.aspx%3freturnurl%3d%252fpcnatools%252f_layouts%252f15%252fauthenticate.aspx%253fsource%253d%25252fpcnatools%25252fen%25252dus%25252fpages%25252fmylists%25252easpx%26source%3d%252fpcnatools%252fen%252dus%252fpages%252fmylists%252easpx#toolbarListInactiveItems',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3562,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 117,
+      domainLookupEnd: 118,
+      connectStart: 118,
+      connectEnd: 251,
+      secureConnectionStart: 154,
+      requestStart: 252,
+      responseStart: 568,
+      responseEnd: 607,
+      transferSize: 29728,
+      encodedBodySize: 27770,
+      decodedBodySize: 88414,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2410,
+      domContentLoadedEventStart: 2489,
+      domContentLoadedEventEnd: 2581,
+      domComplete: 3552,
+      loadEventStart: 3553,
+      loadEventEnd: 3562,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnatools/en-us/pages/createnewlist.aspx?sourcelistid={12026c0c-09a9-4d1d-b788-bd3c72ae489a}# was 3.057 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnatools/en-us/pages/createnewlist.aspx?sourcelistid={12026c0c-09a9-4d1d-b788-bd3c72ae489a}#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3062,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 110,
+      domainLookupEnd: 110,
+      connectStart: 110,
+      connectEnd: 241,
+      secureConnectionStart: 147,
+      requestStart: 242,
+      responseStart: 376,
+      responseEnd: 412,
+      transferSize: 15338,
+      encodedBodySize: 13446,
+      decodedBodySize: 35822,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2133,
+      domContentLoadedEventStart: 2144,
+      domContentLoadedEventEnd: 2162,
+      domComplete: 3039,
+      loadEventStart: 3039,
+      loadEventEnd: 3062,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/ecatalogs.aspx?brnd=pcna was 3.246 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/ecatalogs.aspx?brnd=pcna',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3258,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 144,
+      domainLookupEnd: 144,
+      connectStart: 144,
+      connectEnd: 279,
+      secureConnectionStart: 181,
+      requestStart: 279,
+      responseStart: 1219,
+      responseEnd: 1257,
+      transferSize: 30333,
+      encodedBodySize: 28440,
+      decodedBodySize: 96747,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2082,
+      domContentLoadedEventStart: 2155,
+      domContentLoadedEventEnd: 2279,
+      domComplete: 3228,
+      loadEventStart: 3236,
+      loadEventEnd: 3258,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/ecatalogs.aspx?brnd=pcna#mm-2 was 3.702 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/ecatalogs.aspx?brnd=pcna#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3722,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 56,
+      domainLookupEnd: 56,
+      connectStart: 56,
+      connectEnd: 187,
+      secureConnectionStart: 92,
+      requestStart: 187,
+      responseStart: 500,
+      responseEnd: 539,
+      transferSize: 30333,
+      encodedBodySize: 28440,
+      decodedBodySize: 96747,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2358,
+      domContentLoadedEventStart: 2449,
+      domContentLoadedEventEnd: 2584,
+      domComplete: 3688,
+      loadEventStart: 3700,
+      loadEventEnd: 3722,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/ecatalogs.aspx?brnd=pcna#mm-0 was 3.156 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/ecatalogs.aspx?brnd=pcna#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3176,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 63,
+      domainLookupEnd: 63,
+      connectStart: 63,
+      connectEnd: 199,
+      secureConnectionStart: 99,
+      requestStart: 199,
+      responseStart: 477,
+      responseEnd: 514,
+      transferSize: 30335,
+      encodedBodySize: 28442,
+      decodedBodySize: 96747,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1308,
+      domContentLoadedEventStart: 1384,
+      domContentLoadedEventEnd: 1512,
+      domComplete: 3143,
+      loadEventStart: 3144,
+      loadEventEnd: 3176,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx was 11.709 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11676,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 125,
+      domainLookupEnd: 126,
+      connectStart: 126,
+      connectEnd: 264,
+      secureConnectionStart: 163,
+      requestStart: 264,
+      responseStart: 522,
+      responseEnd: 560,
+      transferSize: 31974,
+      encodedBodySize: 30081,
+      decodedBodySize: 100935,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1379,
+      domContentLoadedEventStart: 1463,
+      domContentLoadedEventEnd: 1566,
+      domComplete: 11651,
+      loadEventStart: 11653,
+      loadEventEnd: 11676,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx# was 11.735 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11708,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 115,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 246,
+      secureConnectionStart: 151,
+      requestStart: 247,
+      responseStart: 501,
+      responseEnd: 540,
+      transferSize: 31972,
+      encodedBodySize: 30079,
+      decodedBodySize: 100935,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1374,
+      domContentLoadedEventStart: 1458,
+      domContentLoadedEventEnd: 1566,
+      domComplete: 11691,
+      loadEventStart: 11691,
+      loadEventEnd: 11708,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#mm-1 was 12.034 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11997,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 254,
+      secureConnectionStart: 151,
+      requestStart: 255,
+      responseStart: 574,
+      responseEnd: 612,
+      transferSize: 31971,
+      encodedBodySize: 30078,
+      decodedBodySize: 100935,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1488,
+      domContentLoadedEventStart: 1575,
+      domContentLoadedEventEnd: 1703,
+      domComplete: 11976,
+      loadEventStart: 11977,
+      loadEventEnd: 11997,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#mm-2 was 11.711 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11717,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 107,
+      domainLookupEnd: 107,
+      connectStart: 107,
+      connectEnd: 249,
+      secureConnectionStart: 144,
+      requestStart: 250,
+      responseStart: 504,
+      responseEnd: 504,
+      transferSize: 31972,
+      encodedBodySize: 30079,
+      decodedBodySize: 100935,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1395,
+      domContentLoadedEventStart: 1472,
+      domContentLoadedEventEnd: 1584,
+      domComplete: 11696,
+      loadEventStart: 11697,
+      loadEventEnd: 11717,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#mm-0 was 11.721 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/customizable-gift-site.aspx#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11738,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 271,
+      secureConnectionStart: 171,
+      requestStart: 271,
+      responseStart: 522,
+      responseEnd: 562,
+      transferSize: 31971,
+      encodedBodySize: 30078,
+      decodedBodySize: 100935,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1416,
+      domContentLoadedEventStart: 1508,
+      domContentLoadedEventEnd: 1612,
+      domComplete: 11705,
+      loadEventStart: 11708,
+      loadEventEnd: 11738,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/build-your-own-flyers.aspx# was 3.177 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/build-your-own-flyers.aspx#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3180,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 68,
+      domainLookupEnd: 68,
+      connectStart: 68,
+      connectEnd: 200,
+      secureConnectionStart: 104,
+      requestStart: 200,
+      responseStart: 459,
+      responseEnd: 498,
+      transferSize: 31258,
+      encodedBodySize: 29365,
+      decodedBodySize: 98860,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1527,
+      domContentLoadedEventStart: 1635,
+      domContentLoadedEventEnd: 1756,
+      domComplete: 3172,
+      loadEventStart: 3173,
+      loadEventEnd: 3180,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/build-your-own-flyers.aspx#mm-1 was 3.092 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/build-your-own-flyers.aspx#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3088,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 73,
+      domainLookupEnd: 73,
+      connectStart: 73,
+      connectEnd: 210,
+      secureConnectionStart: 110,
+      requestStart: 210,
+      responseStart: 481,
+      responseEnd: 521,
+      transferSize: 31257,
+      encodedBodySize: 29364,
+      decodedBodySize: 98860,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1347,
+      domContentLoadedEventStart: 1439,
+      domContentLoadedEventEnd: 1549,
+      domComplete: 3078,
+      loadEventStart: 3078,
+      loadEventEnd: 3088,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/build-your-own-flyers.aspx#mm-0 was 3.371 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/build-your-own-flyers.aspx#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3381,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 149,
+      domainLookupEnd: 149,
+      connectStart: 149,
+      connectEnd: 290,
+      secureConnectionStart: 186,
+      requestStart: 290,
+      responseStart: 605,
+      responseEnd: 644,
+      transferSize: 31257,
+      encodedBodySize: 29364,
+      decodedBodySize: 98860,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1477,
+      domContentLoadedEventStart: 1564,
+      domContentLoadedEventEnd: 1684,
+      domComplete: 3364,
+      loadEventStart: 3366,
+      loadEventEnd: 3381,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna was 8.086 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 9863,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 56,
+      domainLookupEnd: 56,
+      connectStart: 56,
+      connectEnd: 188,
+      secureConnectionStart: 93,
+      requestStart: 188,
+      responseStart: 1339,
+      responseEnd: 1378,
+      transferSize: 34663,
+      encodedBodySize: 32769,
+      decodedBodySize: 139562,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3187,
+      domContentLoadedEventStart: 3337,
+      domContentLoadedEventEnd: 5241,
+      domComplete: 8081,
+      loadEventStart: 8090,
+      loadEventEnd: 9863,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna# was 6.378 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 8054,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 244,
+      secureConnectionStart: 149,
+      requestStart: 244,
+      responseStart: 623,
+      responseEnd: 662,
+      transferSize: 34663,
+      encodedBodySize: 32770,
+      decodedBodySize: 139562,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1478,
+      domContentLoadedEventStart: 1642,
+      domContentLoadedEventEnd: 3514,
+      domComplete: 6372,
+      loadEventStart: 6373,
+      loadEventEnd: 8054,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#mm-1 was 4.728 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6444,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 48,
+      domainLookupEnd: 48,
+      connectStart: 48,
+      connectEnd: 179,
+      secureConnectionStart: 85,
+      requestStart: 180,
+      responseStart: 563,
+      responseEnd: 602,
+      transferSize: 34665,
+      encodedBodySize: 32772,
+      decodedBodySize: 139562,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1374,
+      domContentLoadedEventStart: 1496,
+      domContentLoadedEventEnd: 3376,
+      domComplete: 4717,
+      loadEventStart: 4718,
+      loadEventEnd: 6444,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#mm-2 was 6.457 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 8219,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 92,
+      domainLookupEnd: 92,
+      connectStart: 92,
+      connectEnd: 223,
+      secureConnectionStart: 129,
+      requestStart: 223,
+      responseStart: 662,
+      responseEnd: 702,
+      transferSize: 34662,
+      encodedBodySize: 32769,
+      decodedBodySize: 139562,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1532,
+      domContentLoadedEventStart: 1642,
+      domContentLoadedEventEnd: 3536,
+      domComplete: 6449,
+      loadEventStart: 6450,
+      loadEventEnd: 8219,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#mm-0 was 7.373 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/salesflyers.aspx?brnd=pcna#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 9191,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 114,
+      connectStart: 114,
+      connectEnd: 249,
+      secureConnectionStart: 151,
+      requestStart: 249,
+      responseStart: 644,
+      responseEnd: 683,
+      transferSize: 34661,
+      encodedBodySize: 32768,
+      decodedBodySize: 139562,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2531,
+      domContentLoadedEventStart: 2663,
+      domContentLoadedEventEnd: 4521,
+      domComplete: 7364,
+      loadEventStart: 7375,
+      loadEventEnd: 9191,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx was 13.243 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 13219,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 123,
+      domainLookupEnd: 123,
+      connectStart: 123,
+      connectEnd: 275,
+      secureConnectionStart: 164,
+      requestStart: 275,
+      responseStart: 577,
+      responseEnd: 616,
+      transferSize: 30688,
+      encodedBodySize: 28795,
+      decodedBodySize: 96639,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2497,
+      domContentLoadedEventStart: 2504,
+      domContentLoadedEventEnd: 2611,
+      domComplete: 13200,
+      loadEventStart: 13200,
+      loadEventEnd: 13219,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx# was 11.891 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 11870,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 97,
+      domainLookupEnd: 97,
+      connectStart: 97,
+      connectEnd: 233,
+      secureConnectionStart: 133,
+      requestStart: 233,
+      responseStart: 487,
+      responseEnd: 526,
+      transferSize: 30681,
+      encodedBodySize: 28788,
+      decodedBodySize: 96639,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1418,
+      domContentLoadedEventStart: 1432,
+      domContentLoadedEventEnd: 1544,
+      domComplete: 11850,
+      loadEventStart: 11851,
+      loadEventEnd: 11870,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#mm-1 was 12.904 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 12907,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 98,
+      domainLookupEnd: 98,
+      connectStart: 98,
+      connectEnd: 239,
+      secureConnectionStart: 136,
+      requestStart: 239,
+      responseStart: 493,
+      responseEnd: 532,
+      transferSize: 30681,
+      encodedBodySize: 28788,
+      decodedBodySize: 96639,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1474,
+      domContentLoadedEventStart: 1504,
+      domContentLoadedEventEnd: 1622,
+      domComplete: 12878,
+      loadEventStart: 12881,
+      loadEventEnd: 12907,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#mm-2 was 13.366 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 13338,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 140,
+      domainLookupEnd: 140,
+      connectStart: 140,
+      connectEnd: 270,
+      secureConnectionStart: 177,
+      requestStart: 271,
+      responseStart: 533,
+      responseEnd: 572,
+      transferSize: 30684,
+      encodedBodySize: 28791,
+      decodedBodySize: 96639,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2509,
+      domContentLoadedEventStart: 2533,
+      domContentLoadedEventEnd: 2638,
+      domComplete: 13317,
+      loadEventStart: 13319,
+      loadEventEnd: 13338,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#mm-0 was 12.408 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/pcnaportal/en-us/pages/videos.aspx#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 12354,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 117,
+      domainLookupEnd: 117,
+      connectStart: 117,
+      connectEnd: 247,
+      secureConnectionStart: 153,
+      requestStart: 247,
+      responseStart: 510,
+      responseEnd: 549,
+      transferSize: 30682,
+      encodedBodySize: 28789,
+      decodedBodySize: 96639,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1500,
+      domContentLoadedEventStart: 1537,
+      domContentLoadedEventEnd: 1659,
+      domComplete: 12328,
+      loadEventStart: 12331,
+      loadEventEnd: 12354,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/ was 3.686 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3715,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 458,
+      fetchStart: 458,
+      domainLookupStart: 458,
+      domainLookupEnd: 458,
+      connectStart: 458,
+      connectEnd: 458,
+      secureConnectionStart: 458,
+      requestStart: 462,
+      responseStart: 938,
+      responseEnd: 938,
+      transferSize: 45000,
+      encodedBodySize: 44148,
+      decodedBodySize: 204706,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2018,
+      domContentLoadedEventStart: 2095,
+      domContentLoadedEventEnd: 2359,
+      domComplete: 3679,
+      loadEventStart: 3699,
+      loadEventEnd: 3715,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us#mm-11 was 4.326 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us#mm-11',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4329,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 235,
+      secureConnectionStart: 137,
+      requestStart: 236,
+      responseStart: 711,
+      responseEnd: 711,
+      transferSize: 46100,
+      encodedBodySize: 44142,
+      decodedBodySize: 204706,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2775,
+      domContentLoadedEventStart: 2843,
+      domContentLoadedEventEnd: 3127,
+      domComplete: 4318,
+      loadEventStart: 4318,
+      loadEventEnd: 4329,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us#mm-20 was 4.153 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4167,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 101,
+      connectEnd: 247,
+      secureConnectionStart: 138,
+      requestStart: 247,
+      responseStart: 675,
+      responseEnd: 675,
+      transferSize: 46104,
+      encodedBodySize: 44146,
+      decodedBodySize: 204706,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1885,
+      domContentLoadedEventStart: 1984,
+      domContentLoadedEventEnd: 2297,
+      domComplete: 4138,
+      loadEventStart: 4153,
+      loadEventEnd: 4167,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us#mm-21 was 3.775 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us#mm-21',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3801,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 140,
+      domainLookupEnd: 140,
+      connectStart: 140,
+      connectEnd: 280,
+      secureConnectionStart: 178,
+      requestStart: 281,
+      responseStart: 761,
+      responseEnd: 761,
+      transferSize: 46103,
+      encodedBodySize: 44145,
+      decodedBodySize: 204706,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1894,
+      domContentLoadedEventStart: 1997,
+      domContentLoadedEventEnd: 2281,
+      domComplete: 3764,
+      loadEventStart: 3781,
+      loadEventEnd: 3801,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx was 4.058 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4062,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 107,
+      domainLookupEnd: 107,
+      connectStart: 107,
+      connectEnd: 247,
+      secureConnectionStart: 143,
+      requestStart: 247,
+      responseStart: 890,
+      responseEnd: 890,
+      transferSize: 46652,
+      encodedBodySize: 44695,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1829,
+      domContentLoadedEventStart: 1834,
+      domContentLoadedEventEnd: 2155,
+      domComplete: 4044,
+      loadEventStart: 4046,
+      loadEventEnd: 4062,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-1 was 5.07 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5090,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 125,
+      domainLookupEnd: 125,
+      connectStart: 125,
+      connectEnd: 260,
+      secureConnectionStart: 161,
+      requestStart: 261,
+      responseStart: 681,
+      responseEnd: 681,
+      transferSize: 46655,
+      encodedBodySize: 44698,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1660,
+      domContentLoadedEventStart: 1781,
+      domContentLoadedEventEnd: 2047,
+      domComplete: 5058,
+      loadEventStart: 5061,
+      loadEventEnd: 5090,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-10 was 3.175 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3186,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 101,
+      domainLookupEnd: 101,
+      connectStart: 101,
+      connectEnd: 242,
+      secureConnectionStart: 140,
+      requestStart: 243,
+      responseStart: 670,
+      responseEnd: 670,
+      transferSize: 46653,
+      encodedBodySize: 44696,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1625,
+      domContentLoadedEventStart: 1631,
+      domContentLoadedEventEnd: 1915,
+      domComplete: 3168,
+      loadEventStart: 3169,
+      loadEventEnd: 3186,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-19 was 3.239 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3231,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 235,
+      secureConnectionStart: 138,
+      requestStart: 235,
+      responseStart: 659,
+      responseEnd: 659,
+      transferSize: 46653,
+      encodedBodySize: 44696,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1530,
+      domContentLoadedEventStart: 1535,
+      domContentLoadedEventEnd: 1832,
+      domComplete: 3211,
+      loadEventStart: 3216,
+      loadEventEnd: 3231,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-20 was 3.514 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3543,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 73,
+      domainLookupEnd: 73,
+      connectStart: 73,
+      connectEnd: 210,
+      secureConnectionStart: 109,
+      requestStart: 211,
+      responseStart: 682,
+      responseEnd: 682,
+      transferSize: 46659,
+      encodedBodySize: 44702,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1645,
+      domContentLoadedEventStart: 1651,
+      domContentLoadedEventEnd: 1961,
+      domComplete: 3509,
+      loadEventStart: 3510,
+      loadEventEnd: 3543,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-0 was 3.044 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3065,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 142,
+      domainLookupEnd: 142,
+      connectStart: 142,
+      connectEnd: 275,
+      secureConnectionStart: 180,
+      requestStart: 275,
+      responseStart: 697,
+      responseEnd: 697,
+      transferSize: 46649,
+      encodedBodySize: 44692,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1554,
+      domContentLoadedEventStart: 1560,
+      domContentLoadedEventEnd: 1836,
+      domComplete: 3036,
+      loadEventStart: 3037,
+      loadEventEnd: 3065,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-2 was 3.282 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3282,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 129,
+      domainLookupEnd: 129,
+      connectStart: 129,
+      connectEnd: 277,
+      secureConnectionStart: 168,
+      requestStart: 278,
+      responseStart: 705,
+      responseEnd: 705,
+      transferSize: 46659,
+      encodedBodySize: 44702,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1674,
+      domContentLoadedEventStart: 1738,
+      domContentLoadedEventEnd: 1996,
+      domComplete: 3271,
+      loadEventStart: 3272,
+      loadEventEnd: 3282,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-3 was 3.191 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3203,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 264,
+      secureConnectionStart: 159,
+      requestStart: 264,
+      responseStart: 679,
+      responseEnd: 679,
+      transferSize: 46654,
+      encodedBodySize: 44697,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1638,
+      domContentLoadedEventStart: 1646,
+      domContentLoadedEventEnd: 1977,
+      domComplete: 3175,
+      loadEventStart: 3176,
+      loadEventEnd: 3203,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-4 was 3.849 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3866,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 95,
+      domainLookupEnd: 95,
+      connectStart: 95,
+      connectEnd: 232,
+      secureConnectionStart: 134,
+      requestStart: 232,
+      responseStart: 657,
+      responseEnd: 657,
+      transferSize: 46655,
+      encodedBodySize: 44698,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1617,
+      domContentLoadedEventStart: 1624,
+      domContentLoadedEventEnd: 1928,
+      domComplete: 3837,
+      loadEventStart: 3838,
+      loadEventEnd: 3866,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-5 was 3.234 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3249,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 139,
+      domainLookupEnd: 139,
+      connectStart: 139,
+      connectEnd: 290,
+      secureConnectionStart: 176,
+      requestStart: 290,
+      responseStart: 729,
+      responseEnd: 729,
+      transferSize: 46656,
+      encodedBodySize: 44699,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1651,
+      domContentLoadedEventStart: 1658,
+      domContentLoadedEventEnd: 1959,
+      domComplete: 3221,
+      loadEventStart: 3235,
+      loadEventEnd: 3249,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-6 was 3.371 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3382,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 126,
+      domainLookupEnd: 126,
+      connectStart: 126,
+      connectEnd: 268,
+      secureConnectionStart: 166,
+      requestStart: 268,
+      responseStart: 964,
+      responseEnd: 964,
+      transferSize: 46655,
+      encodedBodySize: 44698,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1882,
+      domContentLoadedEventStart: 1953,
+      domContentLoadedEventEnd: 2217,
+      domComplete: 3350,
+      loadEventStart: 3370,
+      loadEventEnd: 3382,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-7 was 3.234 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3250,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 125,
+      domainLookupEnd: 125,
+      connectStart: 125,
+      connectEnd: 265,
+      secureConnectionStart: 164,
+      requestStart: 265,
+      responseStart: 685,
+      responseEnd: 685,
+      transferSize: 46653,
+      encodedBodySize: 44696,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1650,
+      domContentLoadedEventStart: 1722,
+      domContentLoadedEventEnd: 2000,
+      domComplete: 3227,
+      loadEventStart: 3228,
+      loadEventEnd: 3250,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-8 was 3.227 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3239,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 118,
+      domainLookupEnd: 118,
+      connectStart: 118,
+      connectEnd: 253,
+      secureConnectionStart: 155,
+      requestStart: 253,
+      responseStart: 717,
+      responseEnd: 717,
+      transferSize: 46654,
+      encodedBodySize: 44697,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1672,
+      domContentLoadedEventStart: 1745,
+      domContentLoadedEventEnd: 2016,
+      domComplete: 3216,
+      loadEventStart: 3216,
+      loadEventEnd: 3239,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/pages/worldsource.aspx#mm-9 was 3.176 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/pages/worldsource.aspx#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3198,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 91,
+      domainLookupEnd: 91,
+      connectStart: 91,
+      connectEnd: 228,
+      secureConnectionStart: 130,
+      requestStart: 229,
+      responseStart: 679,
+      responseEnd: 679,
+      transferSize: 46656,
+      encodedBodySize: 44699,
+      decodedBodySize: 210365,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1603,
+      domContentLoadedEventStart: 1607,
+      domContentLoadedEventEnd: 1911,
+      domComplete: 3168,
+      loadEventStart: 3185,
+      loadEventEnd: 3198,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2 was 5.219 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5351,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 61,
+      domainLookupEnd: 61,
+      connectStart: 61,
+      connectEnd: 202,
+      secureConnectionStart: 98,
+      requestStart: 202,
+      responseStart: 3468,
+      responseEnd: 3468,
+      transferSize: 75860,
+      encodedBodySize: 73939,
+      decodedBodySize: 428082,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4371,
+      domContentLoadedEventStart: 4461,
+      domContentLoadedEventEnd: 4832,
+      domComplete: 5207,
+      loadEventStart: 5207,
+      loadEventEnd: 5351,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-1 was 3.656 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3828,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 121,
+      domainLookupEnd: 121,
+      connectStart: 121,
+      connectEnd: 253,
+      secureConnectionStart: 158,
+      requestStart: 254,
+      responseStart: 948,
+      responseEnd: 948,
+      transferSize: 75864,
+      encodedBodySize: 73944,
+      decodedBodySize: 428082,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1846,
+      domContentLoadedEventStart: 1922,
+      domContentLoadedEventEnd: 2236,
+      domComplete: 3648,
+      loadEventStart: 3648,
+      loadEventEnd: 3828,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-19 was 3.585 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3762,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 111,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 251,
+      secureConnectionStart: 148,
+      requestStart: 251,
+      responseStart: 945,
+      responseEnd: 945,
+      transferSize: 75874,
+      encodedBodySize: 73954,
+      decodedBodySize: 428082,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1908,
+      domContentLoadedEventStart: 1992,
+      domContentLoadedEventEnd: 2341,
+      domComplete: 3573,
+      loadEventStart: 3575,
+      loadEventEnd: 3762,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-5 was 2.884 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3023,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 137,
+      domainLookupEnd: 137,
+      connectStart: 137,
+      connectEnd: 278,
+      secureConnectionStart: 178,
+      requestStart: 278,
+      responseStart: 989,
+      responseEnd: 989,
+      transferSize: 75870,
+      encodedBodySize: 73950,
+      decodedBodySize: 428082,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2064,
+      domContentLoadedEventStart: 2180,
+      domContentLoadedEventEnd: 2526,
+      domComplete: 2867,
+      loadEventStart: 2867,
+      loadEventEnd: 3023,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-9 was 3.443 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/sub-department/shop-all/bags?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3598,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 108,
+      domainLookupEnd: 108,
+      connectStart: 108,
+      connectEnd: 243,
+      secureConnectionStart: 147,
+      requestStart: 244,
+      responseStart: 945,
+      responseEnd: 945,
+      transferSize: 75873,
+      encodedBodySize: 73953,
+      decodedBodySize: 428082,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1831,
+      domContentLoadedEventStart: 1903,
+      domContentLoadedEventEnd: 2223,
+      domComplete: 3427,
+      loadEventStart: 3429,
+      loadEventEnd: 3598,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2 was 4.54 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4679,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 253,
+      secureConnectionStart: 151,
+      requestStart: 253,
+      responseStart: 2854,
+      responseEnd: 2854,
+      transferSize: 71397,
+      encodedBodySize: 69477,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3805,
+      domContentLoadedEventStart: 3876,
+      domContentLoadedEventEnd: 4214,
+      domComplete: 4530,
+      loadEventStart: 4530,
+      loadEventEnd: 4679,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-1 was 4.198 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4336,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 151,
+      domainLookupEnd: 151,
+      connectStart: 151,
+      connectEnd: 287,
+      secureConnectionStart: 190,
+      requestStart: 288,
+      responseStart: 2537,
+      responseEnd: 2537,
+      transferSize: 71409,
+      encodedBodySize: 69489,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3461,
+      domContentLoadedEventStart: 3549,
+      domContentLoadedEventEnd: 3852,
+      domComplete: 4184,
+      loadEventStart: 4184,
+      loadEventEnd: 4336,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-10 was 5.213 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5393,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 71,
+      domainLookupEnd: 71,
+      connectStart: 71,
+      connectEnd: 202,
+      secureConnectionStart: 107,
+      requestStart: 202,
+      responseStart: 2143,
+      responseEnd: 2143,
+      transferSize: 71397,
+      encodedBodySize: 69477,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3239,
+      domContentLoadedEventStart: 3343,
+      domContentLoadedEventEnd: 3688,
+      domComplete: 5197,
+      loadEventStart: 5200,
+      loadEventEnd: 5393,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-19 was 3.583 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3728,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 105,
+      domainLookupEnd: 105,
+      connectStart: 105,
+      connectEnd: 237,
+      secureConnectionStart: 142,
+      requestStart: 237,
+      responseStart: 1956,
+      responseEnd: 1956,
+      transferSize: 71384,
+      encodedBodySize: 69464,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2833,
+      domContentLoadedEventStart: 2910,
+      domContentLoadedEventEnd: 3228,
+      domComplete: 3575,
+      loadEventStart: 3575,
+      loadEventEnd: 3728,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-20 was 4.905 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5066,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 67,
+      domainLookupEnd: 67,
+      connectStart: 67,
+      connectEnd: 209,
+      secureConnectionStart: 105,
+      requestStart: 209,
+      responseStart: 2066,
+      responseEnd: 2066,
+      transferSize: 71402,
+      encodedBodySize: 69482,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3052,
+      domContentLoadedEventStart: 3128,
+      domContentLoadedEventEnd: 3472,
+      domComplete: 4898,
+      loadEventStart: 4899,
+      loadEventEnd: 5066,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-0 was 5.071 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5259,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 123,
+      domainLookupEnd: 123,
+      connectStart: 123,
+      connectEnd: 267,
+      secureConnectionStart: 160,
+      requestStart: 267,
+      responseStart: 2128,
+      responseEnd: 2128,
+      transferSize: 71416,
+      encodedBodySize: 69496,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3087,
+      domContentLoadedEventStart: 3181,
+      domContentLoadedEventEnd: 3498,
+      domComplete: 5046,
+      loadEventStart: 5064,
+      loadEventEnd: 5259,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-2 was 3.791 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3929,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 109,
+      domainLookupEnd: 110,
+      connectStart: 110,
+      connectEnd: 243,
+      secureConnectionStart: 146,
+      requestStart: 244,
+      responseStart: 2016,
+      responseEnd: 2016,
+      transferSize: 71415,
+      encodedBodySize: 69495,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2996,
+      domContentLoadedEventStart: 3098,
+      domContentLoadedEventEnd: 3422,
+      domComplete: 3783,
+      loadEventStart: 3783,
+      loadEventEnd: 3929,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-3 was 4.773 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4943,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 115,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 247,
+      secureConnectionStart: 153,
+      requestStart: 247,
+      responseStart: 2002,
+      responseEnd: 2002,
+      transferSize: 71398,
+      encodedBodySize: 69478,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2983,
+      domContentLoadedEventStart: 3055,
+      domContentLoadedEventEnd: 3374,
+      domComplete: 4765,
+      loadEventStart: 4767,
+      loadEventEnd: 4943,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-4 was 4.117 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4251,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 65,
+      domainLookupEnd: 113,
+      connectStart: 113,
+      connectEnd: 259,
+      secureConnectionStart: 151,
+      requestStart: 259,
+      responseStart: 2295,
+      responseEnd: 2295,
+      transferSize: 71418,
+      encodedBodySize: 69498,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3275,
+      domContentLoadedEventStart: 3356,
+      domContentLoadedEventEnd: 3766,
+      domComplete: 4103,
+      loadEventStart: 4103,
+      loadEventEnd: 4251,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-5 was 3.667 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3809,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 64,
+      domainLookupEnd: 64,
+      connectStart: 64,
+      connectEnd: 206,
+      secureConnectionStart: 100,
+      requestStart: 206,
+      responseStart: 1932,
+      responseEnd: 1932,
+      transferSize: 71422,
+      encodedBodySize: 69502,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2877,
+      domContentLoadedEventStart: 2987,
+      domContentLoadedEventEnd: 3319,
+      domComplete: 3653,
+      loadEventStart: 3655,
+      loadEventEnd: 3809,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-6 was 4.843 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5016,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 123,
+      domainLookupEnd: 123,
+      connectStart: 123,
+      connectEnd: 257,
+      secureConnectionStart: 161,
+      requestStart: 257,
+      responseStart: 2089,
+      responseEnd: 2089,
+      transferSize: 71427,
+      encodedBodySize: 69507,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3033,
+      domContentLoadedEventStart: 3129,
+      domContentLoadedEventEnd: 3457,
+      domComplete: 4833,
+      loadEventStart: 4833,
+      loadEventEnd: 5016,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-7 was 4.606 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4781,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 140,
+      domainLookupEnd: 140,
+      connectStart: 140,
+      connectEnd: 277,
+      secureConnectionStart: 176,
+      requestStart: 277,
+      responseStart: 2000,
+      responseEnd: 2000,
+      transferSize: 71378,
+      encodedBodySize: 69458,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2979,
+      domContentLoadedEventStart: 3051,
+      domContentLoadedEventEnd: 3373,
+      domComplete: 4583,
+      loadEventStart: 4601,
+      loadEventEnd: 4781,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-8 was 4.916 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5043,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 242,
+      secureConnectionStart: 137,
+      requestStart: 243,
+      responseStart: 2153,
+      responseEnd: 2153,
+      transferSize: 71415,
+      encodedBodySize: 69495,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4110,
+      domContentLoadedEventStart: 4173,
+      domContentLoadedEventEnd: 4519,
+      domComplete: 4879,
+      loadEventStart: 4879,
+      loadEventEnd: 5043,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-9 was 4.83 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/backpacks?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5002,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 249,
+      secureConnectionStart: 149,
+      requestStart: 249,
+      responseStart: 2153,
+      responseEnd: 2153,
+      transferSize: 71406,
+      encodedBodySize: 69486,
+      decodedBodySize: 402138,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3104,
+      domContentLoadedEventStart: 3202,
+      domContentLoadedEventEnd: 3521,
+      domComplete: 4820,
+      loadEventStart: 4821,
+      loadEventEnd: 5002,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2 was 4.244 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4376,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 63,
+      domainLookupEnd: 63,
+      connectStart: 63,
+      connectEnd: 208,
+      secureConnectionStart: 103,
+      requestStart: 209,
+      responseStart: 2574,
+      responseEnd: 2574,
+      transferSize: 72470,
+      encodedBodySize: 70550,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3503,
+      domContentLoadedEventStart: 3588,
+      domContentLoadedEventEnd: 3918,
+      domComplete: 4230,
+      loadEventStart: 4230,
+      loadEventEnd: 4376,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-1 was 3.867 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3998,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 96,
+      domainLookupEnd: 96,
+      connectStart: 96,
+      connectEnd: 230,
+      secureConnectionStart: 133,
+      requestStart: 230,
+      responseStart: 2162,
+      responseEnd: 2162,
+      transferSize: 72479,
+      encodedBodySize: 70559,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3139,
+      domContentLoadedEventStart: 3204,
+      domContentLoadedEventEnd: 3516,
+      domComplete: 3834,
+      loadEventStart: 3835,
+      loadEventEnd: 3998,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-10 was 5.978 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6150,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 102,
+      domainLookupEnd: 102,
+      connectStart: 103,
+      connectEnd: 234,
+      secureConnectionStart: 139,
+      requestStart: 235,
+      responseStart: 2396,
+      responseEnd: 2396,
+      transferSize: 72497,
+      encodedBodySize: 70577,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4356,
+      domContentLoadedEventStart: 4462,
+      domContentLoadedEventEnd: 4785,
+      domComplete: 5954,
+      loadEventStart: 5954,
+      loadEventEnd: 6150,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-19 was 3.795 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3908,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 102,
+      domainLookupEnd: 102,
+      connectStart: 102,
+      connectEnd: 233,
+      secureConnectionStart: 139,
+      requestStart: 234,
+      responseStart: 2063,
+      responseEnd: 2063,
+      transferSize: 72493,
+      encodedBodySize: 70573,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3015,
+      domContentLoadedEventStart: 3110,
+      domContentLoadedEventEnd: 3445,
+      domComplete: 3764,
+      loadEventStart: 3764,
+      loadEventEnd: 3908,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-20 was 3.837 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3952,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 106,
+      connectEnd: 238,
+      secureConnectionStart: 142,
+      requestStart: 239,
+      responseStart: 2112,
+      responseEnd: 2112,
+      transferSize: 72494,
+      encodedBodySize: 70574,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3071,
+      domContentLoadedEventStart: 3167,
+      domContentLoadedEventEnd: 3484,
+      domComplete: 3808,
+      loadEventStart: 3808,
+      loadEventEnd: 3952,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-0 was 4.731 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4872,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 118,
+      domainLookupEnd: 118,
+      connectStart: 118,
+      connectEnd: 262,
+      secureConnectionStart: 155,
+      requestStart: 262,
+      responseStart: 2055,
+      responseEnd: 2055,
+      transferSize: 72508,
+      encodedBodySize: 70588,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3947,
+      domContentLoadedEventStart: 4039,
+      domContentLoadedEventEnd: 4368,
+      domComplete: 4720,
+      loadEventStart: 4720,
+      loadEventEnd: 4872,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-2 was 3.709 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3837,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 115,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 254,
+      secureConnectionStart: 153,
+      requestStart: 254,
+      responseStart: 2030,
+      responseEnd: 2030,
+      transferSize: 72452,
+      encodedBodySize: 70532,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2979,
+      domContentLoadedEventStart: 3054,
+      domContentLoadedEventEnd: 3369,
+      domComplete: 3697,
+      loadEventStart: 3697,
+      loadEventEnd: 3837,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-3 was 3.689 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3830,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 92,
+      domainLookupEnd: 93,
+      connectStart: 93,
+      connectEnd: 229,
+      secureConnectionStart: 129,
+      requestStart: 229,
+      responseStart: 1967,
+      responseEnd: 1967,
+      transferSize: 72480,
+      encodedBodySize: 70560,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2928,
+      domContentLoadedEventStart: 3012,
+      domContentLoadedEventEnd: 3312,
+      domComplete: 3680,
+      loadEventStart: 3680,
+      loadEventEnd: 3830,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-4 was 4.789 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4956,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 125,
+      domainLookupEnd: 125,
+      connectStart: 125,
+      connectEnd: 268,
+      secureConnectionStart: 162,
+      requestStart: 268,
+      responseStart: 2160,
+      responseEnd: 2160,
+      transferSize: 72505,
+      encodedBodySize: 70585,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3107,
+      domContentLoadedEventStart: 3189,
+      domContentLoadedEventEnd: 3514,
+      domComplete: 4780,
+      loadEventStart: 4783,
+      loadEventEnd: 4956,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-5 was 5.834 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6033,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 250,
+      secureConnectionStart: 156,
+      requestStart: 251,
+      responseStart: 2275,
+      responseEnd: 2275,
+      transferSize: 72502,
+      encodedBodySize: 70582,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3196,
+      domContentLoadedEventStart: 3290,
+      domContentLoadedEventEnd: 3596,
+      domComplete: 5823,
+      loadEventStart: 5824,
+      loadEventEnd: 6033,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-6 was 4.838 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5000,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 137,
+      domainLookupEnd: 137,
+      connectStart: 137,
+      connectEnd: 269,
+      secureConnectionStart: 174,
+      requestStart: 269,
+      responseStart: 2050,
+      responseEnd: 2050,
+      transferSize: 72466,
+      encodedBodySize: 70546,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2963,
+      domContentLoadedEventStart: 3091,
+      domContentLoadedEventEnd: 3407,
+      domComplete: 4821,
+      loadEventStart: 4823,
+      loadEventEnd: 5000,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-7 was 4.899 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5069,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 161,
+      domainLookupEnd: 161,
+      connectStart: 161,
+      connectEnd: 302,
+      secureConnectionStart: 198,
+      requestStart: 302,
+      responseStart: 2181,
+      responseEnd: 2181,
+      transferSize: 72516,
+      encodedBodySize: 70596,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3117,
+      domContentLoadedEventStart: 3215,
+      domContentLoadedEventEnd: 3584,
+      domComplete: 4893,
+      loadEventStart: 4894,
+      loadEventEnd: 5069,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-8 was 4.686 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4831,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 263,
+      secureConnectionStart: 171,
+      requestStart: 265,
+      responseStart: 2180,
+      responseEnd: 2180,
+      transferSize: 72467,
+      encodedBodySize: 70547,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3125,
+      domContentLoadedEventStart: 3230,
+      domContentLoadedEventEnd: 3537,
+      domComplete: 4668,
+      loadEventStart: 4669,
+      loadEventEnd: 4831,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-9 was 5.083 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/totes?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5253,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 92,
+      domainLookupEnd: 92,
+      connectStart: 92,
+      connectEnd: 231,
+      secureConnectionStart: 130,
+      requestStart: 232,
+      responseStart: 2291,
+      responseEnd: 2291,
+      transferSize: 72475,
+      encodedBodySize: 70555,
+      decodedBodySize: 413631,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3276,
+      domContentLoadedEventStart: 3352,
+      domContentLoadedEventEnd: 3679,
+      domComplete: 5075,
+      loadEventStart: 5076,
+      loadEventEnd: 5253,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2 was 4.968 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5119,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 50,
+      domainLookupEnd: 50,
+      connectStart: 50,
+      connectEnd: 181,
+      secureConnectionStart: 86,
+      requestStart: 181,
+      responseStart: 2316,
+      responseEnd: 2316,
+      transferSize: 69878,
+      encodedBodySize: 67959,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3251,
+      domContentLoadedEventStart: 3331,
+      domContentLoadedEventEnd: 3672,
+      domComplete: 4954,
+      loadEventStart: 4955,
+      loadEventEnd: 5119,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-1 was 5.442 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5622,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 115,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 253,
+      secureConnectionStart: 152,
+      requestStart: 254,
+      responseStart: 1801,
+      responseEnd: 1801,
+      transferSize: 69866,
+      encodedBodySize: 67948,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2725,
+      domContentLoadedEventStart: 2788,
+      domContentLoadedEventEnd: 3104,
+      domComplete: 5430,
+      loadEventStart: 5433,
+      loadEventEnd: 5622,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-10 was 4.559 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4719,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 88,
+      domainLookupEnd: 88,
+      connectStart: 88,
+      connectEnd: 221,
+      secureConnectionStart: 124,
+      requestStart: 221,
+      responseStart: 1808,
+      responseEnd: 1808,
+      transferSize: 69864,
+      encodedBodySize: 67946,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2783,
+      domContentLoadedEventStart: 2873,
+      domContentLoadedEventEnd: 3190,
+      domComplete: 4522,
+      loadEventStart: 4537,
+      loadEventEnd: 4719,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-19 was 5.578 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5751,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 108,
+      domainLookupEnd: 108,
+      connectStart: 108,
+      connectEnd: 240,
+      secureConnectionStart: 145,
+      requestStart: 240,
+      responseStart: 1928,
+      responseEnd: 1928,
+      transferSize: 69846,
+      encodedBodySize: 67928,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3889,
+      domContentLoadedEventStart: 3982,
+      domContentLoadedEventEnd: 4315,
+      domComplete: 5568,
+      loadEventStart: 5587,
+      loadEventEnd: 5751,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-20 was 4.952 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5108,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 99,
+      domainLookupEnd: 99,
+      connectStart: 99,
+      connectEnd: 231,
+      secureConnectionStart: 136,
+      requestStart: 232,
+      responseStart: 2170,
+      responseEnd: 2170,
+      transferSize: 69867,
+      encodedBodySize: 67949,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3132,
+      domContentLoadedEventStart: 3250,
+      domContentLoadedEventEnd: 3557,
+      domComplete: 4939,
+      loadEventStart: 4939,
+      loadEventEnd: 5108,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-0 was 4.751 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4904,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 254,
+      secureConnectionStart: 148,
+      requestStart: 254,
+      responseStart: 1892,
+      responseEnd: 1892,
+      transferSize: 69864,
+      encodedBodySize: 67946,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2866,
+      domContentLoadedEventStart: 2946,
+      domContentLoadedEventEnd: 3249,
+      domComplete: 4740,
+      loadEventStart: 4741,
+      loadEventEnd: 4904,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-2 was 4.962 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5097,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 114,
+      connectStart: 114,
+      connectEnd: 255,
+      secureConnectionStart: 151,
+      requestStart: 255,
+      responseStart: 2005,
+      responseEnd: 2005,
+      transferSize: 69870,
+      encodedBodySize: 67952,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2995,
+      domContentLoadedEventStart: 3078,
+      domContentLoadedEventEnd: 3400,
+      domComplete: 4932,
+      loadEventStart: 4933,
+      loadEventEnd: 5097,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-3 was 3.984 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4106,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 130,
+      domainLookupEnd: 130,
+      connectStart: 130,
+      connectEnd: 377,
+      secureConnectionStart: 264,
+      requestStart: 378,
+      responseStart: 2261,
+      responseEnd: 2261,
+      transferSize: 69889,
+      encodedBodySize: 67971,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3223,
+      domContentLoadedEventStart: 3283,
+      domContentLoadedEventEnd: 3592,
+      domComplete: 3954,
+      loadEventStart: 3954,
+      loadEventEnd: 4106,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-4 was 4.86 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5003,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 88,
+      domainLookupEnd: 88,
+      connectStart: 89,
+      connectEnd: 228,
+      secureConnectionStart: 125,
+      requestStart: 228,
+      responseStart: 2124,
+      responseEnd: 2124,
+      transferSize: 69865,
+      encodedBodySize: 67947,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3086,
+      domContentLoadedEventStart: 3190,
+      domContentLoadedEventEnd: 3519,
+      domComplete: 4828,
+      loadEventStart: 4829,
+      loadEventEnd: 5003,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-5 was 3.724 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3857,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 111,
+      domainLookupEnd: 111,
+      connectStart: 111,
+      connectEnd: 254,
+      secureConnectionStart: 147,
+      requestStart: 255,
+      responseStart: 2058,
+      responseEnd: 2058,
+      transferSize: 69873,
+      encodedBodySize: 67955,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2989,
+      domContentLoadedEventStart: 3069,
+      domContentLoadedEventEnd: 3386,
+      domComplete: 3711,
+      loadEventStart: 3711,
+      loadEventEnd: 3857,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-6 was 4.367 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4537,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 190,
+      secureConnectionStart: 95,
+      requestStart: 192,
+      responseStart: 1791,
+      responseEnd: 1791,
+      transferSize: 69869,
+      encodedBodySize: 67951,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2803,
+      domContentLoadedEventStart: 2862,
+      domContentLoadedEventEnd: 3164,
+      domComplete: 4360,
+      loadEventStart: 4361,
+      loadEventEnd: 4537,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-7 was 4.766 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4922,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 127,
+      domainLookupEnd: 127,
+      connectStart: 127,
+      connectEnd: 259,
+      secureConnectionStart: 163,
+      requestStart: 259,
+      responseStart: 2171,
+      responseEnd: 2171,
+      transferSize: 69859,
+      encodedBodySize: 67941,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3103,
+      domContentLoadedEventStart: 3182,
+      domContentLoadedEventEnd: 3490,
+      domComplete: 4735,
+      loadEventStart: 4753,
+      loadEventEnd: 4922,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-8 was 4.704 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4866,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 129,
+      domainLookupEnd: 129,
+      connectStart: 129,
+      connectEnd: 263,
+      secureConnectionStart: 166,
+      requestStart: 263,
+      responseStart: 1883,
+      responseEnd: 1883,
+      transferSize: 69854,
+      encodedBodySize: 67936,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2822,
+      domContentLoadedEventStart: 2902,
+      domContentLoadedEventEnd: 3226,
+      domComplete: 4691,
+      loadEventStart: 4692,
+      loadEventEnd: 4866,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-9 was 4.581 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/briefcases-messengers?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4735,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 127,
+      domainLookupEnd: 127,
+      connectStart: 127,
+      connectEnd: 259,
+      secureConnectionStart: 163,
+      requestStart: 259,
+      responseStart: 1977,
+      responseEnd: 1977,
+      transferSize: 69859,
+      encodedBodySize: 67941,
+      decodedBodySize: 398938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2910,
+      domContentLoadedEventStart: 2974,
+      domContentLoadedEventEnd: 3301,
+      domComplete: 4569,
+      loadEventStart: 4570,
+      loadEventEnd: 4735,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2 was 5.149 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5301,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 131,
+      domainLookupEnd: 131,
+      connectStart: 131,
+      connectEnd: 270,
+      secureConnectionStart: 169,
+      requestStart: 271,
+      responseStart: 2568,
+      responseEnd: 2568,
+      transferSize: 70666,
+      encodedBodySize: 68747,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3531,
+      domContentLoadedEventStart: 3628,
+      domContentLoadedEventEnd: 3933,
+      domComplete: 5137,
+      loadEventStart: 5137,
+      loadEventEnd: 5301,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-1 was 5 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5163,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 133,
+      domainLookupEnd: 133,
+      connectStart: 133,
+      connectEnd: 262,
+      secureConnectionStart: 169,
+      requestStart: 263,
+      responseStart: 2055,
+      responseEnd: 2055,
+      transferSize: 70683,
+      encodedBodySize: 68765,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3043,
+      domContentLoadedEventStart: 3124,
+      domContentLoadedEventEnd: 3470,
+      domComplete: 4983,
+      loadEventStart: 4984,
+      loadEventEnd: 5163,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-10 was 4.792 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4949,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 123,
+      domainLookupEnd: 123,
+      connectStart: 123,
+      connectEnd: 259,
+      secureConnectionStart: 160,
+      requestStart: 259,
+      responseStart: 1947,
+      responseEnd: 1947,
+      transferSize: 70685,
+      encodedBodySize: 68767,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2897,
+      domContentLoadedEventStart: 2989,
+      domContentLoadedEventEnd: 3299,
+      domComplete: 4775,
+      loadEventStart: 4776,
+      loadEventEnd: 4949,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-19 was 4.916 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5095,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 102,
+      domainLookupEnd: 102,
+      connectStart: 102,
+      connectEnd: 243,
+      secureConnectionStart: 141,
+      requestStart: 243,
+      responseStart: 2175,
+      responseEnd: 2175,
+      transferSize: 70670,
+      encodedBodySize: 68752,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3143,
+      domContentLoadedEventStart: 3233,
+      domContentLoadedEventEnd: 3585,
+      domComplete: 4908,
+      loadEventStart: 4911,
+      loadEventEnd: 5095,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-20 was 4.727 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4862,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 117,
+      domainLookupEnd: 117,
+      connectStart: 117,
+      connectEnd: 246,
+      secureConnectionStart: 153,
+      requestStart: 246,
+      responseStart: 1937,
+      responseEnd: 1937,
+      transferSize: 70698,
+      encodedBodySize: 68780,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2936,
+      domContentLoadedEventStart: 3037,
+      domContentLoadedEventEnd: 3351,
+      domComplete: 4699,
+      loadEventStart: 4699,
+      loadEventEnd: 4862,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-0 was 4.33 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4497,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 121,
+      connectStart: 121,
+      connectEnd: 258,
+      secureConnectionStart: 157,
+      requestStart: 259,
+      responseStart: 1834,
+      responseEnd: 1834,
+      transferSize: 70698,
+      encodedBodySize: 68780,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2792,
+      domContentLoadedEventStart: 2898,
+      domContentLoadedEventEnd: 3217,
+      domComplete: 4321,
+      loadEventStart: 4321,
+      loadEventEnd: 4497,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-2 was 4.713 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4873,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 67,
+      domainLookupEnd: 81,
+      connectStart: 81,
+      connectEnd: 215,
+      secureConnectionStart: 117,
+      requestStart: 215,
+      responseStart: 1965,
+      responseEnd: 1965,
+      transferSize: 70676,
+      encodedBodySize: 68758,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2924,
+      domContentLoadedEventStart: 3019,
+      domContentLoadedEventEnd: 3323,
+      domComplete: 4694,
+      loadEventStart: 4695,
+      loadEventEnd: 4873,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-3 was 4.481 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4639,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 66,
+      domainLookupEnd: 66,
+      connectStart: 66,
+      connectEnd: 211,
+      secureConnectionStart: 102,
+      requestStart: 212,
+      responseStart: 1801,
+      responseEnd: 1801,
+      transferSize: 70686,
+      encodedBodySize: 68768,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2709,
+      domContentLoadedEventStart: 2810,
+      domContentLoadedEventEnd: 3110,
+      domComplete: 4462,
+      loadEventStart: 4477,
+      loadEventEnd: 4639,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-4 was 4.796 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4957,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 133,
+      domainLookupEnd: 133,
+      connectStart: 133,
+      connectEnd: 343,
+      secureConnectionStart: 187,
+      requestStart: 343,
+      responseStart: 2143,
+      responseEnd: 2143,
+      transferSize: 70675,
+      encodedBodySize: 68757,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3065,
+      domContentLoadedEventStart: 3150,
+      domContentLoadedEventEnd: 3466,
+      domComplete: 4786,
+      loadEventStart: 4786,
+      loadEventEnd: 4957,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-5 was 4.455 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4602,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 105,
+      domainLookupEnd: 105,
+      connectStart: 105,
+      connectEnd: 241,
+      secureConnectionStart: 141,
+      requestStart: 241,
+      responseStart: 1680,
+      responseEnd: 1680,
+      transferSize: 70688,
+      encodedBodySize: 68770,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2670,
+      domContentLoadedEventStart: 2765,
+      domContentLoadedEventEnd: 3085,
+      domComplete: 4423,
+      loadEventStart: 4438,
+      loadEventEnd: 4602,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-6 was 4.603 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4763,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 145,
+      domainLookupEnd: 145,
+      connectStart: 145,
+      connectEnd: 282,
+      secureConnectionStart: 181,
+      requestStart: 283,
+      responseStart: 1863,
+      responseEnd: 1863,
+      transferSize: 70681,
+      encodedBodySize: 68763,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2826,
+      domContentLoadedEventStart: 2925,
+      domContentLoadedEventEnd: 3259,
+      domComplete: 4588,
+      loadEventStart: 4590,
+      loadEventEnd: 4763,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-7 was 4.72 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4886,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 266,
+      secureConnectionStart: 171,
+      requestStart: 266,
+      responseStart: 2082,
+      responseEnd: 2082,
+      transferSize: 70675,
+      encodedBodySize: 68757,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2992,
+      domContentLoadedEventStart: 3066,
+      domContentLoadedEventEnd: 3393,
+      domComplete: 4708,
+      loadEventStart: 4725,
+      loadEventEnd: 4886,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-8 was 4.548 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4701,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 130,
+      domainLookupEnd: 132,
+      connectStart: 132,
+      connectEnd: 269,
+      secureConnectionStart: 169,
+      requestStart: 269,
+      responseStart: 1809,
+      responseEnd: 1809,
+      transferSize: 70692,
+      encodedBodySize: 68774,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2724,
+      domContentLoadedEventStart: 2795,
+      domContentLoadedEventEnd: 3105,
+      domComplete: 4529,
+      loadEventStart: 4529,
+      loadEventEnd: 4701,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-9 was 5.119 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/drawstring-bags?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5279,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 117,
+      domainLookupEnd: 117,
+      connectStart: 117,
+      connectEnd: 247,
+      secureConnectionStart: 154,
+      requestStart: 247,
+      responseStart: 2076,
+      responseEnd: 2076,
+      transferSize: 70697,
+      encodedBodySize: 68779,
+      decodedBodySize: 404391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3241,
+      domContentLoadedEventStart: 3339,
+      domContentLoadedEventEnd: 3656,
+      domComplete: 5109,
+      loadEventStart: 5110,
+      loadEventEnd: 5279,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2 was 5.106 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5277,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 140,
+      domainLookupEnd: 140,
+      connectStart: 140,
+      connectEnd: 272,
+      secureConnectionStart: 176,
+      requestStart: 273,
+      responseStart: 2426,
+      responseEnd: 2426,
+      transferSize: 71903,
+      encodedBodySize: 69982,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3384,
+      domContentLoadedEventStart: 3460,
+      domContentLoadedEventEnd: 3777,
+      domComplete: 5098,
+      loadEventStart: 5098,
+      loadEventEnd: 5277,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-1 was 4.795 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4963,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 128,
+      domainLookupEnd: 128,
+      connectStart: 128,
+      connectEnd: 268,
+      secureConnectionStart: 169,
+      requestStart: 268,
+      responseStart: 2144,
+      responseEnd: 2144,
+      transferSize: 71918,
+      encodedBodySize: 69998,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3094,
+      domContentLoadedEventStart: 3198,
+      domContentLoadedEventEnd: 3498,
+      domComplete: 4789,
+      loadEventStart: 4790,
+      loadEventEnd: 4963,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-10 was 5.132 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5305,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 103,
+      domainLookupEnd: 103,
+      connectStart: 103,
+      connectEnd: 236,
+      secureConnectionStart: 140,
+      requestStart: 236,
+      responseStart: 2474,
+      responseEnd: 2474,
+      transferSize: 71896,
+      encodedBodySize: 69976,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3448,
+      domContentLoadedEventStart: 3525,
+      domContentLoadedEventEnd: 3832,
+      domComplete: 5124,
+      loadEventStart: 5138,
+      loadEventEnd: 5305,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-19 was 3.782 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3918,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 96,
+      domainLookupEnd: 97,
+      connectStart: 97,
+      connectEnd: 242,
+      secureConnectionStart: 133,
+      requestStart: 242,
+      responseStart: 2043,
+      responseEnd: 2043,
+      transferSize: 71910,
+      encodedBodySize: 69990,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3020,
+      domContentLoadedEventStart: 3098,
+      domContentLoadedEventEnd: 3416,
+      domComplete: 3750,
+      loadEventStart: 3750,
+      loadEventEnd: 3918,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-20 was 3.832 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3971,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 136,
+      domainLookupEnd: 136,
+      connectStart: 137,
+      connectEnd: 274,
+      secureConnectionStart: 173,
+      requestStart: 274,
+      responseStart: 2036,
+      responseEnd: 2036,
+      transferSize: 71937,
+      encodedBodySize: 70017,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3039,
+      domContentLoadedEventStart: 3111,
+      domContentLoadedEventEnd: 3475,
+      domComplete: 3825,
+      loadEventStart: 3825,
+      loadEventEnd: 3971,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-0 was 4.019 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4175,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 113,
+      domainLookupEnd: 113,
+      connectStart: 113,
+      connectEnd: 251,
+      secureConnectionStart: 149,
+      requestStart: 251,
+      responseStart: 2040,
+      responseEnd: 2040,
+      transferSize: 71927,
+      encodedBodySize: 70007,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2974,
+      domContentLoadedEventStart: 3047,
+      domContentLoadedEventEnd: 3364,
+      domComplete: 4012,
+      loadEventStart: 4014,
+      loadEventEnd: 4175,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-2 was 3.708 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3843,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 236,
+      secureConnectionStart: 136,
+      requestStart: 236,
+      responseStart: 2017,
+      responseEnd: 2017,
+      transferSize: 71912,
+      encodedBodySize: 69992,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2948,
+      domContentLoadedEventStart: 3050,
+      domContentLoadedEventEnd: 3363,
+      domComplete: 3698,
+      loadEventStart: 3698,
+      loadEventEnd: 3843,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-3 was 4.758 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4897,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 262,
+      secureConnectionStart: 170,
+      requestStart: 262,
+      responseStart: 2005,
+      responseEnd: 2005,
+      transferSize: 71919,
+      encodedBodySize: 69999,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2975,
+      domContentLoadedEventStart: 3070,
+      domContentLoadedEventEnd: 3392,
+      domComplete: 4728,
+      loadEventStart: 4728,
+      loadEventEnd: 4897,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-4 was 4.464 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4623,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 109,
+      domainLookupEnd: 109,
+      connectStart: 109,
+      connectEnd: 241,
+      secureConnectionStart: 145,
+      requestStart: 242,
+      responseStart: 1974,
+      responseEnd: 1974,
+      transferSize: 71910,
+      encodedBodySize: 69990,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2913,
+      domContentLoadedEventStart: 3007,
+      domContentLoadedEventEnd: 3308,
+      domComplete: 4459,
+      loadEventStart: 4461,
+      loadEventEnd: 4623,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-5 was 3.798 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3906,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 115,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 249,
+      secureConnectionStart: 152,
+      requestStart: 249,
+      responseStart: 2149,
+      responseEnd: 2149,
+      transferSize: 71892,
+      encodedBodySize: 69972,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3034,
+      domContentLoadedEventStart: 3119,
+      domContentLoadedEventEnd: 3439,
+      domComplete: 3763,
+      loadEventStart: 3764,
+      loadEventEnd: 3906,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-6 was 4.915 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5063,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 113,
+      connectStart: 113,
+      connectEnd: 246,
+      secureConnectionStart: 149,
+      requestStart: 247,
+      responseStart: 2057,
+      responseEnd: 2057,
+      transferSize: 71897,
+      encodedBodySize: 69977,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3033,
+      domContentLoadedEventStart: 3128,
+      domContentLoadedEventEnd: 3469,
+      domComplete: 4898,
+      loadEventStart: 4898,
+      loadEventEnd: 5063,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-7 was 4.92 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5083,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 277,
+      secureConnectionStart: 173,
+      requestStart: 278,
+      responseStart: 2107,
+      responseEnd: 2107,
+      transferSize: 71913,
+      encodedBodySize: 69993,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3063,
+      domContentLoadedEventStart: 3158,
+      domContentLoadedEventEnd: 3465,
+      domComplete: 4907,
+      loadEventStart: 4911,
+      loadEventEnd: 5083,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-8 was 5.781 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5937,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 151,
+      domainLookupEnd: 151,
+      connectStart: 151,
+      connectEnd: 285,
+      secureConnectionStart: 188,
+      requestStart: 285,
+      responseStart: 2042,
+      responseEnd: 2042,
+      transferSize: 71897,
+      encodedBodySize: 69977,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3999,
+      domContentLoadedEventStart: 4087,
+      domContentLoadedEventEnd: 4441,
+      domComplete: 5766,
+      loadEventStart: 5767,
+      loadEventEnd: 5937,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-9 was 3.649 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/duffels?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3795,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 2,
+      domainLookupStart: 101,
+      domainLookupEnd: 101,
+      connectStart: 101,
+      connectEnd: 235,
+      secureConnectionStart: 139,
+      requestStart: 236,
+      responseStart: 2006,
+      responseEnd: 2006,
+      transferSize: 71902,
+      encodedBodySize: 69982,
+      decodedBodySize: 402028,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2877,
+      domContentLoadedEventStart: 2974,
+      domContentLoadedEventEnd: 3294,
+      domComplete: 3643,
+      loadEventStart: 3643,
+      loadEventEnd: 3795,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2 was 6.141 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6206,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 91,
+      domainLookupEnd: 91,
+      connectStart: 91,
+      connectEnd: 233,
+      secureConnectionStart: 128,
+      requestStart: 234,
+      responseStart: 2703,
+      responseEnd: 2703,
+      transferSize: 57734,
+      encodedBodySize: 55839,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4622,
+      domContentLoadedEventStart: 4725,
+      domContentLoadedEventEnd: 5004,
+      domComplete: 6109,
+      loadEventStart: 6126,
+      loadEventEnd: 6206,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-1 was 3.328 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3355,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 98,
+      domainLookupEnd: 98,
+      connectStart: 98,
+      connectEnd: 229,
+      secureConnectionStart: 135,
+      requestStart: 230,
+      responseStart: 1727,
+      responseEnd: 1727,
+      transferSize: 57733,
+      encodedBodySize: 55839,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2640,
+      domContentLoadedEventStart: 2701,
+      domContentLoadedEventEnd: 2971,
+      domComplete: 3292,
+      loadEventStart: 3294,
+      loadEventEnd: 3355,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-10 was 3.341 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3374,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 140,
+      domainLookupEnd: 141,
+      connectStart: 141,
+      connectEnd: 274,
+      secureConnectionStart: 178,
+      requestStart: 274,
+      responseStart: 1710,
+      responseEnd: 1710,
+      transferSize: 57727,
+      encodedBodySize: 55833,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2599,
+      domContentLoadedEventStart: 2672,
+      domContentLoadedEventEnd: 2971,
+      domComplete: 3309,
+      loadEventStart: 3310,
+      loadEventEnd: 3374,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-19 was 3.252 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3303,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 126,
+      domainLookupEnd: 126,
+      connectStart: 126,
+      connectEnd: 264,
+      secureConnectionStart: 163,
+      requestStart: 264,
+      responseStart: 1610,
+      responseEnd: 1610,
+      transferSize: 57759,
+      encodedBodySize: 55865,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2567,
+      domContentLoadedEventStart: 2627,
+      domContentLoadedEventEnd: 2910,
+      domComplete: 3239,
+      loadEventStart: 3239,
+      loadEventEnd: 3303,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-20 was 4.253 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4334,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 105,
+      domainLookupEnd: 105,
+      connectStart: 105,
+      connectEnd: 242,
+      secureConnectionStart: 141,
+      requestStart: 242,
+      responseStart: 1554,
+      responseEnd: 1554,
+      transferSize: 57723,
+      encodedBodySize: 55829,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2464,
+      domContentLoadedEventStart: 2588,
+      domContentLoadedEventEnd: 2867,
+      domComplete: 4242,
+      loadEventStart: 4258,
+      loadEventEnd: 4334,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-0 was 3.119 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3170,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 138,
+      domainLookupEnd: 139,
+      connectStart: 139,
+      connectEnd: 270,
+      secureConnectionStart: 175,
+      requestStart: 270,
+      responseStart: 1514,
+      responseEnd: 1514,
+      transferSize: 57722,
+      encodedBodySize: 55828,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2360,
+      domContentLoadedEventStart: 2429,
+      domContentLoadedEventEnd: 2732,
+      domComplete: 3106,
+      loadEventStart: 3106,
+      loadEventEnd: 3170,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-2 was 3.159 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3219,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 107,
+      connectEnd: 244,
+      secureConnectionStart: 145,
+      requestStart: 244,
+      responseStart: 1546,
+      responseEnd: 1546,
+      transferSize: 57718,
+      encodedBodySize: 55824,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2429,
+      domContentLoadedEventStart: 2539,
+      domContentLoadedEventEnd: 2820,
+      domComplete: 3154,
+      loadEventStart: 3154,
+      loadEventEnd: 3219,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-3 was 4.117 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4190,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 138,
+      domainLookupEnd: 138,
+      connectStart: 138,
+      connectEnd: 277,
+      secureConnectionStart: 176,
+      requestStart: 277,
+      responseStart: 1523,
+      responseEnd: 1523,
+      transferSize: 57719,
+      encodedBodySize: 55825,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2464,
+      domContentLoadedEventStart: 2539,
+      domContentLoadedEventEnd: 2811,
+      domComplete: 4104,
+      loadEventStart: 4105,
+      loadEventEnd: 4190,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-4 was 4.167 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4243,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 132,
+      domainLookupEnd: 132,
+      connectStart: 132,
+      connectEnd: 267,
+      secureConnectionStart: 169,
+      requestStart: 267,
+      responseStart: 1574,
+      responseEnd: 1574,
+      transferSize: 57728,
+      encodedBodySize: 55834,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2470,
+      domContentLoadedEventStart: 2565,
+      domContentLoadedEventEnd: 2855,
+      domComplete: 4157,
+      loadEventStart: 4172,
+      loadEventEnd: 4243,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-5 was 3.021 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3050,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 95,
+      domainLookupEnd: 95,
+      connectStart: 95,
+      connectEnd: 235,
+      secureConnectionStart: 131,
+      requestStart: 236,
+      responseStart: 1478,
+      responseEnd: 1478,
+      transferSize: 57742,
+      encodedBodySize: 55848,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2367,
+      domContentLoadedEventStart: 2439,
+      domContentLoadedEventEnd: 2701,
+      domComplete: 2991,
+      loadEventStart: 2991,
+      loadEventEnd: 3050,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-6 was 3.209 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3253,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 101,
+      domainLookupEnd: 101,
+      connectStart: 101,
+      connectEnd: 242,
+      secureConnectionStart: 138,
+      requestStart: 242,
+      responseStart: 1574,
+      responseEnd: 1574,
+      transferSize: 57731,
+      encodedBodySize: 55837,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2523,
+      domContentLoadedEventStart: 2588,
+      domContentLoadedEventEnd: 2864,
+      domComplete: 3194,
+      loadEventStart: 3194,
+      loadEventEnd: 3253,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-7 was 3.259 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3316,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 167,
+      domainLookupEnd: 167,
+      connectStart: 167,
+      connectEnd: 311,
+      secureConnectionStart: 206,
+      requestStart: 311,
+      responseStart: 1669,
+      responseEnd: 1669,
+      transferSize: 57728,
+      encodedBodySize: 55834,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2581,
+      domContentLoadedEventStart: 2669,
+      domContentLoadedEventEnd: 2933,
+      domComplete: 3238,
+      loadEventStart: 3238,
+      loadEventEnd: 3316,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-8 was 4.46 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4525,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 96,
+      domainLookupEnd: 96,
+      connectStart: 96,
+      connectEnd: 243,
+      secureConnectionStart: 132,
+      requestStart: 243,
+      responseStart: 1609,
+      responseEnd: 1609,
+      transferSize: 57733,
+      encodedBodySize: 55839,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2585,
+      domContentLoadedEventStart: 2665,
+      domContentLoadedEventEnd: 2957,
+      domComplete: 4448,
+      loadEventStart: 4449,
+      loadEventEnd: 4525,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-9 was 4.408 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/luggage?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4458,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 108,
+      domainLookupEnd: 108,
+      connectStart: 108,
+      connectEnd: 241,
+      secureConnectionStart: 146,
+      requestStart: 241,
+      responseStart: 1627,
+      responseEnd: 1627,
+      transferSize: 57733,
+      encodedBodySize: 55839,
+      decodedBodySize: 291151,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2485,
+      domContentLoadedEventStart: 2545,
+      domContentLoadedEventEnd: 2820,
+      domComplete: 4375,
+      loadEventStart: 4376,
+      loadEventEnd: 4458,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2 was 5.281 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5458,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 195,
+      secureConnectionStart: 95,
+      requestStart: 195,
+      responseStart: 2695,
+      responseEnd: 2695,
+      transferSize: 70964,
+      encodedBodySize: 69043,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3658,
+      domContentLoadedEventStart: 3749,
+      domContentLoadedEventEnd: 4064,
+      domComplete: 5277,
+      loadEventStart: 5291,
+      loadEventEnd: 5458,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-1 was 4.882 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5033,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 2,
+      domainLookupStart: 116,
+      domainLookupEnd: 116,
+      connectStart: 117,
+      connectEnd: 262,
+      secureConnectionStart: 153,
+      requestStart: 262,
+      responseStart: 2186,
+      responseEnd: 2186,
+      transferSize: 70951,
+      encodedBodySize: 69031,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3154,
+      domContentLoadedEventStart: 3248,
+      domContentLoadedEventEnd: 3584,
+      domComplete: 4856,
+      loadEventStart: 4859,
+      loadEventEnd: 5033,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-10 was 4.572 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4723,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 107,
+      domainLookupEnd: 107,
+      connectStart: 107,
+      connectEnd: 240,
+      secureConnectionStart: 143,
+      requestStart: 241,
+      responseStart: 1916,
+      responseEnd: 1916,
+      transferSize: 70950,
+      encodedBodySize: 69030,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2876,
+      domContentLoadedEventStart: 2976,
+      domContentLoadedEventEnd: 3273,
+      domComplete: 4560,
+      loadEventStart: 4561,
+      loadEventEnd: 4723,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-19 was 4.994 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5146,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 71,
+      domainLookupEnd: 71,
+      connectStart: 71,
+      connectEnd: 219,
+      secureConnectionStart: 108,
+      requestStart: 219,
+      responseStart: 2050,
+      responseEnd: 2050,
+      transferSize: 70963,
+      encodedBodySize: 69043,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3135,
+      domContentLoadedEventStart: 3236,
+      domContentLoadedEventEnd: 3547,
+      domComplete: 4982,
+      loadEventStart: 4983,
+      loadEventEnd: 5146,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-20 was 4.573 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4749,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 271,
+      secureConnectionStart: 170,
+      requestStart: 271,
+      responseStart: 1808,
+      responseEnd: 1808,
+      transferSize: 70976,
+      encodedBodySize: 69056,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2798,
+      domContentLoadedEventStart: 2873,
+      domContentLoadedEventEnd: 3229,
+      domComplete: 4563,
+      loadEventStart: 4565,
+      loadEventEnd: 4749,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-0 was 4.986 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-0',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5128,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 105,
+      domainLookupEnd: 105,
+      connectStart: 105,
+      connectEnd: 250,
+      secureConnectionStart: 142,
+      requestStart: 250,
+      responseStart: 2067,
+      responseEnd: 2067,
+      transferSize: 70946,
+      encodedBodySize: 69026,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3205,
+      domContentLoadedEventStart: 3293,
+      domContentLoadedEventEnd: 3616,
+      domComplete: 4971,
+      loadEventStart: 4971,
+      loadEventEnd: 5128,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-2 was 4.682 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-2',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4816,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 92,
+      domainLookupEnd: 92,
+      connectStart: 92,
+      connectEnd: 244,
+      secureConnectionStart: 141,
+      requestStart: 245,
+      responseStart: 1935,
+      responseEnd: 1935,
+      transferSize: 70944,
+      encodedBodySize: 69024,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2932,
+      domContentLoadedEventStart: 3006,
+      domContentLoadedEventEnd: 3313,
+      domComplete: 4647,
+      loadEventStart: 4648,
+      loadEventEnd: 4816,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-3 was 3.781 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-3',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3918,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 115,
+      domainLookupEnd: 115,
+      connectStart: 115,
+      connectEnd: 266,
+      secureConnectionStart: 152,
+      requestStart: 267,
+      responseStart: 1926,
+      responseEnd: 1926,
+      transferSize: 70966,
+      encodedBodySize: 69046,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2994,
+      domContentLoadedEventStart: 3086,
+      domContentLoadedEventEnd: 3411,
+      domComplete: 3773,
+      loadEventStart: 3773,
+      loadEventEnd: 3918,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-4 was 3.451 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-4',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3588,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 57,
+      domainLookupEnd: 57,
+      connectStart: 57,
+      connectEnd: 205,
+      secureConnectionStart: 101,
+      requestStart: 205,
+      responseStart: 1736,
+      responseEnd: 1736,
+      transferSize: 70955,
+      encodedBodySize: 69035,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2695,
+      domContentLoadedEventStart: 2789,
+      domContentLoadedEventEnd: 3094,
+      domComplete: 3444,
+      loadEventStart: 3445,
+      loadEventEnd: 3588,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-5 was 4.487 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-5',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4628,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 97,
+      domainLookupEnd: 97,
+      connectStart: 97,
+      connectEnd: 228,
+      secureConnectionStart: 134,
+      requestStart: 229,
+      responseStart: 1992,
+      responseEnd: 1992,
+      transferSize: 70959,
+      encodedBodySize: 69039,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2941,
+      domContentLoadedEventStart: 3026,
+      domContentLoadedEventEnd: 3330,
+      domComplete: 4477,
+      loadEventStart: 4478,
+      loadEventEnd: 4628,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-6 was 3.631 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-6',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3756,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 97,
+      domainLookupEnd: 97,
+      connectStart: 97,
+      connectEnd: 241,
+      secureConnectionStart: 134,
+      requestStart: 241,
+      responseStart: 1883,
+      responseEnd: 1883,
+      transferSize: 70966,
+      encodedBodySize: 69046,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2851,
+      domContentLoadedEventStart: 2953,
+      domContentLoadedEventEnd: 3269,
+      domComplete: 3600,
+      loadEventStart: 3601,
+      loadEventEnd: 3756,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-7 was 3.549 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-7',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3684,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 63,
+      domainLookupEnd: 63,
+      connectStart: 63,
+      connectEnd: 204,
+      secureConnectionStart: 101,
+      requestStart: 204,
+      responseStart: 1856,
+      responseEnd: 1856,
+      transferSize: 70966,
+      encodedBodySize: 69046,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2775,
+      domContentLoadedEventStart: 2880,
+      domContentLoadedEventEnd: 3202,
+      domComplete: 3535,
+      loadEventStart: 3535,
+      loadEventEnd: 3684,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-8 was 4.3 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-8',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4459,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 126,
+      domainLookupEnd: 126,
+      connectStart: 127,
+      connectEnd: 261,
+      secureConnectionStart: 164,
+      requestStart: 261,
+      responseStart: 1744,
+      responseEnd: 1744,
+      transferSize: 70976,
+      encodedBodySize: 69056,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2659,
+      domContentLoadedEventStart: 2739,
+      domContentLoadedEventEnd: 3045,
+      domComplete: 4291,
+      loadEventStart: 4293,
+      loadEventEnd: 4459,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-9 was 3.496 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.pcna.com/en-us/category/bags/coolers?v1=sort_isnewitem&asc=2#mm-9',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3635,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 105,
+      domainLookupEnd: 105,
+      connectStart: 106,
+      connectEnd: 237,
+      secureConnectionStart: 141,
+      requestStart: 237,
+      responseStart: 1773,
+      responseEnd: 1773,
+      transferSize: 70976,
+      encodedBodySize: 69056,
+      decodedBodySize: 401578,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2718,
+      domContentLoadedEventStart: 2820,
+      domContentLoadedEventEnd: 3126,
+      domComplete: 3482,
+      loadEventStart: 3483,
+      loadEventEnd: 3635,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
