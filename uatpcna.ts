@@ -5,6 +5,7 @@ const { firefox } = require("playwright");
 const sentinel = "https://uatpcna.znodedev.com";
 const visited: string[] = [];
 const threshold_in_seconds = 3;
+const max_capacity = 6 * 60 * 60 / 100;
 
 (async () => {
   await benchmark(sentinel);
@@ -20,7 +21,7 @@ async function benchmark(address: string) {
     const end_time = +new Date();
     const load_time = (end_time - start_time) / 1000;
     const metrics = await getMetrics(page);
-    if (load_time > threshold_in_seconds) {
+    if (metrics.data.duration > threshold_in_seconds * 1000) {
         console.log(
           `Total load time for ${address} was ${
             (end_time - start_time) / 1000
@@ -31,8 +32,7 @@ async function benchmark(address: string) {
     hrefs = await page.$$eval("a", (as: any[]) => as.map((a) => a.href));
     await browser.close();
     for (const href of hrefs) {
-      console.log({ href });
-      if (!visited.includes(href) && href.startsWith(sentinel)) {
+      if (!visited.includes(href) && href.startsWith(sentinel) && visited.length < max_capacity) {
         visited.push(href);
         await benchmark(href);
       }
