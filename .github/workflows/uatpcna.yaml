@@ -1,4 +1,4 @@
-name: Run playwright on stage pcna
+name: Run playwright on uat pcna
 
 on:
   push:
