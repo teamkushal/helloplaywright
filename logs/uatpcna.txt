@@ -1,0 +1,351 @@
+Total load time for https://uatpcna.znodedev.com/brand was 6.562 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6574,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 300,
+      fetchStart: 300,
+      domainLookupStart: 300,
+      domainLookupEnd: 300,
+      connectStart: 300,
+      connectEnd: 300,
+      secureConnectionStart: 300,
+      requestStart: 304,
+      responseStart: 5332,
+      responseEnd: 5333,
+      transferSize: 19229,
+      encodedBodySize: 18038,
+      decodedBodySize: 172000,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 6084,
+      domContentLoadedEventStart: 6156,
+      domContentLoadedEventEnd: 6157,
+      domComplete: 6553,
+      loadEventStart: 6553,
+      loadEventEnd: 6574,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/brand# was 7.026 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7042,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 53,
+      domainLookupEnd: 53,
+      connectStart: 53,
+      connectEnd: 140,
+      secureConnectionStart: 55,
+      requestStart: 140,
+      responseStart: 5840,
+      responseEnd: 5843,
+      transferSize: 19386,
+      encodedBodySize: 18038,
+      decodedBodySize: 172000,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 6610,
+      domContentLoadedEventStart: 6657,
+      domContentLoadedEventEnd: 6658,
+      domComplete: 7018,
+      loadEventStart: 7018,
+      loadEventEnd: 7042,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/customizable-ecatalogs was 10.49 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 10498,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 253,
+      fetchStart: 253,
+      domainLookupStart: 253,
+      domainLookupEnd: 253,
+      connectStart: 253,
+      connectEnd: 253,
+      secureConnectionStart: 253,
+      requestStart: 256,
+      responseStart: 9227,
+      responseEnd: 9227,
+      transferSize: 17180,
+      encodedBodySize: 15989,
+      decodedBodySize: 91467,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 9858,
+      domContentLoadedEventStart: 9909,
+      domContentLoadedEventEnd: 9910,
+      domComplete: 10479,
+      loadEventStart: 10479,
+      loadEventEnd: 10498,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs# was 7.62 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7633,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 90,
+      domainLookupEnd: 91,
+      connectStart: 91,
+      connectEnd: 123,
+      secureConnectionStart: 93,
+      requestStart: 123,
+      responseStart: 6325,
+      responseEnd: 6329,
+      transferSize: 17298,
+      encodedBodySize: 15950,
+      decodedBodySize: 91467,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 6865,
+      domContentLoadedEventStart: 6971,
+      domContentLoadedEventEnd: 6982,
+      domComplete: 7614,
+      loadEventStart: 7614,
+      loadEventEnd: 7633,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/build-your-own-flyers was 6.715 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6710,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 264,
+      fetchStart: 264,
+      domainLookupStart: 264,
+      domainLookupEnd: 264,
+      connectStart: 264,
+      connectEnd: 264,
+      secureConnectionStart: 264,
+      requestStart: 271,
+      responseStart: 1483,
+      responseEnd: 1486,
+      transferSize: 21887,
+      encodedBodySize: 20696,
+      decodedBodySize: 210786,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2181,
+      domContentLoadedEventStart: 2283,
+      domContentLoadedEventEnd: 2285,
+      domComplete: 6687,
+      loadEventStart: 6687,
+      loadEventEnd: 6710,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers# was 6.6 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6610,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 88,
+      domainLookupEnd: 88,
+      connectStart: 88,
+      connectEnd: 123,
+      secureConnectionStart: 94,
+      requestStart: 123,
+      responseStart: 1343,
+      responseEnd: 1345,
+      transferSize: 22044,
+      encodedBodySize: 20696,
+      decodedBodySize: 210786,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2015,
+      domContentLoadedEventStart: 2081,
+      domContentLoadedEventEnd: 2082,
+      domComplete: 6589,
+      loadEventStart: 6589,
+      loadEventEnd: 6610,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/blog was 7.158 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/blog',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7177,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 267,
+      fetchStart: 267,
+      domainLookupStart: 267,
+      domainLookupEnd: 267,
+      connectStart: 267,
+      connectEnd: 267,
+      secureConnectionStart: 267,
+      requestStart: 270,
+      responseStart: 6210,
+      responseEnd: 6213,
+      transferSize: 23499,
+      encodedBodySize: 22141,
+      decodedBodySize: 151825,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 7048,
+      domContentLoadedEventStart: 7068,
+      domContentLoadedEventEnd: 7070,
+      domComplete: 7143,
+      loadEventStart: 7143,
+      loadEventEnd: 7177,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/blog# was 6.323 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/blog#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6340,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 162,
+      secureConnectionStart: 61,
+      requestStart: 162,
+      responseStart: 5364,
+      responseEnd: 5366,
+      transferSize: 23635,
+      encodedBodySize: 22120,
+      decodedBodySize: 151825,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 5948,
+      domContentLoadedEventStart: 6008,
+      domContentLoadedEventEnd: 6010,
+      domComplete: 6313,
+      loadEventStart: 6313,
+      loadEventEnd: 6340,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/electronic-integration# was 6.98 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/electronic-integration#',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6999,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 56,
+      domainLookupEnd: 56,
+      connectStart: 56,
+      connectEnd: 143,
+      secureConnectionStart: 58,
+      requestStart: 143,
+      responseStart: 6262,
+      responseEnd: 6262,
+      transferSize: 20107,
+      encodedBodySize: 18629,
+      decodedBodySize: 102788,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 6892,
+      domContentLoadedEventStart: 6906,
+      domContentLoadedEventEnd: 6908,
+      domComplete: 6970,
+      loadEventStart: 6970,
+      loadEventEnd: 6999,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
