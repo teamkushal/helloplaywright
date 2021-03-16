@@ -3,6 +3,7 @@
     "files": [
         "hello.ts",
         "stagepcna.ts",
-        "uatpcna.ts"
+        "uatpcna.ts",
+        "prodpcna.ts"
     ]
 }
