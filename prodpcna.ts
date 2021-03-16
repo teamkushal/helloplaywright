@@ -5,7 +5,7 @@ const { firefox } = require("playwright");
 const sentinel = "https://www.pcna.com";
 const visited: string[] = [];
 const threshold_in_seconds = 3;
-const max_capacity = 6 * 60 * 60 / 100;
+const max_capacity = 6 * 60 * 60 / 30;
 
 (async () => {
   await benchmark(sentinel);
