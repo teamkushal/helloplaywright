@@ -1,115 +1,622 @@
-Total load time for https://stagepcna.znodedev.com/tools-services/customizable-ecatalogs was 2.352 seconds
+Total load time for https://stagepcna.znodedev.com/en-us was 2.122 seconds
 {
   metrics: {
     data: {
-      name: 'https://stagepcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      name: 'https://stagepcna.znodedev.com/en-us',
       entryType: 'navigation',
       startTime: 0,
-      duration: 2364,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 219,
-      fetchStart: 219,
-      domainLookupStart: 219,
-      domainLookupEnd: 219,
-      connectStart: 219,
-      connectEnd: 219,
-      secureConnectionStart: 219,
-      requestStart: 222,
-      responseStart: 1111,
-      responseEnd: 1111,
-      transferSize: 24251,
-      encodedBodySize: 23060,
-      decodedBodySize: 224813,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1691,
-      domContentLoadedEventStart: 1805,
-      domContentLoadedEventEnd: 1808,
-      domComplete: 2346,
-      loadEventStart: 2346,
-      loadEventEnd: 2364,
-      type: 'navigate',
-      redirectCount: 1
-    }
-  }
-}
-Total load time for https://stagepcna.znodedev.com/tools-services/build-your-own-flyers was 6.58 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://stagepcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 6586,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 249,
-      fetchStart: 249,
-      domainLookupStart: 249,
-      domainLookupEnd: 249,
-      connectStart: 249,
-      connectEnd: 249,
-      secureConnectionStart: 249,
-      requestStart: 254,
-      responseStart: 1307,
-      responseEnd: 1307,
-      transferSize: 28916,
-      encodedBodySize: 27725,
-      decodedBodySize: 345951,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2046,
-      domContentLoadedEventStart: 2166,
-      domContentLoadedEventEnd: 2168,
-      domComplete: 6568,
-      loadEventStart: 6568,
-      loadEventEnd: 6586,
-      type: 'navigate',
-      redirectCount: 1
-    }
-  }
-}
-Total load time for https://stagepcna.znodedev.com/en-us/about was 2.129 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://stagepcna.znodedev.com/en-us/about',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2043,
+      duration: 2144,
       initiatorType: 'navigation',
       nextHopProtocol: 'h2',
       workerStart: 0,
       redirectStart: 0,
       redirectEnd: 0,
       fetchStart: 0,
-      domainLookupStart: 126,
-      domainLookupEnd: 126,
-      connectStart: 126,
+      domainLookupStart: 119,
+      domainLookupEnd: 119,
+      connectStart: 119,
+      connectEnd: 435,
+      secureConnectionStart: 134,
+      requestStart: 435,
+      responseStart: 718,
+      responseEnd: 724,
+      transferSize: 26549,
+      encodedBodySize: 25201,
+      decodedBodySize: 228728,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1700,
+      domContentLoadedEventStart: 1725,
+      domContentLoadedEventEnd: 1726,
+      domComplete: 2114,
+      loadEventStart: 2114,
+      loadEventEnd: 2144,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/bags/backpacks was 2.151 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/bags/backpacks',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 0,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 402,
+      fetchStart: 402,
+      domainLookupStart: 402,
+      domainLookupEnd: 402,
+      connectStart: 402,
+      connectEnd: 402,
+      secureConnectionStart: 402,
+      requestStart: 409,
+      responseStart: 675,
+      responseEnd: 675,
+      transferSize: 45696,
+      encodedBodySize: 44375,
+      decodedBodySize: 625998,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1590,
+      domContentLoadedEventStart: 1775,
+      domContentLoadedEventEnd: 1776,
+      domComplete: 2144,
+      loadEventStart: 2144,
+      loadEventEnd: 0,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/technology/headphones-earbuds was 2.133 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/technology/headphones-earbuds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 0,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 390,
+      fetchStart: 390,
+      domainLookupStart: 390,
+      domainLookupEnd: 390,
+      connectStart: 390,
+      connectEnd: 390,
+      secureConnectionStart: 390,
+      requestStart: 393,
+      responseStart: 656,
+      responseEnd: 656,
+      transferSize: 44458,
+      encodedBodySize: 43137,
+      decodedBodySize: 592128,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1705,
+      domContentLoadedEventStart: 1721,
+      domContentLoadedEventEnd: 1722,
+      domComplete: 2102,
+      loadEventStart: 2102,
+      loadEventEnd: 0,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-blankets was 2.01 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-blankets',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 0,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 288,
+      fetchStart: 288,
+      domainLookupStart: 288,
+      domainLookupEnd: 288,
+      connectStart: 288,
+      connectEnd: 288,
+      secureConnectionStart: 288,
+      requestStart: 293,
+      responseStart: 392,
+      responseEnd: 392,
+      transferSize: 43182,
+      encodedBodySize: 41861,
+      decodedBodySize: 538802,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1349,
+      domContentLoadedEventStart: 1520,
+      domContentLoadedEventEnd: 1522,
+      domComplete: 1981,
+      loadEventStart: 1981,
+      loadEventEnd: 0,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts was 4.614 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 0,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 88,
+      domainLookupEnd: 88,
+      connectStart: 88,
+      connectEnd: 158,
+      secureConnectionStart: 104,
+      requestStart: 158,
+      responseStart: 289,
+      responseEnd: 289,
+      transferSize: 50028,
+      encodedBodySize: 48550,
+      decodedBodySize: 689284,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4026,
+      domContentLoadedEventStart: 4269,
+      domContentLoadedEventEnd: 4271,
+      domComplete: 4579,
+      loadEventStart: 4580,
+      loadEventEnd: 0,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/apparel/hoodies-sweatshirts was 2.111 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 0,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 415,
+      fetchStart: 415,
+      domainLookupStart: 415,
+      domainLookupEnd: 415,
+      connectStart: 415,
+      connectEnd: 415,
+      secureConnectionStart: 415,
+      requestStart: 420,
+      responseStart: 522,
+      responseEnd: 522,
+      transferSize: 49918,
+      encodedBodySize: 48597,
+      decodedBodySize: 689284,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1553,
+      domContentLoadedEventStart: 1737,
+      domContentLoadedEventEnd: 1738,
+      domComplete: 2091,
+      loadEventStart: 2091,
+      loadEventEnd: 0,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734 was 3.08 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3093,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 84,
+      domainLookupEnd: 84,
+      connectStart: 85,
+      connectEnd: 186,
+      secureConnectionStart: 102,
+      requestStart: 186,
+      responseStart: 383,
+      responseEnd: 383,
+      transferSize: 43369,
+      encodedBodySize: 41891,
+      decodedBodySize: 371754,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1292,
+      domContentLoadedEventStart: 1344,
+      domContentLoadedEventEnd: 1345,
+      domComplete: 3070,
+      loadEventStart: 3070,
+      loadEventEnd: 3093,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/product/womens-copperbay-roots73-fz-hoody-tm98734 was 2.092 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2083,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 305,
+      fetchStart: 305,
+      domainLookupStart: 305,
+      domainLookupEnd: 305,
+      connectStart: 305,
+      connectEnd: 305,
+      secureConnectionStart: 305,
+      requestStart: 324,
+      responseStart: 430,
+      responseEnd: 430,
+      transferSize: 43141,
+      encodedBodySize: 41820,
+      decodedBodySize: 371754,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1345,
+      domContentLoadedEventStart: 1408,
+      domContentLoadedEventEnd: 1410,
+      domComplete: 2061,
+      loadEventStart: 2061,
+      loadEventEnd: 2083,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/tools-services/customizable-ecatalogs was 2.945 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2959,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 293,
+      fetchStart: 293,
+      domainLookupStart: 293,
+      domainLookupEnd: 293,
+      connectStart: 293,
+      connectEnd: 293,
+      secureConnectionStart: 293,
+      requestStart: 300,
+      responseStart: 1488,
+      responseEnd: 1491,
+      transferSize: 24201,
+      encodedBodySize: 23010,
+      decodedBodySize: 224813,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2192,
+      domContentLoadedEventStart: 2268,
+      domContentLoadedEventEnd: 2269,
+      domComplete: 2937,
+      loadEventStart: 2937,
+      loadEventEnd: 2959,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/tools-services/build-your-own-flyers was 7.437 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7449,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 269,
+      fetchStart: 269,
+      domainLookupStart: 269,
+      domainLookupEnd: 269,
+      connectStart: 269,
+      connectEnd: 269,
+      secureConnectionStart: 269,
+      requestStart: 273,
+      responseStart: 1567,
+      responseEnd: 1567,
+      transferSize: 28920,
+      encodedBodySize: 27729,
+      decodedBodySize: 345951,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2429,
+      domContentLoadedEventStart: 2603,
+      domContentLoadedEventEnd: 2603,
+      domComplete: 7427,
+      loadEventStart: 7427,
+      loadEventEnd: 7449,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/tools-services/electronic-integration was 2.606 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/tools-services/electronic-integration',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2622,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 282,
+      fetchStart: 282,
+      domainLookupStart: 282,
+      domainLookupEnd: 282,
+      connectStart: 282,
+      connectEnd: 282,
+      secureConnectionStart: 282,
+      requestStart: 305,
+      responseStart: 435,
+      responseEnd: 438,
+      transferSize: 27043,
+      encodedBodySize: 25722,
+      decodedBodySize: 237054,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1200,
+      domContentLoadedEventStart: 1272,
+      domContentLoadedEventEnd: 1273,
+      domComplete: 2594,
+      loadEventStart: 2594,
+      loadEventEnd: 2622,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-ca/tools-services/perfectly-packaged was 2.144 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/tools-services/perfectly-packaged',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2159,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 272,
+      fetchStart: 272,
+      domainLookupStart: 272,
+      domainLookupEnd: 272,
+      connectStart: 272,
+      connectEnd: 272,
+      secureConnectionStart: 272,
+      requestStart: 276,
+      responseStart: 392,
+      responseEnd: 392,
+      transferSize: 24850,
+      encodedBodySize: 23529,
+      decodedBodySize: 225165,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1181,
+      domContentLoadedEventStart: 1285,
+      domContentLoadedEventEnd: 1286,
+      domComplete: 2132,
+      loadEventStart: 2132,
+      loadEventEnd: 2159,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-us/brand/moop/shop-all was 2.162 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/brand/moop/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2176,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 103,
+      domainLookupEnd: 103,
+      connectStart: 103,
+      connectEnd: 172,
+      secureConnectionStart: 120,
+      requestStart: 173,
+      responseStart: 938,
+      responseEnd: 938,
+      transferSize: 30264,
+      encodedBodySize: 28619,
+      decodedBodySize: 257949,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1733,
+      domContentLoadedEventStart: 1816,
+      domContentLoadedEventEnd: 1818,
+      domComplete: 2149,
+      loadEventStart: 2149,
+      loadEventEnd: 2176,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all was 2.144 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2152,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 218,
+      secureConnectionStart: 151,
+      requestStart: 218,
+      responseStart: 967,
+      responseEnd: 973,
+      transferSize: 30002,
+      encodedBodySize: 28357,
+      decodedBodySize: 249802,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1693,
+      domContentLoadedEventStart: 1789,
+      domContentLoadedEventEnd: 1790,
+      domComplete: 2128,
+      loadEventStart: 2128,
+      loadEventEnd: 2152,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-us/about was 2.279 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/about',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2295,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 104,
+      domainLookupEnd: 104,
+      connectStart: 104,
       connectEnd: 169,
-      secureConnectionStart: 140,
+      secureConnectionStart: 121,
       requestStart: 169,
-      responseStart: 275,
-      responseEnd: 278,
-      transferSize: 28656,
-      encodedBodySize: 27178,
+      responseStart: 326,
+      responseEnd: 333,
+      transferSize: 28666,
+      encodedBodySize: 27188,
       decodedBodySize: 237570,
       serverTiming: [],
       unloadEventStart: 0,
       unloadEventEnd: 0,
-      domInteractive: 942,
-      domContentLoadedEventStart: 1065,
-      domContentLoadedEventEnd: 1066,
-      domComplete: 2022,
-      loadEventStart: 2022,
-      loadEventEnd: 2043,
+      domInteractive: 981,
+      domContentLoadedEventStart: 1150,
+      domContentLoadedEventEnd: 1152,
+      domComplete: 2267,
+      loadEventStart: 2267,
+      loadEventEnd: 2295,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://stagepcna.znodedev.com/en-us/careers was 2.314 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/careers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2310,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 92,
+      domainLookupEnd: 92,
+      connectStart: 92,
+      connectEnd: 169,
+      secureConnectionStart: 109,
+      requestStart: 170,
+      responseStart: 296,
+      responseEnd: 296,
+      transferSize: 25457,
+      encodedBodySize: 23979,
+      decodedBodySize: 230216,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1004,
+      domContentLoadedEventStart: 1142,
+      domContentLoadedEventEnd: 1143,
+      domComplete: 2287,
+      loadEventStart: 2287,
+      loadEventEnd: 2310,
       type: 'navigate',
       redirectCount: 0
     }
