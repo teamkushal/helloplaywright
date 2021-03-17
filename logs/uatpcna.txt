@@ -1,869 +1,89 @@
-Total load time for https://uatpcna.znodedev.com was 2.761 seconds
+Total load time for https://uatpcna.znodedev.com was 2.156 seconds
 {
   metrics: {
     data: {
       name: 'https://uatpcna.znodedev.com/en-us',
       entryType: 'navigation',
       startTime: 0,
-      duration: 2788,
+      duration: 2175,
       initiatorType: 'navigation',
       nextHopProtocol: 'h2',
       workerStart: 0,
       redirectStart: 0,
-      redirectEnd: 800,
-      fetchStart: 800,
-      domainLookupStart: 800,
-      domainLookupEnd: 800,
-      connectStart: 800,
-      connectEnd: 800,
-      secureConnectionStart: 800,
-      requestStart: 802,
-      responseStart: 1614,
-      responseEnd: 1617,
-      transferSize: 24765,
-      encodedBodySize: 23574,
+      redirectEnd: 505,
+      fetchStart: 505,
+      domainLookupStart: 505,
+      domainLookupEnd: 505,
+      connectStart: 505,
+      connectEnd: 505,
+      secureConnectionStart: 505,
+      requestStart: 507,
+      responseStart: 676,
+      responseEnd: 676,
+      transferSize: 24777,
+      encodedBodySize: 23586,
       decodedBodySize: 219057,
       serverTiming: [],
       unloadEventStart: 0,
       unloadEventEnd: 0,
-      domInteractive: 2264,
-      domContentLoadedEventStart: 2343,
-      domContentLoadedEventEnd: 2345,
-      domComplete: 2752,
-      loadEventStart: 2752,
-      loadEventEnd: 2788,
+      domInteractive: 1489,
+      domContentLoadedEventStart: 1572,
+      domContentLoadedEventEnd: 1575,
+      domComplete: 2146,
+      loadEventStart: 2146,
+      loadEventEnd: 2175,
       type: 'navigate',
       redirectCount: 2
     }
   }
 }
-Total load time for https://uatpcna.znodedev.com/Home/ChangeLocale?LocaleId=1 was 2.848 seconds
+Total load time for https://uatpcna.znodedev.com/home/changelocale?localeid=1 was 3.172 seconds
 {
   metrics: {
     data: {
-      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?LocaleId=1',
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=1',
       entryType: 'navigation',
       startTime: 0,
-      duration: 2879,
+      duration: 3180,
       initiatorType: 'navigation',
       nextHopProtocol: 'h2',
       workerStart: 0,
       redirectStart: 0,
-      redirectEnd: 610,
-      fetchStart: 610,
-      domainLookupStart: 610,
-      domainLookupEnd: 610,
-      connectStart: 610,
-      connectEnd: 610,
-      secureConnectionStart: 610,
-      requestStart: 614,
-      responseStart: 1930,
-      responseEnd: 1930,
+      redirectEnd: 454,
+      fetchStart: 454,
+      domainLookupStart: 454,
+      domainLookupEnd: 454,
+      connectStart: 454,
+      connectEnd: 454,
+      secureConnectionStart: 454,
+      requestStart: 457,
+      responseStart: 1971,
+      responseEnd: 1971,
       transferSize: 204961,
       encodedBodySize: 203817,
       decodedBodySize: 203817,
       serverTiming: [],
       unloadEventStart: 0,
       unloadEventEnd: 0,
-      domInteractive: 2582,
-      domContentLoadedEventStart: 2591,
-      domContentLoadedEventEnd: 2593,
-      domComplete: 2838,
-      loadEventStart: 2838,
-      loadEventEnd: 2879,
-      type: 'navigate',
-      redirectCount: 2
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/Home/ChangeLocale?LocaleId=10 was 2.421 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?LocaleId=10',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2452,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 1,
-      redirectEnd: 346,
-      fetchStart: 346,
-      domainLookupStart: 346,
-      domainLookupEnd: 346,
-      connectStart: 346,
-      connectEnd: 346,
-      secureConnectionStart: 346,
-      requestStart: 349,
-      responseStart: 1536,
-      responseEnd: 1536,
-      transferSize: 189868,
-      encodedBodySize: 188723,
-      decodedBodySize: 188723,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2137,
-      domContentLoadedEventStart: 2151,
-      domContentLoadedEventEnd: 2152,
-      domComplete: 2414,
-      loadEventStart: 2414,
-      loadEventEnd: 2452,
-      type: 'navigate',
-      redirectCount: 2
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/home/changelocale?LocaleId=10 was 2.553 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?LocaleId=10',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2569,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 111,
-      domainLookupEnd: 111,
-      connectStart: 111,
-      connectEnd: 160,
-      secureConnectionStart: 113,
-      requestStart: 160,
-      responseStart: 1592,
-      responseEnd: 1592,
-      transferSize: 190024,
-      encodedBodySize: 188722,
-      decodedBodySize: 188722,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2209,
-      domContentLoadedEventStart: 2217,
-      domContentLoadedEventEnd: 2218,
-      domComplete: 2546,
-      loadEventStart: 2546,
-      loadEventEnd: 2569,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/cart was 2.914 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/cart',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2928,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 97,
-      domainLookupEnd: 97,
-      connectStart: 97,
-      connectEnd: 147,
-      secureConnectionStart: 98,
-      requestStart: 147,
-      responseStart: 976,
-      responseEnd: 981,
-      transferSize: 21863,
-      encodedBodySize: 20456,
-      decodedBodySize: 204749,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2443,
-      domContentLoadedEventStart: 2475,
-      domContentLoadedEventEnd: 2476,
-      domComplete: 2903,
-      loadEventStart: 2903,
-      loadEventEnd: 2928,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/tools-services/customizable-ecatalogs was 2.633 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2643,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 300,
-      fetchStart: 300,
-      domainLookupStart: 300,
-      domainLookupEnd: 300,
-      connectStart: 300,
-      connectEnd: 300,
-      secureConnectionStart: 300,
-      requestStart: 304,
-      responseStart: 1386,
-      responseEnd: 1389,
-      transferSize: 22957,
-      encodedBodySize: 21766,
-      decodedBodySize: 218156,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1852,
-      domContentLoadedEventStart: 1920,
-      domContentLoadedEventEnd: 1922,
-      domComplete: 2622,
-      loadEventStart: 2622,
-      loadEventEnd: 2643,
+      domInteractive: 2841,
+      domContentLoadedEventStart: 2851,
+      domContentLoadedEventEnd: 2852,
+      domComplete: 3161,
+      loadEventStart: 3161,
+      loadEventEnd: 3180,
       type: 'navigate',
       redirectCount: 1
     }
   }
 }
-Total load time for https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs was 2.453 seconds
+Total load time for https://uatpcna.znodedev.com/home/changelocale?localeid=10 was 4.166 seconds
 {
   metrics: {
     data: {
-      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=10',
       entryType: 'navigation',
       startTime: 0,
-      duration: 2465,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 117,
-      domainLookupEnd: 118,
-      connectStart: 118,
-      connectEnd: 151,
-      secureConnectionStart: 120,
-      requestStart: 151,
-      responseStart: 1204,
-      responseEnd: 1207,
-      transferSize: 23115,
-      encodedBodySize: 21767,
-      decodedBodySize: 218156,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1681,
-      domContentLoadedEventStart: 1729,
-      domContentLoadedEventEnd: 1730,
-      domComplete: 2442,
-      loadEventStart: 2442,
-      loadEventEnd: 2465,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/tools-services/build-your-own-flyers was 6.732 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 6745,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 254,
-      fetchStart: 254,
-      domainLookupStart: 254,
-      domainLookupEnd: 254,
-      connectStart: 254,
-      connectEnd: 254,
-      secureConnectionStart: 254,
-      requestStart: 257,
-      responseStart: 1405,
-      responseEnd: 1405,
-      transferSize: 26733,
-      encodedBodySize: 25542,
-      decodedBodySize: 335956,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2132,
-      domContentLoadedEventStart: 2209,
-      domContentLoadedEventEnd: 2210,
-      domComplete: 6723,
-      loadEventStart: 6723,
-      loadEventEnd: 6745,
-      type: 'navigate',
-      redirectCount: 1
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers was 6.93 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 6944,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 98,
-      domainLookupEnd: 98,
-      connectStart: 98,
-      connectEnd: 155,
-      secureConnectionStart: 100,
-      requestStart: 157,
-      responseStart: 1424,
-      responseEnd: 1430,
-      transferSize: 26834,
-      encodedBodySize: 25486,
-      decodedBodySize: 335956,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2138,
-      domContentLoadedEventStart: 2198,
-      domContentLoadedEventEnd: 2199,
-      domComplete: 6921,
-      loadEventStart: 6922,
-      loadEventEnd: 6944,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/brand/brandlist?brandName=M was 2.17 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/brand/brandlist?brandName=M',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2171,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 115,
-      domainLookupEnd: 115,
-      connectStart: 115,
-      connectEnd: 151,
-      secureConnectionStart: 117,
-      requestStart: 151,
-      responseStart: 1324,
-      responseEnd: 1325,
-      transferSize: 22336,
-      encodedBodySize: 20858,
-      decodedBodySize: 209081,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1916,
-      domContentLoadedEventStart: 1962,
-      domContentLoadedEventEnd: 1964,
-      domComplete: 2139,
-      loadEventStart: 2139,
-      loadEventEnd: 2171,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/User/Signup/?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.045 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2069,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 397,
-      fetchStart: 397,
-      domainLookupStart: 397,
-      domainLookupEnd: 397,
-      connectStart: 397,
-      connectEnd: 397,
-      secureConnectionStart: 397,
-      requestStart: 400,
-      responseStart: 479,
-      responseEnd: 479,
-      transferSize: 25532,
-      encodedBodySize: 24174,
-      decodedBodySize: 227476,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1900,
-      domContentLoadedEventStart: 1970,
-      domContentLoadedEventEnd: 1972,
-      domComplete: 2036,
-      loadEventStart: 2036,
-      loadEventEnd: 2069,
-      type: 'navigate',
-      redirectCount: 3
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/User/Signup/?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.731 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2721,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 367,
-      fetchStart: 367,
-      domainLookupStart: 367,
-      domainLookupEnd: 367,
-      connectStart: 367,
-      connectEnd: 367,
-      secureConnectionStart: 367,
-      requestStart: 370,
-      responseStart: 465,
-      responseEnd: 465,
-      transferSize: 25449,
-      encodedBodySize: 24091,
-      decodedBodySize: 228694,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1072,
-      domContentLoadedEventStart: 1136,
-      domContentLoadedEventEnd: 1137,
-      domComplete: 2702,
-      loadEventStart: 2702,
-      loadEventEnd: 2721,
-      type: 'navigate',
-      redirectCount: 3
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.312 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2321,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 113,
-      domainLookupEnd: 113,
-      connectStart: 113,
-      connectEnd: 158,
-      secureConnectionStart: 114,
-      requestStart: 158,
-      responseStart: 1425,
-      responseEnd: 1425,
-      transferSize: 25622,
-      encodedBodySize: 24107,
-      decodedBodySize: 229564,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1940,
-      domContentLoadedEventStart: 2065,
-      domContentLoadedEventEnd: 2065,
-      domComplete: 2299,
-      loadEventStart: 2299,
-      loadEventEnd: 2321,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.03 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2039,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 117,
-      domainLookupEnd: 117,
-      connectStart: 117,
-      connectEnd: 161,
-      secureConnectionStart: 119,
-      requestStart: 161,
-      responseStart: 315,
-      responseEnd: 322,
-      transferSize: 24032,
-      encodedBodySize: 22425,
-      decodedBodySize: 216401,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 938,
-      domContentLoadedEventStart: 999,
-      domContentLoadedEventEnd: 999,
-      domComplete: 2021,
-      loadEventStart: 2022,
-      loadEventEnd: 2039,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 5.627 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 5618,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 79,
-      domainLookupEnd: 79,
-      connectStart: 80,
-      connectEnd: 119,
-      secureConnectionStart: 81,
-      requestStart: 120,
-      responseStart: 245,
-      responseEnd: 248,
-      transferSize: 24091,
-      encodedBodySize: 22484,
-      decodedBodySize: 216865,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 823,
-      domContentLoadedEventStart: 869,
-      domContentLoadedEventEnd: 870,
-      domComplete: 5599,
-      loadEventStart: 5599,
-      loadEventEnd: 5618,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/User/Signup/?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.07 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2094,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 393,
-      fetchStart: 393,
-      domainLookupStart: 393,
-      domainLookupEnd: 393,
-      connectStart: 393,
-      connectEnd: 393,
-      secureConnectionStart: 393,
-      requestStart: 398,
-      responseStart: 476,
-      responseEnd: 476,
-      transferSize: 25577,
-      encodedBodySize: 24219,
-      decodedBodySize: 230608,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1933,
-      domContentLoadedEventStart: 1995,
-      domContentLoadedEventEnd: 1996,
-      domComplete: 2061,
-      loadEventStart: 2061,
-      loadEventEnd: 2094,
-      type: 'navigate',
-      redirectCount: 3
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.187 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2206,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 329,
-      fetchStart: 329,
-      domainLookupStart: 329,
-      domainLookupEnd: 329,
-      connectStart: 329,
-      connectEnd: 329,
-      secureConnectionStart: 329,
-      requestStart: 332,
-      responseStart: 423,
-      responseEnd: 423,
-      transferSize: 23918,
-      encodedBodySize: 22468,
-      decodedBodySize: 217851,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1922,
-      domContentLoadedEventStart: 1950,
-      domContentLoadedEventEnd: 1951,
-      domComplete: 2178,
-      loadEventStart: 2178,
-      loadEventEnd: 2206,
-      type: 'navigate',
-      redirectCount: 1
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 3.212 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 3233,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 106,
-      domainLookupEnd: 106,
-      connectStart: 106,
-      connectEnd: 2133,
-      secureConnectionStart: 107,
-      requestStart: 2134,
-      responseStart: 2305,
-      responseEnd: 2308,
-      transferSize: 25690,
-      encodedBodySize: 24175,
-      decodedBodySize: 231536,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2976,
-      domContentLoadedEventStart: 3039,
-      domContentLoadedEventEnd: 3039,
-      domComplete: 3203,
-      loadEventStart: 3203,
-      loadEventEnd: 3233,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.117 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/login?ReturnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2139,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 62,
-      domainLookupEnd: 62,
-      connectStart: 62,
-      connectEnd: 151,
-      secureConnectionStart: 64,
-      requestStart: 156,
-      responseStart: 302,
-      responseEnd: 302,
-      transferSize: 24093,
-      encodedBodySize: 22486,
-      decodedBodySize: 218025,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1803,
-      domContentLoadedEventStart: 1865,
-      domContentLoadedEventEnd: 1865,
-      domComplete: 2109,
-      loadEventStart: 2109,
-      loadEventEnd: 2139,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.035 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2052,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 90,
-      domainLookupEnd: 90,
-      connectStart: 90,
-      connectEnd: 140,
-      secureConnectionStart: 92,
-      requestStart: 140,
-      responseStart: 1255,
-      responseEnd: 1258,
-      transferSize: 25670,
-      encodedBodySize: 24155,
-      decodedBodySize: 231710,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 1874,
-      domContentLoadedEventStart: 1943,
-      domContentLoadedEventEnd: 1944,
-      domComplete: 2021,
-      loadEventStart: 2021,
-      loadEventEnd: 2052,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/User/Signup/?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 2.598 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 2620,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 477,
-      fetchStart: 477,
-      domainLookupStart: 477,
-      domainLookupEnd: 477,
-      connectStart: 477,
-      connectEnd: 477,
-      secureConnectionStart: 477,
-      requestStart: 479,
-      responseStart: 1760,
-      responseEnd: 1760,
-      transferSize: 24743,
-      encodedBodySize: 23385,
-      decodedBodySize: 230264,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 2573,
-      domContentLoadedEventStart: 2588,
-      domContentLoadedEventEnd: 2590,
-      domComplete: 2592,
-      loadEventStart: 2592,
-      loadEventEnd: 2620,
-      type: 'navigate',
-      redirectCount: 3
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 3.347 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 3359,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 129,
-      domainLookupEnd: 129,
-      connectStart: 129,
-      connectEnd: 166,
-      secureConnectionStart: 131,
-      requestStart: 167,
-      responseStart: 2501,
-      responseEnd: 2503,
-      transferSize: 24964,
-      encodedBodySize: 23449,
-      decodedBodySize: 230264,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 3011,
-      domContentLoadedEventStart: 3120,
-      domContentLoadedEventEnd: 3121,
-      domComplete: 3337,
-      loadEventStart: 3337,
-      loadEventEnd: 3359,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://uatpcna.znodedev.com/User/Signup/?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal was 3.189 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://uatpcna.znodedev.com/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/user/signup?returnUrl=/en-us/legal',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 3208,
+      duration: 4178,
       initiatorType: 'navigation',
       nextHopProtocol: 'h2',
       workerStart: 0,
@@ -875,23 +95,530 @@ Total load time for https://uatpcna.znodedev.com/User/Signup/?returnUrl=/en-us/u
       connectStart: 417,
       connectEnd: 417,
       secureConnectionStart: 417,
-      requestStart: 420,
-      responseStart: 2319,
-      responseEnd: 2319,
-      transferSize: 24806,
-      encodedBodySize: 23448,
-      decodedBodySize: 230322,
+      requestStart: 423,
+      responseStart: 1960,
+      responseEnd: 1960,
+      transferSize: 189868,
+      encodedBodySize: 188723,
+      decodedBodySize: 188723,
       serverTiming: [],
       unloadEventStart: 0,
       unloadEventEnd: 0,
-      domInteractive: 2939,
-      domContentLoadedEventStart: 3010,
-      domContentLoadedEventEnd: 3011,
-      domComplete: 3180,
-      loadEventStart: 3180,
-      loadEventEnd: 3208,
+      domInteractive: 2707,
+      domContentLoadedEventStart: 2713,
+      domContentLoadedEventEnd: 2715,
+      domComplete: 4160,
+      loadEventStart: 4160,
+      loadEventEnd: 4178,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=10 was 2.832 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2831,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 114,
+      connectStart: 114,
+      connectEnd: 195,
+      secureConnectionStart: 130,
+      requestStart: 195,
+      responseStart: 1660,
+      responseEnd: 1660,
+      transferSize: 190024,
+      encodedBodySize: 188722,
+      decodedBodySize: 188722,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2359,
+      domContentLoadedEventStart: 2391,
+      domContentLoadedEventEnd: 2392,
+      domComplete: 2814,
+      loadEventStart: 2815,
+      loadEventEnd: 2831,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/customizable-ecatalogs was 2.679 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2684,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 323,
+      fetchStart: 323,
+      domainLookupStart: 323,
+      domainLookupEnd: 323,
+      connectStart: 323,
+      connectEnd: 323,
+      secureConnectionStart: 323,
+      requestStart: 325,
+      responseStart: 1401,
+      responseEnd: 1405,
+      transferSize: 22186,
+      encodedBodySize: 20995,
+      decodedBodySize: 214506,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2136,
+      domContentLoadedEventStart: 2205,
+      domContentLoadedEventEnd: 2205,
+      domComplete: 2665,
+      loadEventStart: 2665,
+      loadEventEnd: 2684,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs was 2.503 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2491,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 95,
+      domainLookupEnd: 95,
+      connectStart: 95,
+      connectEnd: 158,
+      secureConnectionStart: 111,
+      requestStart: 158,
+      responseStart: 1208,
+      responseEnd: 1212,
+      transferSize: 22342,
+      encodedBodySize: 20994,
+      decodedBodySize: 214506,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1883,
+      domContentLoadedEventStart: 1955,
+      domContentLoadedEventEnd: 1957,
+      domComplete: 2470,
+      loadEventStart: 2471,
+      loadEventEnd: 2491,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/build-your-own-flyers was 7.019 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7025,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 336,
+      fetchStart: 336,
+      domainLookupStart: 336,
+      domainLookupEnd: 336,
+      connectStart: 336,
+      connectEnd: 336,
+      secureConnectionStart: 336,
+      requestStart: 350,
+      responseStart: 1499,
+      responseEnd: 1504,
+      transferSize: 26098,
+      encodedBodySize: 24907,
+      decodedBodySize: 332306,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2207,
+      domContentLoadedEventStart: 2314,
+      domContentLoadedEventEnd: 2316,
+      domComplete: 7004,
+      loadEventStart: 7004,
+      loadEventEnd: 7025,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers was 6.829 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6835,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 55,
+      domainLookupEnd: 55,
+      connectStart: 55,
+      connectEnd: 158,
+      secureConnectionStart: 72,
+      requestStart: 158,
+      responseStart: 1335,
+      responseEnd: 1335,
+      transferSize: 26151,
+      encodedBodySize: 24803,
+      decodedBodySize: 332306,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2058,
+      domContentLoadedEventStart: 2129,
+      domContentLoadedEventEnd: 2130,
+      domComplete: 6816,
+      loadEventStart: 6816,
+      loadEventEnd: 6835,
       type: 'navigate',
       redirectCount: 3
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/blog/industries was 2.087 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/blog/industries',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2098,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 568,
+      fetchStart: 568,
+      domainLookupStart: 568,
+      domainLookupEnd: 568,
+      connectStart: 568,
+      connectEnd: 568,
+      secureConnectionStart: 568,
+      requestStart: 572,
+      responseStart: 922,
+      responseEnd: 922,
+      transferSize: 21134,
+      encodedBodySize: 19776,
+      decodedBodySize: 201709,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1639,
+      domContentLoadedEventStart: 1675,
+      domContentLoadedEventEnd: 1675,
+      domComplete: 2080,
+      loadEventStart: 2080,
+      loadEventEnd: 2098,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/blog/industries was 5.536 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/blog/industries',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5524,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 106,
+      connectEnd: 175,
+      secureConnectionStart: 123,
+      requestStart: 175,
+      responseStart: 4578,
+      responseEnd: 4580,
+      transferSize: 21409,
+      encodedBodySize: 19894,
+      decodedBodySize: 201709,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 5170,
+      domContentLoadedEventStart: 5213,
+      domContentLoadedEventEnd: 5214,
+      domComplete: 5504,
+      loadEventStart: 5504,
+      loadEventEnd: 5524,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/brand/brandlist?brandname=x was 2.576 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/brandlist?brandname=x',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2589,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 65,
+      domainLookupEnd: 65,
+      connectStart: 65,
+      connectEnd: 202,
+      secureConnectionStart: 82,
+      requestStart: 202,
+      responseStart: 1549,
+      responseEnd: 1552,
+      transferSize: 22341,
+      encodedBodySize: 20863,
+      decodedBodySize: 209081,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2184,
+      domContentLoadedEventStart: 2215,
+      domContentLoadedEventEnd: 2217,
+      domComplete: 2568,
+      loadEventStart: 2568,
+      loadEventEnd: 2589,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/technology/emerging-trends was 2.436 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/technology/emerging-trends',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2445,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 346,
+      fetchStart: 346,
+      domainLookupStart: 346,
+      domainLookupEnd: 346,
+      connectStart: 346,
+      connectEnd: 346,
+      secureConnectionStart: 346,
+      requestStart: 351,
+      responseStart: 1480,
+      responseEnd: 1483,
+      transferSize: 23841,
+      encodedBodySize: 22391,
+      decodedBodySize: 213751,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2107,
+      domContentLoadedEventStart: 2114,
+      domContentLoadedEventEnd: 2116,
+      domComplete: 2427,
+      loadEventStart: 2427,
+      loadEventEnd: 2445,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/brand/brandlist?brandname=g was 2.116 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/brand/brandlist?brandname=g',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2119,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 338,
+      fetchStart: 338,
+      domainLookupStart: 338,
+      domainLookupEnd: 338,
+      connectStart: 338,
+      connectEnd: 338,
+      secureConnectionStart: 338,
+      requestStart: 343,
+      responseStart: 945,
+      responseEnd: 945,
+      transferSize: 23794,
+      encodedBodySize: 22344,
+      decodedBodySize: 213752,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1666,
+      domContentLoadedEventStart: 1730,
+      domContentLoadedEventEnd: 1731,
+      domComplete: 2101,
+      loadEventStart: 2101,
+      loadEventEnd: 2119,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/returns-cancellations/leeds was 3.94 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/returns-cancellations/leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3925,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 330,
+      fetchStart: 330,
+      domainLookupStart: 330,
+      domainLookupEnd: 330,
+      connectStart: 330,
+      connectEnd: 330,
+      secureConnectionStart: 330,
+      requestStart: 336,
+      responseStart: 453,
+      responseEnd: 453,
+      transferSize: 23692,
+      encodedBodySize: 22242,
+      decodedBodySize: 213752,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3535,
+      domContentLoadedEventStart: 3577,
+      domContentLoadedEventEnd: 3578,
+      domComplete: 3907,
+      loadEventStart: 3907,
+      loadEventEnd: 3925,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=1 was 2.447 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2432,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 82,
+      domainLookupEnd: 82,
+      connectStart: 82,
+      connectEnd: 156,
+      secureConnectionStart: 99,
+      requestStart: 156,
+      responseStart: 1534,
+      responseEnd: 1534,
+      transferSize: 205118,
+      encodedBodySize: 203817,
+      decodedBodySize: 203817,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2067,
+      domContentLoadedEventStart: 2078,
+      domContentLoadedEventEnd: 2079,
+      domComplete: 2413,
+      loadEventStart: 2413,
+      loadEventEnd: 2432,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us was 2.467 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2498,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 101,
+      connectEnd: 171,
+      secureConnectionStart: 116,
+      requestStart: 171,
+      responseStart: 1492,
+      responseEnd: 1495,
+      transferSize: 24922,
+      encodedBodySize: 23574,
+      decodedBodySize: 219057,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2141,
+      domContentLoadedEventStart: 2261,
+      domContentLoadedEventEnd: 2263,
+      domComplete: 2460,
+      loadEventStart: 2460,
+      loadEventEnd: 2498,
+      type: 'navigate',
+      redirectCount: 0
     }
   }
 }
