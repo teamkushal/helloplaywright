@@ -35,8 +35,8 @@ async function benchmark(address: string) {
       const hrefHashPosition = (href.indexOf("#"));
       const recursedUrl = (hrefHashPosition > -1) ? href.substr(0, hrefHashPosition) : href;
       if (!visited.includes(recursedUrl) && href.startsWith(sentinel) && visited.length < max_capacity) {
-        visited.push(href);
-        await benchmark(href);
+        visited.push(recursedUrl);
+        await benchmark(recursedUrl);
       }
     }
   } catch (error) {
