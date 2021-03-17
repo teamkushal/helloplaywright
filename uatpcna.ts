@@ -4,7 +4,7 @@ const { firefox } = require("playwright");
 
 const sentinel = "https://uatpcna.znodedev.com";
 const visited: string[] = [];
-const threshold_in_seconds = 3;
+const threshold_in_seconds = 2;
 const max_capacity = 6 * 60 * 60 / 30;
 
 (async () => {
@@ -32,7 +32,9 @@ async function benchmark(address: string) {
     hrefs = await page.$$eval("a", (as: any[]) => as.map((a) => a.href));
     await browser.close();
     for (const href of hrefs) {
-      if (!visited.includes(href) && href.startsWith(sentinel) && visited.length < max_capacity) {
+      const hrefHashPosition = (href.indexOf("#"));
+      const recursedUrl = (hrefHashPosition > -1) ? href.substr(0, hrefHashPosition) : href;
+      if (!visited.includes(recursedUrl) && href.startsWith(sentinel) && visited.length < max_capacity) {
         visited.push(href);
         await benchmark(href);
       }

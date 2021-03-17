@@ -2,7 +2,7 @@ import { Page } from "playwright";
 
 const { firefox } = require("playwright");
 
-const threshold_in_seconds = 3;
+const threshold_in_seconds = 2;
 
 const addresses = [
   "https://stagepcna.znodedev.com/en-us",
