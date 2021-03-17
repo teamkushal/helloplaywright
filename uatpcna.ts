@@ -22,19 +22,28 @@ async function benchmark(address: string) {
     const load_time = (end_time - start_time) / 1000;
     const metrics = await getMetrics(page);
     if (metrics.data.duration > threshold_in_seconds * 1000) {
-        console.log(
-          `Total load time for ${address} was ${
-            (end_time - start_time) / 1000
-          } seconds`
-        );
-        console.log({ metrics });
-      }
+      console.log(
+        `Total load time for ${address} was ${
+          (end_time - start_time) / 1000
+        } seconds`
+      );
+      console.log({ metrics });
+    }
     hrefs = await page.$$eval("a", (as: any[]) => as.map((a) => a.href));
     await browser.close();
     for (const href of hrefs) {
-      const hrefHashPosition = (href.indexOf("#"));
-      const hrefWithoutHash = (hrefHashPosition > -1) ? href.substr(0, hrefHashPosition) : href;
-      if (!visited.includes(hrefWithoutHash) && href.startsWith(sentinel) && visited.length < max_capacity) {
+      const hrefHashPosition = href.indexOf("#");
+      const hrefReturnUrlPosition = href.indexOf("?return");
+      const hrefWithoutHash =
+        hrefHashPosition > -1
+          ? href.substr(0, hrefHashPosition).toLowerCase()
+          : href.toLowerCase();
+      if (
+        !visited.includes(hrefWithoutHash) &&
+        hrefWithoutHash.startsWith(sentinel) &&
+        hrefReturnUrlPosition < 0 &&
+        visited.length < max_capacity
+      ) {
         visited.push(hrefWithoutHash);
         await benchmark(hrefWithoutHash);
       }
