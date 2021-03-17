@@ -33,10 +33,10 @@ async function benchmark(address: string) {
     await browser.close();
     for (const href of hrefs) {
       const hrefHashPosition = (href.indexOf("#"));
-      const recursedUrl = (hrefHashPosition > -1) ? href.substr(0, hrefHashPosition) : href;
-      if (!visited.includes(recursedUrl) && href.startsWith(sentinel) && visited.length < max_capacity) {
-        visited.push(recursedUrl);
-        await benchmark(recursedUrl);
+      const hrefWithoutHash = (hrefHashPosition > -1) ? href.substr(0, hrefHashPosition) : href;
+      if (!visited.includes(hrefWithoutHash) && href.startsWith(sentinel) && visited.length < max_capacity) {
+        visited.push(hrefWithoutHash);
+        await benchmark(hrefWithoutHash);
       }
     }
   } catch (error) {
