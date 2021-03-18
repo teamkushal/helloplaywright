@@ -1,0 +1,6396 @@
+Total load time for https://uatpcna.znodedev.com was 1.992 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2011,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 571,
+      fetchStart: 571,
+      domainLookupStart: 571,
+      domainLookupEnd: 571,
+      connectStart: 571,
+      connectEnd: 571,
+      secureConnectionStart: 571,
+      requestStart: 575,
+      responseStart: 776,
+      responseEnd: 779,
+      transferSize: 26619,
+      encodedBodySize: 25428,
+      decodedBodySize: 229357,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1528,
+      domContentLoadedEventStart: 1575,
+      domContentLoadedEventEnd: 1576,
+      domComplete: 1982,
+      loadEventStart: 1982,
+      loadEventEnd: 2011,
+      type: 'navigate',
+      redirectCount: 2
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/home/changelocale?localeid=1 was 3.341 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=1',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3339,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 700,
+      fetchStart: 700,
+      domainLookupStart: 700,
+      domainLookupEnd: 700,
+      connectStart: 700,
+      connectEnd: 700,
+      secureConnectionStart: 700,
+      requestStart: 704,
+      responseStart: 2190,
+      responseEnd: 2190,
+      transferSize: 211182,
+      encodedBodySize: 210038,
+      decodedBodySize: 210038,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2969,
+      domContentLoadedEventStart: 2979,
+      domContentLoadedEventEnd: 2980,
+      domComplete: 3312,
+      loadEventStart: 3312,
+      loadEventEnd: 3339,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/home/changelocale?localeid=10 was 3.435 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3447,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 414,
+      fetchStart: 414,
+      domainLookupStart: 414,
+      domainLookupEnd: 414,
+      connectStart: 414,
+      connectEnd: 414,
+      secureConnectionStart: 414,
+      requestStart: 418,
+      responseStart: 2079,
+      responseEnd: 2079,
+      transferSize: 196033,
+      encodedBodySize: 194888,
+      decodedBodySize: 194888,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3103,
+      domContentLoadedEventStart: 3118,
+      domContentLoadedEventEnd: 3120,
+      domComplete: 3429,
+      loadEventStart: 3429,
+      loadEventEnd: 3447,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=10 was 2.846 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/home/changelocale?localeid=10',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2859,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 109,
+      domainLookupEnd: 109,
+      connectStart: 109,
+      connectEnd: 420,
+      secureConnectionStart: 125,
+      requestStart: 421,
+      responseStart: 1842,
+      responseEnd: 1842,
+      transferSize: 196189,
+      encodedBodySize: 194887,
+      decodedBodySize: 194887,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2532,
+      domContentLoadedEventStart: 2542,
+      domContentLoadedEventEnd: 2543,
+      domComplete: 2835,
+      loadEventStart: 2835,
+      loadEventEnd: 2859,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/thule/shop-all was 2.6 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/thule/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2620,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 308,
+      fetchStart: 308,
+      domainLookupStart: 308,
+      domainLookupEnd: 308,
+      connectStart: 308,
+      connectEnd: 308,
+      secureConnectionStart: 308,
+      requestStart: 311,
+      responseStart: 1560,
+      responseEnd: 1560,
+      transferSize: 34968,
+      encodedBodySize: 33480,
+      decodedBodySize: 385297,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2241,
+      domContentLoadedEventStart: 2274,
+      domContentLoadedEventEnd: 2275,
+      domComplete: 2586,
+      loadEventStart: 2586,
+      loadEventEnd: 2620,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/brand/thule/shop-all was 2.596 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/thule/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2627,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 257,
+      secureConnectionStart: 72,
+      requestStart: 257,
+      responseStart: 1552,
+      responseEnd: 1552,
+      transferSize: 35359,
+      encodedBodySize: 33714,
+      decodedBodySize: 385297,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2156,
+      domContentLoadedEventStart: 2331,
+      domContentLoadedEventEnd: 2335,
+      domComplete: 2588,
+      loadEventStart: 2588,
+      loadEventEnd: 2627,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/arctic-zone/shop-all?facetgroup=category%7cdrinkware%2bgift%2bsets~mugs~tumblers~vacuum%2binsulated~water%2bbottles&fromsearch=true was 2.042 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/arctic-zone/shop-all?facetgroup=category%7cdrinkware%2bgift%2bsets~mugs~tumblers~vacuum%2binsulated~water%2bbottles&fromsearch=true',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2068,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 344,
+      fetchStart: 344,
+      domainLookupStart: 344,
+      domainLookupEnd: 344,
+      connectStart: 344,
+      connectEnd: 344,
+      secureConnectionStart: 344,
+      requestStart: 352,
+      responseStart: 1157,
+      responseEnd: 1162,
+      transferSize: 27738,
+      encodedBodySize: 26250,
+      decodedBodySize: 233226,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1725,
+      domContentLoadedEventStart: 1807,
+      domContentLoadedEventEnd: 1809,
+      domComplete: 2031,
+      loadEventStart: 2031,
+      loadEventEnd: 2068,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/rocketbook/shop-all was 2.023 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/rocketbook/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2064,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 342,
+      fetchStart: 342,
+      domainLookupStart: 342,
+      domainLookupEnd: 342,
+      connectStart: 342,
+      connectEnd: 342,
+      secureConnectionStart: 342,
+      requestStart: 350,
+      responseStart: 1192,
+      responseEnd: 1192,
+      transferSize: 29923,
+      encodedBodySize: 28435,
+      decodedBodySize: 250191,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1756,
+      domContentLoadedEventStart: 1856,
+      domContentLoadedEventEnd: 1858,
+      domComplete: 2013,
+      loadEventStart: 2013,
+      loadEventEnd: 2064,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/leeds was 3.07 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3085,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 298,
+      fetchStart: 298,
+      domainLookupStart: 298,
+      domainLookupEnd: 298,
+      connectStart: 298,
+      connectEnd: 298,
+      secureConnectionStart: 298,
+      requestStart: 310,
+      responseStart: 1940,
+      responseEnd: 1944,
+      transferSize: 23537,
+      encodedBodySize: 22216,
+      decodedBodySize: 214119,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2766,
+      domContentLoadedEventStart: 2788,
+      domContentLoadedEventEnd: 2793,
+      domComplete: 3063,
+      loadEventStart: 3063,
+      loadEventEnd: 3085,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/camelbak was 2.976 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/camelbak',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2992,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 340,
+      fetchStart: 340,
+      domainLookupStart: 340,
+      domainLookupEnd: 340,
+      connectStart: 340,
+      connectEnd: 340,
+      secureConnectionStart: 340,
+      requestStart: 343,
+      responseStart: 1866,
+      responseEnd: 1869,
+      transferSize: 24138,
+      encodedBodySize: 22817,
+      decodedBodySize: 214638,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2655,
+      domContentLoadedEventStart: 2660,
+      domContentLoadedEventEnd: 2661,
+      domComplete: 2968,
+      loadEventStart: 2968,
+      loadEventEnd: 2992,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/brand/camelbak was 2.613 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/camelbak',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2634,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 108,
+      domainLookupEnd: 108,
+      connectStart: 108,
+      connectEnd: 176,
+      secureConnectionStart: 124,
+      requestStart: 176,
+      responseStart: 1564,
+      responseEnd: 1567,
+      transferSize: 24303,
+      encodedBodySize: 22825,
+      decodedBodySize: 214638,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2244,
+      domContentLoadedEventStart: 2313,
+      domContentLoadedEventEnd: 2314,
+      domComplete: 2604,
+      loadEventStart: 2605,
+      loadEventEnd: 2634,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/moop was 1.99 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/moop',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2010,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 409,
+      fetchStart: 409,
+      domainLookupStart: 409,
+      domainLookupEnd: 409,
+      connectStart: 409,
+      connectEnd: 409,
+      secureConnectionStart: 409,
+      requestStart: 420,
+      responseStart: 919,
+      responseEnd: 919,
+      transferSize: 25459,
+      encodedBodySize: 24138,
+      decodedBodySize: 229105,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1632,
+      domContentLoadedEventStart: 1646,
+      domContentLoadedEventEnd: 1647,
+      domComplete: 1984,
+      loadEventStart: 1984,
+      loadEventEnd: 2010,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/skullcandy/shop-all was 2.514 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/skullcandy/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2521,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 299,
+      fetchStart: 299,
+      domainLookupStart: 299,
+      domainLookupEnd: 299,
+      connectStart: 299,
+      connectEnd: 299,
+      secureConnectionStart: 299,
+      requestStart: 308,
+      responseStart: 1452,
+      responseEnd: 1452,
+      transferSize: 32956,
+      encodedBodySize: 31468,
+      decodedBodySize: 332304,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2170,
+      domContentLoadedEventStart: 2189,
+      domContentLoadedEventEnd: 2190,
+      domComplete: 2484,
+      loadEventStart: 2484,
+      loadEventEnd: 2521,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/brand/skullcandy/shop-all was 2.514 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/skullcandy/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2531,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 171,
+      secureConnectionStart: 75,
+      requestStart: 171,
+      responseStart: 1391,
+      responseEnd: 1391,
+      transferSize: 33170,
+      encodedBodySize: 31525,
+      decodedBodySize: 332304,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2013,
+      domContentLoadedEventStart: 2149,
+      domContentLoadedEventEnd: 2150,
+      domComplete: 2502,
+      loadEventStart: 2502,
+      loadEventEnd: 2531,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/brand/herschel/shop-all was 2.339 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/herschel/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2370,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 305,
+      fetchStart: 305,
+      domainLookupStart: 305,
+      domainLookupEnd: 305,
+      connectStart: 305,
+      connectEnd: 305,
+      secureConnectionStart: 305,
+      requestStart: 312,
+      responseStart: 1297,
+      responseEnd: 1303,
+      transferSize: 32101,
+      encodedBodySize: 30613,
+      decodedBodySize: 305871,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2019,
+      domContentLoadedEventStart: 2122,
+      domContentLoadedEventEnd: 2123,
+      domComplete: 2329,
+      loadEventStart: 2329,
+      loadEventEnd: 2370,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/brand/herschel/shop-all was 2.492 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/brand/herschel/shop-all',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2504,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 99,
+      domainLookupEnd: 99,
+      connectStart: 99,
+      connectEnd: 171,
+      secureConnectionStart: 116,
+      requestStart: 171,
+      responseStart: 1373,
+      responseEnd: 1373,
+      transferSize: 32272,
+      encodedBodySize: 30627,
+      decodedBodySize: 305871,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2079,
+      domContentLoadedEventStart: 2093,
+      domContentLoadedEventEnd: 2093,
+      domComplete: 2474,
+      loadEventStart: 2474,
+      loadEventEnd: 2504,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/customizable-ecatalogs was 3.76 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3768,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 319,
+      fetchStart: 319,
+      domainLookupStart: 319,
+      domainLookupEnd: 319,
+      connectStart: 319,
+      connectEnd: 319,
+      secureConnectionStart: 319,
+      requestStart: 322,
+      responseStart: 2320,
+      responseEnd: 2320,
+      transferSize: 24333,
+      encodedBodySize: 23142,
+      decodedBodySize: 225214,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2969,
+      domContentLoadedEventStart: 3047,
+      domContentLoadedEventEnd: 3049,
+      domComplete: 3746,
+      loadEventStart: 3746,
+      loadEventEnd: 3768,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs was 2.331 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/customizable-ecatalogs',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2344,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 89,
+      domainLookupEnd: 89,
+      connectStart: 89,
+      connectEnd: 158,
+      secureConnectionStart: 106,
+      requestStart: 158,
+      responseStart: 1026,
+      responseEnd: 1029,
+      transferSize: 24516,
+      encodedBodySize: 23168,
+      decodedBodySize: 225214,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1659,
+      domContentLoadedEventStart: 1743,
+      domContentLoadedEventEnd: 1745,
+      domComplete: 2322,
+      loadEventStart: 2322,
+      loadEventEnd: 2344,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/build-your-own-flyers was 7.372 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7387,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 361,
+      fetchStart: 361,
+      domainLookupStart: 361,
+      domainLookupEnd: 361,
+      connectStart: 361,
+      connectEnd: 361,
+      secureConnectionStart: 361,
+      requestStart: 365,
+      responseStart: 1575,
+      responseEnd: 1575,
+      transferSize: 29075,
+      encodedBodySize: 27884,
+      decodedBodySize: 346352,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2285,
+      domContentLoadedEventStart: 2423,
+      domContentLoadedEventEnd: 2425,
+      domComplete: 7356,
+      loadEventStart: 7356,
+      loadEventEnd: 7387,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers was 7.841 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/build-your-own-flyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7854,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 108,
+      domainLookupEnd: 108,
+      connectStart: 109,
+      connectEnd: 176,
+      secureConnectionStart: 124,
+      requestStart: 176,
+      responseStart: 2260,
+      responseEnd: 2269,
+      transferSize: 28971,
+      encodedBodySize: 27623,
+      decodedBodySize: 346352,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3038,
+      domContentLoadedEventStart: 3146,
+      domContentLoadedEventEnd: 3147,
+      domComplete: 7835,
+      loadEventStart: 7835,
+      loadEventEnd: 7854,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/worldsource-custom-sourcing was 2.143 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/worldsource-custom-sourcing',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2162,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 87,
+      domainLookupEnd: 87,
+      connectStart: 87,
+      connectEnd: 176,
+      secureConnectionStart: 103,
+      requestStart: 176,
+      responseStart: 1053,
+      responseEnd: 1058,
+      transferSize: 26094,
+      encodedBodySize: 24616,
+      decodedBodySize: 231692,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1731,
+      domContentLoadedEventStart: 1830,
+      domContentLoadedEventEnd: 1831,
+      domComplete: 2136,
+      loadEventStart: 2137,
+      loadEventEnd: 2162,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/tools-services/perfectly-packaged was 2.263 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/perfectly-packaged',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2282,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 77,
+      domainLookupEnd: 77,
+      connectStart: 77,
+      connectEnd: 165,
+      secureConnectionStart: 94,
+      requestStart: 165,
+      responseStart: 916,
+      responseEnd: 921,
+      transferSize: 25251,
+      encodedBodySize: 23773,
+      decodedBodySize: 225573,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1568,
+      domContentLoadedEventStart: 1608,
+      domContentLoadedEventEnd: 1609,
+      domComplete: 2249,
+      loadEventStart: 2249,
+      loadEventEnd: 2282,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/signup/ was 21.739 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/signup',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 21749,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 18370,
+      fetchStart: 18370,
+      domainLookupStart: 18370,
+      domainLookupEnd: 18370,
+      connectStart: 18370,
+      connectEnd: 18370,
+      secureConnectionStart: 18370,
+      requestStart: 18374,
+      responseStart: 20591,
+      responseEnd: 20597,
+      transferSize: 26879,
+      encodedBodySize: 25521,
+      decodedBodySize: 233604,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 21432,
+      domContentLoadedEventStart: 21446,
+      domContentLoadedEventEnd: 21447,
+      domComplete: 21731,
+      loadEventStart: 21731,
+      loadEventEnd: 21749,
+      type: 'navigate',
+      redirectCount: 2
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/user/signup was 3.345 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/signup',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3356,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 106,
+      connectEnd: 197,
+      secureConnectionStart: 123,
+      requestStart: 197,
+      responseStart: 2253,
+      responseEnd: 2253,
+      transferSize: 27113,
+      encodedBodySize: 25598,
+      decodedBodySize: 233604,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3040,
+      domContentLoadedEventStart: 3048,
+      domContentLoadedEventEnd: 3048,
+      domComplete: 3335,
+      loadEventStart: 3335,
+      loadEventEnd: 3356,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/request-samples/leeds was 2.657 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/request-samples/leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2662,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 308,
+      fetchStart: 308,
+      domainLookupStart: 308,
+      domainLookupEnd: 308,
+      connectStart: 308,
+      connectEnd: 308,
+      secureConnectionStart: 308,
+      requestStart: 314,
+      responseStart: 1681,
+      responseEnd: 1685,
+      transferSize: 25403,
+      encodedBodySize: 24082,
+      decodedBodySize: 227512,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2322,
+      domContentLoadedEventStart: 2383,
+      domContentLoadedEventEnd: 2384,
+      domComplete: 2640,
+      loadEventStart: 2640,
+      loadEventEnd: 2662,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/request-samples/leeds was 2.418 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/request-samples/leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2432,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 106,
+      connectEnd: 177,
+      secureConnectionStart: 122,
+      requestStart: 178,
+      responseStart: 1468,
+      responseEnd: 1468,
+      transferSize: 25541,
+      encodedBodySize: 24063,
+      decodedBodySize: 227512,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1999,
+      domContentLoadedEventStart: 2072,
+      domContentLoadedEventEnd: 2073,
+      domComplete: 2408,
+      loadEventStart: 2408,
+      loadEventEnd: 2432,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/fulfillment-shipping/leeds was 2.138 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/fulfillment-shipping/leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2153,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 373,
+      fetchStart: 373,
+      domainLookupStart: 373,
+      domainLookupEnd: 373,
+      connectStart: 373,
+      connectEnd: 373,
+      secureConnectionStart: 373,
+      requestStart: 377,
+      responseStart: 852,
+      responseEnd: 857,
+      transferSize: 27201,
+      encodedBodySize: 25880,
+      decodedBodySize: 235205,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1556,
+      domContentLoadedEventStart: 1624,
+      domContentLoadedEventEnd: 1625,
+      domComplete: 2127,
+      loadEventStart: 2127,
+      loadEventEnd: 2153,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/fulfillment-shipping/trimark was 3.449 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/fulfillment-shipping/trimark',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3475,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 439,
+      fetchStart: 439,
+      domainLookupStart: 439,
+      domainLookupEnd: 439,
+      connectStart: 439,
+      connectEnd: 439,
+      secureConnectionStart: 439,
+      requestStart: 444,
+      responseStart: 2179,
+      responseEnd: 2179,
+      transferSize: 26505,
+      encodedBodySize: 25184,
+      decodedBodySize: 233559,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2917,
+      domContentLoadedEventStart: 3003,
+      domContentLoadedEventEnd: 3004,
+      domComplete: 3439,
+      loadEventStart: 3439,
+      loadEventEnd: 3475,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/fulfillment-shipping/trimark was 2.597 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/fulfillment-shipping/trimark',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2624,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 130,
+      domainLookupEnd: 130,
+      connectStart: 130,
+      connectEnd: 224,
+      secureConnectionStart: 146,
+      requestStart: 224,
+      responseStart: 1853,
+      responseEnd: 1854,
+      transferSize: 26692,
+      encodedBodySize: 25214,
+      decodedBodySize: 233559,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2401,
+      domContentLoadedEventStart: 2487,
+      domContentLoadedEventEnd: 2489,
+      domComplete: 2590,
+      loadEventStart: 2590,
+      loadEventEnd: 2624,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/user/login?returnurl=%2fcontact was 2.717 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=%2fcontact',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2728,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 295,
+      secureConnectionStart: 128,
+      requestStart: 296,
+      responseStart: 1584,
+      responseEnd: 1589,
+      transferSize: 25355,
+      encodedBodySize: 23748,
+      decodedBodySize: 220067,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2242,
+      domContentLoadedEventStart: 2316,
+      domContentLoadedEventEnd: 2318,
+      domComplete: 2710,
+      loadEventStart: 2710,
+      loadEventEnd: 2728,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/user/login?returnurl=%2fen-us%2fwhitelabelstore%2flist was 3.597 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=%2fen-us%2fwhitelabelstore%2flist',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3607,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 121,
+      domainLookupEnd: 121,
+      connectStart: 121,
+      connectEnd: 198,
+      secureConnectionStart: 138,
+      requestStart: 198,
+      responseStart: 474,
+      responseEnd: 482,
+      transferSize: 25369,
+      encodedBodySize: 23762,
+      decodedBodySize: 220086,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3147,
+      domContentLoadedEventStart: 3214,
+      domContentLoadedEventEnd: 3217,
+      domComplete: 3588,
+      loadEventStart: 3588,
+      loadEventEnd: 3607,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/worldsource-custom-sourcing was 2.206 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/worldsource-custom-sourcing',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2217,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 313,
+      fetchStart: 313,
+      domainLookupStart: 313,
+      domainLookupEnd: 313,
+      connectStart: 313,
+      connectEnd: 313,
+      secureConnectionStart: 313,
+      requestStart: 340,
+      responseStart: 1161,
+      responseEnd: 1161,
+      transferSize: 25949,
+      encodedBodySize: 24628,
+      decodedBodySize: 231692,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1982,
+      domContentLoadedEventStart: 2026,
+      domContentLoadedEventEnd: 2028,
+      domComplete: 2178,
+      loadEventStart: 2178,
+      loadEventEnd: 2217,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/tools-services/perfectly-packaged was 2.335 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/tools-services/perfectly-packaged',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2335,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 298,
+      fetchStart: 298,
+      domainLookupStart: 298,
+      domainLookupEnd: 298,
+      connectStart: 298,
+      connectEnd: 298,
+      secureConnectionStart: 298,
+      requestStart: 303,
+      responseStart: 823,
+      responseEnd: 827,
+      transferSize: 25126,
+      encodedBodySize: 23805,
+      decodedBodySize: 225573,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1420,
+      domContentLoadedEventStart: 1532,
+      domContentLoadedEventEnd: 1533,
+      domComplete: 2301,
+      loadEventStart: 2301,
+      loadEventEnd: 2335,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/55-x-85-ambassador-bound-journalbook-1921-09 was 2.15 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/55-x-85-ambassador-bound-journalbook-1921-09',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2175,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 164,
+      secureConnectionStart: 117,
+      requestStart: 164,
+      responseStart: 1034,
+      responseEnd: 1034,
+      transferSize: 44440,
+      encodedBodySize: 42795,
+      decodedBodySize: 401919,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1770,
+      domContentLoadedEventStart: 1788,
+      domContentLoadedEventEnd: 1789,
+      domComplete: 2141,
+      loadEventStart: 2141,
+      loadEventEnd: 2175,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/about was 2.769 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/about',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2770,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 311,
+      fetchStart: 311,
+      domainLookupStart: 311,
+      domainLookupEnd: 311,
+      connectStart: 311,
+      connectEnd: 311,
+      secureConnectionStart: 311,
+      requestStart: 314,
+      responseStart: 665,
+      responseEnd: 669,
+      transferSize: 28640,
+      encodedBodySize: 27319,
+      decodedBodySize: 237972,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1379,
+      domContentLoadedEventStart: 1531,
+      domContentLoadedEventEnd: 1532,
+      domComplete: 2748,
+      loadEventStart: 2749,
+      loadEventEnd: 2770,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/about was 2.256 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/about',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2257,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 61,
+      domainLookupEnd: 61,
+      connectStart: 61,
+      connectEnd: 172,
+      secureConnectionStart: 78,
+      requestStart: 172,
+      responseStart: 443,
+      responseEnd: 443,
+      transferSize: 28853,
+      encodedBodySize: 27375,
+      decodedBodySize: 237972,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1152,
+      domContentLoadedEventStart: 1287,
+      domContentLoadedEventEnd: 1288,
+      domComplete: 2232,
+      loadEventStart: 2232,
+      loadEventEnd: 2257,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/compliance was 2.129 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/compliance',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2132,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 484,
+      fetchStart: 484,
+      domainLookupStart: 484,
+      domainLookupEnd: 484,
+      connectStart: 484,
+      connectEnd: 484,
+      secureConnectionStart: 484,
+      requestStart: 489,
+      responseStart: 1099,
+      responseEnd: 1103,
+      transferSize: 25838,
+      encodedBodySize: 24517,
+      decodedBodySize: 234055,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1745,
+      domContentLoadedEventStart: 1755,
+      domContentLoadedEventEnd: 1756,
+      domComplete: 2102,
+      loadEventStart: 2102,
+      loadEventEnd: 2132,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/1oz-clip-go-hand-sanitizer-2-1410-44 was 2.188 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/1oz-clip-go-hand-sanitizer-2-1410-44',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2211,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 128,
+      domainLookupEnd: 128,
+      connectStart: 128,
+      connectEnd: 222,
+      secureConnectionStart: 152,
+      requestStart: 222,
+      responseStart: 1247,
+      responseEnd: 1247,
+      transferSize: 38719,
+      encodedBodySize: 37074,
+      decodedBodySize: 309042,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1870,
+      domContentLoadedEventStart: 1925,
+      domContentLoadedEventEnd: 1927,
+      domComplete: 2180,
+      loadEventStart: 2180,
+      loadEventEnd: 2211,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/4-piece-coaster-game-set-3002-34 was 2.035 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/4-piece-coaster-game-set-3002-34',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2052,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 119,
+      domainLookupEnd: 119,
+      connectStart: 119,
+      connectEnd: 191,
+      secureConnectionStart: 137,
+      requestStart: 191,
+      responseStart: 905,
+      responseEnd: 905,
+      transferSize: 41756,
+      encodedBodySize: 40111,
+      decodedBodySize: 340018,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1621,
+      domContentLoadedEventStart: 1649,
+      domContentLoadedEventEnd: 1649,
+      domComplete: 2022,
+      loadEventStart: 2022,
+      loadEventEnd: 2052,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/55-x-85-trento-bound-journalbook-bundle-set-7200-61 was 3.811 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/55-x-85-trento-bound-journalbook-bundle-set-7200-61',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3822,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 300,
+      fetchStart: 300,
+      domainLookupStart: 300,
+      domainLookupEnd: 300,
+      connectStart: 300,
+      connectEnd: 300,
+      secureConnectionStart: 300,
+      requestStart: 303,
+      responseStart: 3045,
+      responseEnd: 3045,
+      transferSize: 25154,
+      encodedBodySize: 23704,
+      decodedBodySize: 220125,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3646,
+      domContentLoadedEventStart: 3705,
+      domContentLoadedEventEnd: 3706,
+      domComplete: 3794,
+      loadEventStart: 3794,
+      loadEventEnd: 3822,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/58-ultra-value-auto-open-folding-golf-umbrella-2050-23 was 2.128 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/58-ultra-value-auto-open-folding-golf-umbrella-2050-23',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2152,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 109,
+      domainLookupEnd: 109,
+      connectStart: 109,
+      connectEnd: 283,
+      secureConnectionStart: 127,
+      requestStart: 283,
+      responseStart: 1078,
+      responseEnd: 1078,
+      transferSize: 46034,
+      encodedBodySize: 44389,
+      decodedBodySize: 487135,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1770,
+      domContentLoadedEventStart: 1841,
+      domContentLoadedEventEnd: 1841,
+      domComplete: 2120,
+      loadEventStart: 2120,
+      loadEventEnd: 2152,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/aft-recycled-pet-21-duffel-3450-96 was 2.171 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/aft-recycled-pet-21-duffel-3450-96',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2180,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 62,
+      domainLookupEnd: 62,
+      connectStart: 62,
+      connectEnd: 170,
+      secureConnectionStart: 79,
+      requestStart: 170,
+      responseStart: 1105,
+      responseEnd: 1105,
+      transferSize: 47006,
+      encodedBodySize: 45361,
+      decodedBodySize: 493841,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1864,
+      domContentLoadedEventStart: 1930,
+      domContentLoadedEventEnd: 1931,
+      domComplete: 2158,
+      loadEventStart: 2158,
+      loadEventEnd: 2180,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/budget-non-woven-drawstring-bag-sm-5914 was 4.313 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/budget-non-woven-drawstring-bag-sm-5914',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4315,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 70,
+      domainLookupEnd: 70,
+      connectStart: 70,
+      connectEnd: 134,
+      secureConnectionStart: 87,
+      requestStart: 134,
+      responseStart: 2392,
+      responseEnd: 2392,
+      transferSize: 38889,
+      encodedBodySize: 37244,
+      decodedBodySize: 318856,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3148,
+      domContentLoadedEventStart: 3171,
+      domContentLoadedEventEnd: 3172,
+      domComplete: 4286,
+      loadEventStart: 4286,
+      loadEventEnd: 4315,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/budget-non-woven-drawstring-bag-sm-5914 was 3.005 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/budget-non-woven-drawstring-bag-sm-5914',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3015,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 292,
+      fetchStart: 292,
+      domainLookupStart: 292,
+      domainLookupEnd: 292,
+      connectStart: 292,
+      connectEnd: 292,
+      secureConnectionStart: 292,
+      requestStart: 297,
+      responseStart: 1337,
+      responseEnd: 1337,
+      transferSize: 25216,
+      encodedBodySize: 23766,
+      decodedBodySize: 220113,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1918,
+      domContentLoadedEventStart: 2037,
+      domContentLoadedEventEnd: 2039,
+      domComplete: 2996,
+      loadEventStart: 2997,
+      loadEventEnd: 3015,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/burton-refillable-notebook-sm-3567 was 5.175 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/burton-refillable-notebook-sm-3567',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 5182,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 134,
+      domainLookupEnd: 134,
+      connectStart: 134,
+      connectEnd: 196,
+      secureConnectionStart: 149,
+      requestStart: 197,
+      responseStart: 1204,
+      responseEnd: 1204,
+      transferSize: 41978,
+      encodedBodySize: 40333,
+      decodedBodySize: 344447,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1895,
+      domContentLoadedEventStart: 1946,
+      domContentLoadedEventEnd: 1947,
+      domComplete: 5161,
+      loadEventStart: 5161,
+      loadEventEnd: 5182,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/driver-15-computer-backpack-sm-5909 was 4.58 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/driver-15-computer-backpack-sm-5909',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4596,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 121,
+      connectEnd: 197,
+      secureConnectionStart: 136,
+      requestStart: 197,
+      responseStart: 3380,
+      responseEnd: 3380,
+      transferSize: 43342,
+      encodedBodySize: 41697,
+      decodedBodySize: 380119,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4171,
+      domContentLoadedEventStart: 4246,
+      domContentLoadedEventEnd: 4246,
+      domComplete: 4574,
+      loadEventStart: 4574,
+      loadEventEnd: 4596,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/field-co-100-recycled-pet-sherpa-blanket-1081-58 was 2.553 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/field-co-100-recycled-pet-sherpa-blanket-1081-58',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2571,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 126,
+      domainLookupEnd: 126,
+      connectStart: 126,
+      connectEnd: 201,
+      secureConnectionStart: 142,
+      requestStart: 201,
+      responseStart: 1590,
+      responseEnd: 1590,
+      transferSize: 41930,
+      encodedBodySize: 40285,
+      decodedBodySize: 339786,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2271,
+      domContentLoadedEventStart: 2281,
+      domContentLoadedEventEnd: 2282,
+      domComplete: 2543,
+      loadEventStart: 2543,
+      loadEventEnd: 2571,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/field-co-100-recycled-pet-sherpa-blanket-1081-58 was 2.225 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/field-co-100-recycled-pet-sherpa-blanket-1081-58',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2237,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 329,
+      fetchStart: 329,
+      domainLookupStart: 329,
+      domainLookupEnd: 329,
+      connectStart: 329,
+      connectEnd: 329,
+      secureConnectionStart: 329,
+      requestStart: 336,
+      responseStart: 1121,
+      responseEnd: 1121,
+      transferSize: 25281,
+      encodedBodySize: 23831,
+      decodedBodySize: 220122,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1788,
+      domContentLoadedEventStart: 1871,
+      domContentLoadedEventEnd: 1872,
+      domComplete: 2217,
+      loadEventStart: 2217,
+      loadEventEnd: 2237,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-bergamo-softshell-jacket-tm12906 was 2.359 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-bergamo-softshell-jacket-tm12906',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2354,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 207,
+      secureConnectionStart: 117,
+      requestStart: 207,
+      responseStart: 1256,
+      responseEnd: 1256,
+      transferSize: 44732,
+      encodedBodySize: 43087,
+      decodedBodySize: 395420,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2028,
+      domContentLoadedEventStart: 2080,
+      domContentLoadedEventEnd: 2081,
+      domComplete: 2331,
+      loadEventStart: 2331,
+      loadEventEnd: 2354,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-bergamo-softshell-jacket-tm92906 was 2.143 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-bergamo-softshell-jacket-tm92906',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2161,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 365,
+      fetchStart: 365,
+      domainLookupStart: 365,
+      domainLookupEnd: 365,
+      connectStart: 365,
+      connectEnd: 365,
+      secureConnectionStart: 365,
+      requestStart: 369,
+      responseStart: 1369,
+      responseEnd: 1369,
+      transferSize: 44307,
+      encodedBodySize: 42819,
+      decodedBodySize: 389185,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2025,
+      domContentLoadedEventStart: 2083,
+      domContentLoadedEventEnd: 2085,
+      domComplete: 2132,
+      loadEventStart: 2132,
+      loadEventEnd: 2161,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-bergamo-softshell-jacket-tm92906 was 2.415 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-bergamo-softshell-jacket-tm92906',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2429,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 82,
+      domainLookupEnd: 82,
+      connectStart: 82,
+      connectEnd: 164,
+      secureConnectionStart: 99,
+      requestStart: 164,
+      responseStart: 1303,
+      responseEnd: 1303,
+      transferSize: 44515,
+      encodedBodySize: 42870,
+      decodedBodySize: 389185,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2095,
+      domContentLoadedEventStart: 2143,
+      domContentLoadedEventEnd: 2144,
+      domComplete: 2410,
+      loadEventStart: 2410,
+      loadEventEnd: 2429,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-briggspoint-roots73-mflc-jkt-tm18155 was 2.183 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-briggspoint-roots73-mflc-jkt-tm18155',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2193,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 56,
+      domainLookupEnd: 56,
+      connectStart: 57,
+      connectEnd: 158,
+      secureConnectionStart: 73,
+      requestStart: 158,
+      responseStart: 1118,
+      responseEnd: 1118,
+      transferSize: 43357,
+      encodedBodySize: 41712,
+      decodedBodySize: 357659,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1797,
+      domContentLoadedEventStart: 1843,
+      domContentLoadedEventEnd: 1845,
+      domComplete: 2168,
+      loadEventStart: 2168,
+      loadEventEnd: 2193,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-briggspoint-roots73-mflc-jkt-tm98155 was 2.332 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-briggspoint-roots73-mflc-jkt-tm98155',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2357,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 344,
+      fetchStart: 344,
+      domainLookupStart: 344,
+      domainLookupEnd: 344,
+      connectStart: 344,
+      connectEnd: 344,
+      secureConnectionStart: 344,
+      requestStart: 350,
+      responseStart: 1276,
+      responseEnd: 1276,
+      transferSize: 43480,
+      encodedBodySize: 41992,
+      decodedBodySize: 357740,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2045,
+      domContentLoadedEventStart: 2103,
+      domContentLoadedEventEnd: 2104,
+      domComplete: 2326,
+      loadEventStart: 2326,
+      loadEventEnd: 2357,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/womens-briggspoint-roots73-mflc-jkt-tm98155 was 2.781 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/womens-briggspoint-roots73-mflc-jkt-tm98155',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2797,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 385,
+      fetchStart: 385,
+      domainLookupStart: 385,
+      domainLookupEnd: 385,
+      connectStart: 385,
+      connectEnd: 385,
+      secureConnectionStart: 385,
+      requestStart: 390,
+      responseStart: 1844,
+      responseEnd: 1849,
+      transferSize: 25248,
+      encodedBodySize: 23798,
+      decodedBodySize: 220117,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2477,
+      domContentLoadedEventStart: 2558,
+      domContentLoadedEventEnd: 2559,
+      domComplete: 2772,
+      loadEventStart: 2772,
+      loadEventEnd: 2797,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-cerrado-ss-polo-tm16512 was 7.944 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-cerrado-ss-polo-tm16512',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7958,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 102,
+      domainLookupEnd: 102,
+      connectStart: 102,
+      connectEnd: 174,
+      secureConnectionStart: 118,
+      requestStart: 175,
+      responseStart: 6853,
+      responseEnd: 6853,
+      transferSize: 44893,
+      encodedBodySize: 43248,
+      decodedBodySize: 398493,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 7611,
+      domContentLoadedEventStart: 7709,
+      domContentLoadedEventEnd: 7710,
+      domComplete: 7935,
+      loadEventStart: 7935,
+      loadEventEnd: 7958,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/mens-cerrado-ss-polo-tm16512 was 14.791 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/mens-cerrado-ss-polo-tm16512',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 14804,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 13215,
+      fetchStart: 13215,
+      domainLookupStart: 13215,
+      domainLookupEnd: 13215,
+      connectStart: 13215,
+      connectEnd: 13215,
+      secureConnectionStart: 13215,
+      requestStart: 13218,
+      responseStart: 13434,
+      responseEnd: 13440,
+      transferSize: 25230,
+      encodedBodySize: 23780,
+      decodedBodySize: 220102,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 14370,
+      domContentLoadedEventStart: 14450,
+      domContentLoadedEventEnd: 14451,
+      domComplete: 14784,
+      loadEventStart: 14784,
+      loadEventEnd: 14804,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-gearhart-softshell-jacket-tm12938 was 3.117 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-gearhart-softshell-jacket-tm12938',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3128,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 93,
+      domainLookupEnd: 93,
+      connectStart: 93,
+      connectEnd: 167,
+      secureConnectionStart: 110,
+      requestStart: 167,
+      responseStart: 2109,
+      responseEnd: 2117,
+      transferSize: 44739,
+      encodedBodySize: 43094,
+      decodedBodySize: 396704,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2808,
+      domContentLoadedEventStart: 2881,
+      domContentLoadedEventEnd: 2886,
+      domComplete: 3109,
+      loadEventStart: 3109,
+      loadEventEnd: 3128,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/mens-gearhart-softshell-jacket-tm12938 was 4.454 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/mens-gearhart-softshell-jacket-tm12938',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4466,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 315,
+      fetchStart: 315,
+      domainLookupStart: 315,
+      domainLookupEnd: 315,
+      connectStart: 315,
+      connectEnd: 315,
+      secureConnectionStart: 315,
+      requestStart: 322,
+      responseStart: 457,
+      responseEnd: 460,
+      transferSize: 25233,
+      encodedBodySize: 23783,
+      decodedBodySize: 220112,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4064,
+      domContentLoadedEventStart: 4111,
+      domContentLoadedEventEnd: 4112,
+      domComplete: 4447,
+      loadEventStart: 4447,
+      loadEventEnd: 4466,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-hakone-ss-polo-tm16612 was 2.811 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-hakone-ss-polo-tm16612',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2826,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 133,
+      domainLookupEnd: 133,
+      connectStart: 133,
+      connectEnd: 208,
+      secureConnectionStart: 149,
+      requestStart: 208,
+      responseStart: 1715,
+      responseEnd: 1715,
+      transferSize: 44947,
+      encodedBodySize: 43302,
+      decodedBodySize: 397747,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2486,
+      domContentLoadedEventStart: 2538,
+      domContentLoadedEventEnd: 2539,
+      domComplete: 2805,
+      loadEventStart: 2805,
+      loadEventEnd: 2826,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-hakone-ss-polo-tm96612 was 2.392 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-hakone-ss-polo-tm96612',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2397,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 316,
+      fetchStart: 316,
+      domainLookupStart: 316,
+      domainLookupEnd: 316,
+      connectStart: 316,
+      connectEnd: 316,
+      secureConnectionStart: 316,
+      requestStart: 323,
+      responseStart: 1316,
+      responseEnd: 1316,
+      transferSize: 44821,
+      encodedBodySize: 43333,
+      decodedBodySize: 396822,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2049,
+      domContentLoadedEventStart: 2129,
+      domContentLoadedEventEnd: 2130,
+      domComplete: 2377,
+      loadEventStart: 2377,
+      loadEventEnd: 2397,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-hakone-ss-polo-tm96612 was 2.199 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-hakone-ss-polo-tm96612',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2213,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 89,
+      domainLookupEnd: 90,
+      connectStart: 90,
+      connectEnd: 161,
+      secureConnectionStart: 106,
+      requestStart: 161,
+      responseStart: 1145,
+      responseEnd: 1145,
+      transferSize: 44986,
+      encodedBodySize: 43341,
+      decodedBodySize: 396822,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1810,
+      domContentLoadedEventStart: 1867,
+      domContentLoadedEventEnd: 1868,
+      domComplete: 2188,
+      loadEventStart: 2188,
+      loadEventEnd: 2213,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-hakone-ss-polo-tm16612 was 2.492 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-hakone-ss-polo-tm16612',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2502,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 307,
+      fetchStart: 307,
+      domainLookupStart: 307,
+      domainLookupEnd: 307,
+      connectStart: 307,
+      connectEnd: 307,
+      secureConnectionStart: 307,
+      requestStart: 313,
+      responseStart: 1357,
+      responseEnd: 1357,
+      transferSize: 44785,
+      encodedBodySize: 43297,
+      decodedBodySize: 397747,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2162,
+      domContentLoadedEventStart: 2170,
+      domContentLoadedEventEnd: 2172,
+      domComplete: 2479,
+      loadEventStart: 2479,
+      loadEventEnd: 2502,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-hargrave-roots73-varsity-jkt-tm12714 was 1.99 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-hargrave-roots73-varsity-jkt-tm12714',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2022,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 98,
+      domainLookupEnd: 98,
+      connectStart: 98,
+      connectEnd: 195,
+      secureConnectionStart: 115,
+      requestStart: 195,
+      responseStart: 1108,
+      responseEnd: 1108,
+      transferSize: 43475,
+      encodedBodySize: 41830,
+      decodedBodySize: 354258,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1883,
+      domContentLoadedEventStart: 1939,
+      domContentLoadedEventEnd: 1941,
+      domComplete: 1981,
+      loadEventStart: 1981,
+      loadEventEnd: 2022,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-hargrave-roots73-varsity-jkt-tm92714 was 2.26 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-hargrave-roots73-varsity-jkt-tm92714',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2271,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 343,
+      fetchStart: 343,
+      domainLookupStart: 343,
+      domainLookupEnd: 343,
+      connectStart: 343,
+      connectEnd: 343,
+      secureConnectionStart: 343,
+      requestStart: 348,
+      responseStart: 1141,
+      responseEnd: 1141,
+      transferSize: 43352,
+      encodedBodySize: 41864,
+      decodedBodySize: 355240,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1936,
+      domContentLoadedEventStart: 1945,
+      domContentLoadedEventEnd: 1946,
+      domComplete: 2249,
+      loadEventStart: 2249,
+      loadEventEnd: 2271,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-hargrave-roots73-varsity-jkt-tm92714 was 2.1 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-hargrave-roots73-varsity-jkt-tm92714',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2091,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 89,
+      domainLookupEnd: 89,
+      connectStart: 89,
+      connectEnd: 184,
+      secureConnectionStart: 105,
+      requestStart: 184,
+      responseStart: 996,
+      responseEnd: 996,
+      transferSize: 43552,
+      encodedBodySize: 41907,
+      decodedBodySize: 355240,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1753,
+      domContentLoadedEventStart: 1811,
+      domContentLoadedEventEnd: 1812,
+      domComplete: 2072,
+      loadEventStart: 2072,
+      loadEventEnd: 2091,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-hargrave-roots73-varsity-jkt-tm12714 was 2.033 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-hargrave-roots73-varsity-jkt-tm12714',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2042,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 292,
+      fetchStart: 292,
+      domainLookupStart: 292,
+      domainLookupEnd: 292,
+      connectStart: 292,
+      connectEnd: 292,
+      secureConnectionStart: 292,
+      requestStart: 299,
+      responseStart: 1006,
+      responseEnd: 1006,
+      transferSize: 43362,
+      encodedBodySize: 41874,
+      decodedBodySize: 354258,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1734,
+      domContentLoadedEventStart: 1754,
+      domContentLoadedEventEnd: 1754,
+      domComplete: 2022,
+      loadEventStart: 2022,
+      loadEventEnd: 2042,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-panorama-hybrid-knit-jacket-tm18153 was 2.361 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-panorama-hybrid-knit-jacket-tm18153',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2372,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 190,
+      secureConnectionStart: 130,
+      requestStart: 190,
+      responseStart: 1320,
+      responseEnd: 1329,
+      transferSize: 44588,
+      encodedBodySize: 42943,
+      decodedBodySize: 386666,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1993,
+      domContentLoadedEventStart: 2090,
+      domContentLoadedEventEnd: 2091,
+      domComplete: 2352,
+      loadEventStart: 2352,
+      loadEventEnd: 2372,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-panorama-hybrid-knit-jacket-tm98153 was 2.431 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-panorama-hybrid-knit-jacket-tm98153',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2429,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 306,
+      fetchStart: 306,
+      domainLookupStart: 306,
+      domainLookupEnd: 306,
+      connectStart: 306,
+      connectEnd: 306,
+      secureConnectionStart: 306,
+      requestStart: 308,
+      responseStart: 1283,
+      responseEnd: 1283,
+      transferSize: 44764,
+      encodedBodySize: 43276,
+      decodedBodySize: 396230,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2068,
+      domContentLoadedEventStart: 2135,
+      domContentLoadedEventEnd: 2137,
+      domComplete: 2403,
+      loadEventStart: 2403,
+      loadEventEnd: 2429,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-panorama-hybrid-knit-jacket-tm18153 was 2.543 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-panorama-hybrid-knit-jacket-tm18153',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2553,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 339,
+      fetchStart: 339,
+      domainLookupStart: 339,
+      domainLookupEnd: 339,
+      connectStart: 339,
+      connectEnd: 339,
+      secureConnectionStart: 339,
+      requestStart: 342,
+      responseStart: 1334,
+      responseEnd: 1334,
+      transferSize: 44461,
+      encodedBodySize: 42973,
+      decodedBodySize: 386666,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2166,
+      domContentLoadedEventStart: 2233,
+      domContentLoadedEventEnd: 2233,
+      domComplete: 2530,
+      loadEventStart: 2530,
+      loadEventEnd: 2553,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-peyto-softshell-jacket-tm12907 was 2.234 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-peyto-softshell-jacket-tm12907',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2238,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 113,
+      domainLookupEnd: 113,
+      connectStart: 113,
+      connectEnd: 179,
+      secureConnectionStart: 129,
+      requestStart: 179,
+      responseStart: 1306,
+      responseEnd: 1306,
+      transferSize: 44772,
+      encodedBodySize: 43127,
+      decodedBodySize: 394191,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2068,
+      domContentLoadedEventStart: 2125,
+      domContentLoadedEventEnd: 2126,
+      domComplete: 2203,
+      loadEventStart: 2203,
+      loadEventEnd: 2238,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-peyto-softshell-jacket-tm92907 was 2.531 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-peyto-softshell-jacket-tm92907',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2519,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 288,
+      fetchStart: 288,
+      domainLookupStart: 288,
+      domainLookupEnd: 288,
+      connectStart: 288,
+      connectEnd: 288,
+      secureConnectionStart: 288,
+      requestStart: 305,
+      responseStart: 1456,
+      responseEnd: 1456,
+      transferSize: 44379,
+      encodedBodySize: 42891,
+      decodedBodySize: 386491,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2187,
+      domContentLoadedEventStart: 2257,
+      domContentLoadedEventEnd: 2258,
+      domComplete: 2499,
+      loadEventStart: 2499,
+      loadEventEnd: 2519,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-peyto-softshell-jacket-tm12907 was 2.763 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-peyto-softshell-jacket-tm12907',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2773,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 358,
+      fetchStart: 358,
+      domainLookupStart: 358,
+      domainLookupEnd: 358,
+      connectStart: 358,
+      connectEnd: 358,
+      secureConnectionStart: 358,
+      requestStart: 368,
+      responseStart: 1609,
+      responseEnd: 1609,
+      transferSize: 44609,
+      encodedBodySize: 43121,
+      decodedBodySize: 394191,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2423,
+      domContentLoadedEventStart: 2474,
+      domContentLoadedEventEnd: 2475,
+      domComplete: 2752,
+      loadEventStart: 2752,
+      loadEventEnd: 2773,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-piedmont-ss-polo-tm16511 was 2.462 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-piedmont-ss-polo-tm16511',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2492,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 116,
+      domainLookupEnd: 116,
+      connectStart: 116,
+      connectEnd: 182,
+      secureConnectionStart: 133,
+      requestStart: 182,
+      responseStart: 1480,
+      responseEnd: 1480,
+      transferSize: 44908,
+      encodedBodySize: 43263,
+      decodedBodySize: 402521,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2127,
+      domContentLoadedEventStart: 2236,
+      domContentLoadedEventEnd: 2238,
+      domComplete: 2451,
+      loadEventStart: 2451,
+      loadEventEnd: 2492,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-rincon-eco-packable-jacket-tm12725 was 2.289 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-rincon-eco-packable-jacket-tm12725',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2308,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 90,
+      domainLookupEnd: 91,
+      connectStart: 91,
+      connectEnd: 156,
+      secureConnectionStart: 108,
+      requestStart: 157,
+      responseStart: 1465,
+      responseEnd: 1465,
+      transferSize: 44595,
+      encodedBodySize: 42950,
+      decodedBodySize: 387543,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2104,
+      domContentLoadedEventStart: 2190,
+      domContentLoadedEventEnd: 2191,
+      domComplete: 2271,
+      loadEventStart: 2271,
+      loadEventEnd: 2308,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-senger-knit-jacket-tm18154 was 2.699 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-senger-knit-jacket-tm18154',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2695,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 82,
+      domainLookupEnd: 82,
+      connectStart: 84,
+      connectEnd: 271,
+      secureConnectionStart: 100,
+      requestStart: 271,
+      responseStart: 1558,
+      responseEnd: 1558,
+      transferSize: 45089,
+      encodedBodySize: 43444,
+      decodedBodySize: 400658,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2331,
+      domContentLoadedEventStart: 2380,
+      domContentLoadedEventEnd: 2383,
+      domComplete: 2672,
+      loadEventStart: 2672,
+      loadEventEnd: 2695,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-senger-knit-jacket-tm98154 was 2.243 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-senger-knit-jacket-tm98154',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2262,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 283,
+      fetchStart: 283,
+      domainLookupStart: 283,
+      domainLookupEnd: 283,
+      connectStart: 283,
+      connectEnd: 283,
+      secureConnectionStart: 283,
+      requestStart: 293,
+      responseStart: 1408,
+      responseEnd: 1408,
+      transferSize: 45042,
+      encodedBodySize: 43554,
+      decodedBodySize: 401629,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2135,
+      domContentLoadedEventStart: 2151,
+      domContentLoadedEventEnd: 2153,
+      domComplete: 2231,
+      loadEventStart: 2231,
+      loadEventEnd: 2262,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-senger-knit-jacket-tm98154 was 2.403 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-senger-knit-jacket-tm98154',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2421,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 105,
+      domainLookupEnd: 105,
+      connectStart: 105,
+      connectEnd: 201,
+      secureConnectionStart: 121,
+      requestStart: 201,
+      responseStart: 1593,
+      responseEnd: 1593,
+      transferSize: 45202,
+      encodedBodySize: 43557,
+      decodedBodySize: 401629,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2233,
+      domContentLoadedEventStart: 2289,
+      domContentLoadedEventEnd: 2290,
+      domComplete: 2390,
+      loadEventStart: 2390,
+      loadEventEnd: 2421,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-senger-knit-jacket-tm18154 was 2.336 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-senger-knit-jacket-tm18154',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2352,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 310,
+      fetchStart: 310,
+      domainLookupStart: 310,
+      domainLookupEnd: 310,
+      connectStart: 310,
+      connectEnd: 310,
+      secureConnectionStart: 310,
+      requestStart: 315,
+      responseStart: 1455,
+      responseEnd: 1455,
+      transferSize: 44799,
+      encodedBodySize: 43311,
+      decodedBodySize: 400658,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2208,
+      domContentLoadedEventStart: 2218,
+      domContentLoadedEventEnd: 2222,
+      domComplete: 2322,
+      loadEventStart: 2322,
+      loadEventEnd: 2352,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-cascade-jacket-tm12713 was 2.536 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-cascade-jacket-tm12713',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2555,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 85,
+      domainLookupEnd: 85,
+      connectStart: 85,
+      connectEnd: 154,
+      secureConnectionStart: 102,
+      requestStart: 154,
+      responseStart: 1500,
+      responseEnd: 1500,
+      transferSize: 44188,
+      encodedBodySize: 42543,
+      decodedBodySize: 379771,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2096,
+      domContentLoadedEventStart: 2161,
+      domContentLoadedEventEnd: 2163,
+      domComplete: 2522,
+      loadEventStart: 2522,
+      loadEventEnd: 2555,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-cascade-jacket-tm92713 was 2.588 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-cascade-jacket-tm92713',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2602,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 418,
+      fetchStart: 418,
+      domainLookupStart: 418,
+      domainLookupEnd: 418,
+      connectStart: 418,
+      connectEnd: 418,
+      secureConnectionStart: 418,
+      requestStart: 422,
+      responseStart: 1582,
+      responseEnd: 1582,
+      transferSize: 43998,
+      encodedBodySize: 42510,
+      decodedBodySize: 381146,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2270,
+      domContentLoadedEventStart: 2317,
+      domContentLoadedEventEnd: 2319,
+      domComplete: 2577,
+      loadEventStart: 2577,
+      loadEventEnd: 2602,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-cascade-jacket-tm92713 was 2.406 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-cascade-jacket-tm92713',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2414,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 65,
+      domainLookupEnd: 65,
+      connectStart: 65,
+      connectEnd: 156,
+      secureConnectionStart: 81,
+      requestStart: 156,
+      responseStart: 1306,
+      responseEnd: 1306,
+      transferSize: 44187,
+      encodedBodySize: 42542,
+      decodedBodySize: 381146,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2039,
+      domContentLoadedEventStart: 2098,
+      domContentLoadedEventEnd: 2099,
+      domComplete: 2389,
+      loadEventStart: 2389,
+      loadEventEnd: 2414,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-chivero-knit-jacket-tm18133 was 2.1 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-chivero-knit-jacket-tm18133',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2103,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 175,
+      secureConnectionStart: 128,
+      requestStart: 175,
+      responseStart: 1227,
+      responseEnd: 1227,
+      transferSize: 44364,
+      encodedBodySize: 42719,
+      decodedBodySize: 381992,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1892,
+      domContentLoadedEventStart: 1973,
+      domContentLoadedEventEnd: 1974,
+      domComplete: 2070,
+      loadEventStart: 2070,
+      loadEventEnd: 2103,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-chivero-knit-jacket-tm98133 was 2.449 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-chivero-knit-jacket-tm98133',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2478,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 638,
+      fetchStart: 638,
+      domainLookupStart: 638,
+      domainLookupEnd: 638,
+      connectStart: 638,
+      connectEnd: 638,
+      secureConnectionStart: 638,
+      requestStart: 644,
+      responseStart: 1530,
+      responseEnd: 1530,
+      transferSize: 43974,
+      encodedBodySize: 42486,
+      decodedBodySize: 377025,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2229,
+      domContentLoadedEventStart: 2316,
+      domContentLoadedEventEnd: 2317,
+      domComplete: 2443,
+      loadEventStart: 2443,
+      loadEventEnd: 2478,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-chivero-knit-jacket-tm18133 was 4.25 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-chivero-knit-jacket-tm18133',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4273,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 311,
+      fetchStart: 311,
+      domainLookupStart: 311,
+      domainLookupEnd: 311,
+      connectStart: 311,
+      connectEnd: 311,
+      secureConnectionStart: 311,
+      requestStart: 321,
+      responseStart: 448,
+      responseEnd: 448,
+      transferSize: 44027,
+      encodedBodySize: 42706,
+      decodedBodySize: 381992,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4088,
+      domContentLoadedEventStart: 4166,
+      domContentLoadedEventEnd: 4168,
+      domComplete: 4240,
+      loadEventStart: 4240,
+      loadEventEnd: 4273,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-cypress-fleece-zip-hoody-tm18135 was 3.089 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-cypress-fleece-zip-hoody-tm18135',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3112,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 111,
+      domainLookupEnd: 111,
+      connectStart: 112,
+      connectEnd: 177,
+      secureConnectionStart: 128,
+      requestStart: 177,
+      responseStart: 2381,
+      responseEnd: 2381,
+      transferSize: 44556,
+      encodedBodySize: 42911,
+      decodedBodySize: 386881,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2989,
+      domContentLoadedEventStart: 3050,
+      domContentLoadedEventEnd: 3051,
+      domComplete: 3082,
+      loadEventStart: 3082,
+      loadEventEnd: 3112,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-cypress-fleece-zip-hoody-tm98135 was 3.504 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-cypress-fleece-zip-hoody-tm98135',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3496,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 330,
+      fetchStart: 330,
+      domainLookupStart: 330,
+      domainLookupEnd: 330,
+      connectStart: 330,
+      connectEnd: 330,
+      secureConnectionStart: 330,
+      requestStart: 335,
+      responseStart: 2367,
+      responseEnd: 2367,
+      transferSize: 44193,
+      encodedBodySize: 42705,
+      decodedBodySize: 382498,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3117,
+      domContentLoadedEventStart: 3173,
+      domContentLoadedEventEnd: 3174,
+      domComplete: 3477,
+      loadEventStart: 3477,
+      loadEventEnd: 3496,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-cypress-fleece-zip-hoody-tm18135 was 4.145 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-cypress-fleece-zip-hoody-tm18135',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4164,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 292,
+      fetchStart: 292,
+      domainLookupStart: 292,
+      domainLookupEnd: 292,
+      connectStart: 292,
+      connectEnd: 292,
+      secureConnectionStart: 292,
+      requestStart: 298,
+      responseStart: 3179,
+      responseEnd: 3179,
+      transferSize: 44322,
+      encodedBodySize: 42834,
+      decodedBodySize: 386881,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3857,
+      domContentLoadedEventStart: 3888,
+      domContentLoadedEventEnd: 3889,
+      domComplete: 4138,
+      loadEventStart: 4138,
+      loadEventEnd: 4164,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-emory-short-sleeve-polo-tm16510 was 3.531 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-emory-short-sleeve-polo-tm16510',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3550,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 88,
+      domainLookupEnd: 89,
+      connectStart: 89,
+      connectEnd: 153,
+      secureConnectionStart: 105,
+      requestStart: 153,
+      responseStart: 2488,
+      responseEnd: 2488,
+      transferSize: 44316,
+      encodedBodySize: 42671,
+      decodedBodySize: 378904,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3114,
+      domContentLoadedEventStart: 3162,
+      domContentLoadedEventEnd: 3162,
+      domComplete: 3527,
+      loadEventStart: 3527,
+      loadEventEnd: 3550,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/263589 was 2.61 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/263589',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2619,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 349,
+      fetchStart: 349,
+      domainLookupStart: 349,
+      domainLookupEnd: 349,
+      connectStart: 349,
+      connectEnd: 349,
+      secureConnectionStart: 349,
+      requestStart: 354,
+      responseStart: 1509,
+      responseEnd: 1509,
+      transferSize: 39685,
+      encodedBodySize: 38327,
+      decodedBodySize: 323888,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2248,
+      domContentLoadedEventStart: 2304,
+      domContentLoadedEventEnd: 2305,
+      domComplete: 2598,
+      loadEventStart: 2598,
+      loadEventEnd: 2619,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/263589 was 2.142 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/263589',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2159,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 128,
+      domainLookupEnd: 129,
+      connectStart: 129,
+      connectEnd: 264,
+      secureConnectionStart: 145,
+      requestStart: 264,
+      responseStart: 1158,
+      responseEnd: 1166,
+      transferSize: 39866,
+      encodedBodySize: 38351,
+      decodedBodySize: 323888,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1743,
+      domContentLoadedEventStart: 1804,
+      domContentLoadedEventEnd: 1806,
+      domComplete: 2130,
+      loadEventStart: 2130,
+      loadEventEnd: 2159,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-karmine-softshell-jacket-tm12937 was 2.644 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-karmine-softshell-jacket-tm12937',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2650,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 107,
+      domainLookupEnd: 107,
+      connectStart: 107,
+      connectEnd: 187,
+      secureConnectionStart: 124,
+      requestStart: 187,
+      responseStart: 1772,
+      responseEnd: 1772,
+      transferSize: 45360,
+      encodedBodySize: 43715,
+      decodedBodySize: 401698,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2419,
+      domContentLoadedEventStart: 2466,
+      domContentLoadedEventEnd: 2468,
+      domComplete: 2616,
+      loadEventStart: 2616,
+      loadEventEnd: 2650,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-karmine-softshell-jacket-woven-light-tm92937 was 2.709 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-karmine-softshell-jacket-woven-light-tm92937',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2717,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 328,
+      fetchStart: 328,
+      domainLookupStart: 328,
+      domainLookupEnd: 328,
+      connectStart: 328,
+      connectEnd: 328,
+      secureConnectionStart: 328,
+      requestStart: 332,
+      responseStart: 1487,
+      responseEnd: 1487,
+      transferSize: 45194,
+      encodedBodySize: 43706,
+      decodedBodySize: 401193,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2217,
+      domContentLoadedEventStart: 2289,
+      domContentLoadedEventEnd: 2290,
+      domComplete: 2694,
+      loadEventStart: 2694,
+      loadEventEnd: 2717,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-karmine-softshell-jacket-woven-light-tm92937 was 2.399 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-karmine-softshell-jacket-woven-light-tm92937',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2418,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 97,
+      domainLookupEnd: 98,
+      connectStart: 99,
+      connectEnd: 185,
+      secureConnectionStart: 113,
+      requestStart: 185,
+      responseStart: 1314,
+      responseEnd: 1314,
+      transferSize: 45361,
+      encodedBodySize: 43716,
+      decodedBodySize: 401193,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2070,
+      domContentLoadedEventStart: 2145,
+      domContentLoadedEventEnd: 2146,
+      domComplete: 2392,
+      loadEventStart: 2392,
+      loadEventEnd: 2418,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-karmine-softshell-jacket-tm12937 was 2.558 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-karmine-softshell-jacket-tm12937',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2586,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 389,
+      fetchStart: 389,
+      domainLookupStart: 389,
+      domainLookupEnd: 389,
+      connectStart: 389,
+      connectEnd: 389,
+      secureConnectionStart: 389,
+      requestStart: 394,
+      responseStart: 1567,
+      responseEnd: 1567,
+      transferSize: 45205,
+      encodedBodySize: 43717,
+      decodedBodySize: 401698,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2459,
+      domContentLoadedEventStart: 2467,
+      domContentLoadedEventEnd: 2469,
+      domComplete: 2553,
+      loadEventStart: 2553,
+      loadEventEnd: 2586,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-mikumi-hybrid-softshell-tm12904 was 4.846 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-mikumi-hybrid-softshell-tm12904',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4843,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 92,
+      domainLookupEnd: 92,
+      connectStart: 93,
+      connectEnd: 166,
+      secureConnectionStart: 109,
+      requestStart: 166,
+      responseStart: 1118,
+      responseEnd: 1118,
+      transferSize: 45241,
+      encodedBodySize: 43596,
+      decodedBodySize: 401804,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4592,
+      domContentLoadedEventStart: 4651,
+      domContentLoadedEventEnd: 4652,
+      domComplete: 4814,
+      loadEventStart: 4814,
+      loadEventEnd: 4843,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-mikumi-hybrid-softshell-tm92904 was 2.415 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-mikumi-hybrid-softshell-tm92904',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2426,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 297,
+      fetchStart: 297,
+      domainLookupStart: 297,
+      domainLookupEnd: 297,
+      connectStart: 297,
+      connectEnd: 297,
+      secureConnectionStart: 297,
+      requestStart: 303,
+      responseStart: 1223,
+      responseEnd: 1223,
+      transferSize: 45094,
+      encodedBodySize: 43606,
+      decodedBodySize: 399182,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2044,
+      domContentLoadedEventStart: 2095,
+      domContentLoadedEventEnd: 2098,
+      domComplete: 2406,
+      loadEventStart: 2406,
+      loadEventEnd: 2426,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-monroe-short-sleeve-pocket-tee-tm17815 was 2.917 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-monroe-short-sleeve-pocket-tee-tm17815',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2960,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 123,
+      domainLookupEnd: 123,
+      connectStart: 123,
+      connectEnd: 206,
+      secureConnectionStart: 139,
+      requestStart: 209,
+      responseStart: 1966,
+      responseEnd: 1966,
+      transferSize: 45764,
+      encodedBodySize: 44119,
+      decodedBodySize: 419755,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2709,
+      domContentLoadedEventStart: 2753,
+      domContentLoadedEventEnd: 2757,
+      domComplete: 2911,
+      loadEventStart: 2911,
+      loadEventEnd: 2960,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-monroe-short-sleeve-pocket-tee-tm97815 was 2.571 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-monroe-short-sleeve-pocket-tee-tm97815',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2584,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 341,
+      fetchStart: 341,
+      domainLookupStart: 341,
+      domainLookupEnd: 341,
+      connectStart: 341,
+      connectEnd: 341,
+      secureConnectionStart: 341,
+      requestStart: 344,
+      responseStart: 1600,
+      responseEnd: 1600,
+      transferSize: 44941,
+      encodedBodySize: 43453,
+      decodedBodySize: 403463,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2211,
+      domContentLoadedEventStart: 2217,
+      domContentLoadedEventEnd: 2218,
+      domComplete: 2556,
+      loadEventStart: 2557,
+      loadEventEnd: 2584,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-monroe-short-sleeve-pocket-tee-tm17815 was 2.622 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-monroe-short-sleeve-pocket-tee-tm17815',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2647,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 3,
+      redirectEnd: 318,
+      fetchStart: 318,
+      domainLookupStart: 318,
+      domainLookupEnd: 318,
+      connectStart: 318,
+      connectEnd: 318,
+      secureConnectionStart: 318,
+      requestStart: 323,
+      responseStart: 1720,
+      responseEnd: 1720,
+      transferSize: 45665,
+      encodedBodySize: 44177,
+      decodedBodySize: 419755,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2456,
+      domContentLoadedEventStart: 2532,
+      domContentLoadedEventEnd: 2534,
+      domComplete: 2615,
+      loadEventStart: 2615,
+      loadEventEnd: 2647,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-signal-packable-jacket-tm12607 was 2.27 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-signal-packable-jacket-tm12607',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2294,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 113,
+      domainLookupEnd: 113,
+      connectStart: 113,
+      connectEnd: 201,
+      secureConnectionStart: 130,
+      requestStart: 201,
+      responseStart: 1311,
+      responseEnd: 1311,
+      transferSize: 43025,
+      encodedBodySize: 41380,
+      decodedBodySize: 348510,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2057,
+      domContentLoadedEventStart: 2149,
+      domContentLoadedEventEnd: 2150,
+      domComplete: 2259,
+      loadEventStart: 2259,
+      loadEventEnd: 2294,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-signal-packable-jacket-tm92607 was 2.288 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-signal-packable-jacket-tm92607',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2305,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 348,
+      fetchStart: 348,
+      domainLookupStart: 348,
+      domainLookupEnd: 348,
+      connectStart: 348,
+      connectEnd: 348,
+      secureConnectionStart: 348,
+      requestStart: 353,
+      responseStart: 1323,
+      responseEnd: 1323,
+      transferSize: 42802,
+      encodedBodySize: 41314,
+      decodedBodySize: 348520,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1949,
+      domContentLoadedEventStart: 2003,
+      domContentLoadedEventEnd: 2005,
+      domComplete: 2272,
+      loadEventStart: 2272,
+      loadEventEnd: 2305,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-signal-packable-jacket-tm12607 was 4.104 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-signal-packable-jacket-tm12607',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 4116,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 341,
+      fetchStart: 341,
+      domainLookupStart: 341,
+      domainLookupEnd: 341,
+      connectStart: 341,
+      connectEnd: 341,
+      secureConnectionStart: 341,
+      requestStart: 346,
+      responseStart: 477,
+      responseEnd: 477,
+      transferSize: 42725,
+      encodedBodySize: 41404,
+      decodedBodySize: 348510,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 4058,
+      domContentLoadedEventStart: 4064,
+      domContentLoadedEventEnd: 4065,
+      domComplete: 4086,
+      loadEventStart: 4086,
+      loadEventEnd: 4116,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/miami-bamboo-tone-sunglasses-sm-7904 was 2.562 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/miami-bamboo-tone-sunglasses-sm-7904',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2571,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 107,
+      domainLookupEnd: 107,
+      connectStart: 107,
+      connectEnd: 177,
+      secureConnectionStart: 122,
+      requestStart: 177,
+      responseStart: 768,
+      responseEnd: 768,
+      transferSize: 42581,
+      encodedBodySize: 40936,
+      decodedBodySize: 370520,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2089,
+      domContentLoadedEventStart: 2144,
+      domContentLoadedEventEnd: 2145,
+      domComplete: 2552,
+      loadEventStart: 2552,
+      loadEventEnd: 2571,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/rpet-laminated-matte-non-woven-shopper-tote-2160-51 was 2.586 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/rpet-laminated-matte-non-woven-shopper-tote-2160-51',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2595,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 56,
+      domainLookupEnd: 56,
+      connectStart: 56,
+      connectEnd: 179,
+      secureConnectionStart: 72,
+      requestStart: 179,
+      responseStart: 1073,
+      responseEnd: 1080,
+      transferSize: 39522,
+      encodedBodySize: 37877,
+      decodedBodySize: 324490,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1654,
+      domContentLoadedEventStart: 1661,
+      domContentLoadedEventEnd: 1663,
+      domComplete: 2572,
+      loadEventStart: 2573,
+      loadEventEnd: 2595,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/cross-aventura-starry-blue-ballpoint-2767-03 was 1.983 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/cross-aventura-starry-blue-ballpoint-2767-03',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2012,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 129,
+      domainLookupEnd: 129,
+      connectStart: 129,
+      connectEnd: 201,
+      secureConnectionStart: 145,
+      requestStart: 201,
+      responseStart: 880,
+      responseEnd: 880,
+      transferSize: 43065,
+      encodedBodySize: 41420,
+      decodedBodySize: 369720,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1570,
+      domContentLoadedEventStart: 1614,
+      domContentLoadedEventEnd: 1615,
+      domComplete: 1968,
+      loadEventStart: 1968,
+      loadEventEnd: 2012,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/hugo-copper-vacuum-insulated-tumbler-20oz-1624-89 was 2.136 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/hugo-copper-vacuum-insulated-tumbler-20oz-1624-89',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2150,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 117,
+      domainLookupEnd: 117,
+      connectStart: 117,
+      connectEnd: 277,
+      secureConnectionStart: 134,
+      requestStart: 277,
+      responseStart: 1015,
+      responseEnd: 1015,
+      transferSize: 45909,
+      encodedBodySize: 44264,
+      decodedBodySize: 433938,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1809,
+      domContentLoadedEventStart: 1816,
+      domContentLoadedEventEnd: 1817,
+      domComplete: 2131,
+      loadEventStart: 2131,
+      loadEventEnd: 2150,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-bodie-short-sleeve-tee-tm17879 was 3.649 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-bodie-short-sleeve-tee-tm17879',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3657,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 194,
+      secureConnectionStart: 136,
+      requestStart: 194,
+      responseStart: 2501,
+      responseEnd: 2501,
+      transferSize: 45004,
+      encodedBodySize: 43359,
+      decodedBodySize: 403437,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3247,
+      domContentLoadedEventStart: 3331,
+      domContentLoadedEventEnd: 3333,
+      domComplete: 3636,
+      loadEventStart: 3636,
+      loadEventEnd: 3657,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-bodie-short-sleeve-tee-tm97879 was 3.282 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-bodie-short-sleeve-tee-tm97879',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3308,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 369,
+      fetchStart: 369,
+      domainLookupStart: 369,
+      domainLookupEnd: 369,
+      connectStart: 369,
+      connectEnd: 369,
+      secureConnectionStart: 369,
+      requestStart: 374,
+      responseStart: 2414,
+      responseEnd: 2414,
+      transferSize: 44773,
+      encodedBodySize: 43285,
+      decodedBodySize: 402896,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3171,
+      domContentLoadedEventStart: 3177,
+      domContentLoadedEventEnd: 3178,
+      domComplete: 3271,
+      loadEventStart: 3271,
+      loadEventEnd: 3308,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-bodie-short-sleeve-tee-tm97879 was 3.294 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-bodie-short-sleeve-tee-tm97879',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3308,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 137,
+      domainLookupEnd: 137,
+      connectStart: 137,
+      connectEnd: 202,
+      secureConnectionStart: 154,
+      requestStart: 203,
+      responseStart: 2247,
+      responseEnd: 2247,
+      transferSize: 44879,
+      encodedBodySize: 43234,
+      decodedBodySize: 402896,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2980,
+      domContentLoadedEventStart: 3037,
+      domContentLoadedEventEnd: 3038,
+      domComplete: 3288,
+      loadEventStart: 3288,
+      loadEventEnd: 3308,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-bodie-short-sleeve-tee-tm17879 was 3.584 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-bodie-short-sleeve-tee-tm17879',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3597,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 310,
+      fetchStart: 310,
+      domainLookupStart: 310,
+      domainLookupEnd: 310,
+      connectStart: 310,
+      connectEnd: 310,
+      secureConnectionStart: 310,
+      requestStart: 312,
+      responseStart: 2441,
+      responseEnd: 2441,
+      transferSize: 44773,
+      encodedBodySize: 43285,
+      decodedBodySize: 403437,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3139,
+      domContentLoadedEventStart: 3196,
+      domContentLoadedEventEnd: 3198,
+      domComplete: 3575,
+      loadEventStart: 3575,
+      loadEventEnd: 3597,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-dege-eco-knit-half-zip-tm18306 was 2.656 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-dege-eco-knit-half-zip-tm18306',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2682,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 184,
+      secureConnectionStart: 128,
+      requestStart: 185,
+      responseStart: 1566,
+      responseEnd: 1566,
+      transferSize: 44422,
+      encodedBodySize: 42777,
+      decodedBodySize: 377056,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2243,
+      domContentLoadedEventStart: 2298,
+      domContentLoadedEventEnd: 2299,
+      domComplete: 2649,
+      loadEventStart: 2649,
+      loadEventEnd: 2682,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-dege-eco-knit-half-zip-tm98306 was 2.399 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-dege-eco-knit-half-zip-tm98306',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2425,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 343,
+      fetchStart: 343,
+      domainLookupStart: 343,
+      domainLookupEnd: 343,
+      connectStart: 343,
+      connectEnd: 343,
+      secureConnectionStart: 343,
+      requestStart: 349,
+      responseStart: 1485,
+      responseEnd: 1485,
+      transferSize: 46269,
+      encodedBodySize: 44781,
+      decodedBodySize: 428754,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2286,
+      domContentLoadedEventStart: 2355,
+      domContentLoadedEventEnd: 2356,
+      domComplete: 2391,
+      loadEventStart: 2391,
+      loadEventEnd: 2425,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-dege-eco-knit-half-zip-tm98306 was 2.509 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-dege-eco-knit-half-zip-tm98306',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2516,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 138,
+      domainLookupEnd: 138,
+      connectStart: 138,
+      connectEnd: 207,
+      secureConnectionStart: 153,
+      requestStart: 207,
+      responseStart: 1364,
+      responseEnd: 1364,
+      transferSize: 46419,
+      encodedBodySize: 44774,
+      decodedBodySize: 428754,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2120,
+      domContentLoadedEventStart: 2195,
+      domContentLoadedEventEnd: 2196,
+      domComplete: 2495,
+      loadEventStart: 2495,
+      loadEventEnd: 2516,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-egmont-packable-jacket-tm12605 was 2.869 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-egmont-packable-jacket-tm12605',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2894,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 116,
+      domainLookupEnd: 116,
+      connectStart: 117,
+      connectEnd: 190,
+      secureConnectionStart: 133,
+      requestStart: 190,
+      responseStart: 2051,
+      responseEnd: 2051,
+      transferSize: 45106,
+      encodedBodySize: 43461,
+      decodedBodySize: 400946,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2703,
+      domContentLoadedEventStart: 2779,
+      domContentLoadedEventEnd: 2780,
+      domComplete: 2866,
+      loadEventStart: 2866,
+      loadEventEnd: 2894,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-egmont-packable-jacket-tm92605 was 3.176 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-egmont-packable-jacket-tm92605',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3185,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 334,
+      fetchStart: 334,
+      domainLookupStart: 334,
+      domainLookupEnd: 334,
+      connectStart: 334,
+      connectEnd: 334,
+      secureConnectionStart: 334,
+      requestStart: 339,
+      responseStart: 2017,
+      responseEnd: 2017,
+      transferSize: 44899,
+      encodedBodySize: 43411,
+      decodedBodySize: 398986,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2858,
+      domContentLoadedEventStart: 2915,
+      domContentLoadedEventEnd: 2920,
+      domComplete: 3163,
+      loadEventStart: 3163,
+      loadEventEnd: 3185,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-egmont-packable-jacket-tm12605 was 2.909 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-egmont-packable-jacket-tm12605',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2935,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 325,
+      fetchStart: 325,
+      domainLookupStart: 325,
+      domainLookupEnd: 325,
+      connectStart: 325,
+      connectEnd: 325,
+      secureConnectionStart: 325,
+      requestStart: 341,
+      responseStart: 1995,
+      responseEnd: 1995,
+      transferSize: 45016,
+      encodedBodySize: 43528,
+      decodedBodySize: 400946,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2767,
+      domContentLoadedEventStart: 2828,
+      domContentLoadedEventEnd: 2830,
+      domComplete: 2903,
+      loadEventStart: 2903,
+      loadEventEnd: 2935,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-mather-knit-half-zip-tm18307 was 2.198 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-mather-knit-half-zip-tm18307',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2206,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 111,
+      domainLookupEnd: 111,
+      connectStart: 111,
+      connectEnd: 180,
+      secureConnectionStart: 127,
+      requestStart: 180,
+      responseStart: 1154,
+      responseEnd: 1154,
+      transferSize: 43668,
+      encodedBodySize: 42023,
+      decodedBodySize: 370704,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1818,
+      domContentLoadedEventStart: 1877,
+      domContentLoadedEventEnd: 1878,
+      domComplete: 2170,
+      loadEventStart: 2170,
+      loadEventEnd: 2206,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-oracle-softshell-jacket-tm12939 was 2.446 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-oracle-softshell-jacket-tm12939',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2460,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 196,
+      secureConnectionStart: 136,
+      requestStart: 196,
+      responseStart: 1396,
+      responseEnd: 1396,
+      transferSize: 45081,
+      encodedBodySize: 43436,
+      decodedBodySize: 402100,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2051,
+      domContentLoadedEventStart: 2116,
+      domContentLoadedEventEnd: 2120,
+      domComplete: 2439,
+      loadEventStart: 2439,
+      loadEventEnd: 2460,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-oracle-softshell-jacket-tm92939 was 2.287 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-oracle-softshell-jacket-tm92939',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2314,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 295,
+      fetchStart: 295,
+      domainLookupStart: 295,
+      domainLookupEnd: 295,
+      connectStart: 295,
+      connectEnd: 295,
+      secureConnectionStart: 295,
+      requestStart: 301,
+      responseStart: 1315,
+      responseEnd: 1315,
+      transferSize: 44788,
+      encodedBodySize: 43300,
+      decodedBodySize: 400421,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1925,
+      domContentLoadedEventStart: 1997,
+      domContentLoadedEventEnd: 1998,
+      domComplete: 2283,
+      loadEventStart: 2283,
+      loadEventEnd: 2314,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-oracle-softshell-jacket-tm92939 was 2.233 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-oracle-softshell-jacket-tm92939',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2253,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 121,
+      domainLookupEnd: 121,
+      connectStart: 121,
+      connectEnd: 191,
+      secureConnectionStart: 137,
+      requestStart: 191,
+      responseStart: 1229,
+      responseEnd: 1229,
+      transferSize: 44943,
+      encodedBodySize: 43298,
+      decodedBodySize: 400421,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1892,
+      domContentLoadedEventStart: 1958,
+      domContentLoadedEventEnd: 1959,
+      domComplete: 2225,
+      loadEventStart: 2225,
+      loadEventEnd: 2253,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-paddlecreek-roots73-fz-hoody-tm18138 was 3.434 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-paddlecreek-roots73-fz-hoody-tm18138',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3454,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 99,
+      domainLookupEnd: 99,
+      connectStart: 99,
+      connectEnd: 179,
+      secureConnectionStart: 115,
+      requestStart: 179,
+      responseStart: 2454,
+      responseEnd: 2454,
+      transferSize: 43720,
+      encodedBodySize: 42075,
+      decodedBodySize: 371481,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 3099,
+      domContentLoadedEventStart: 3151,
+      domContentLoadedEventEnd: 3152,
+      domComplete: 3426,
+      loadEventStart: 3426,
+      loadEventEnd: 3454,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-tamarack-full-zip-jacket-tm18137 was 2.324 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-tamarack-full-zip-jacket-tm18137',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2327,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 96,
+      domainLookupEnd: 96,
+      connectStart: 96,
+      connectEnd: 170,
+      secureConnectionStart: 117,
+      requestStart: 170,
+      responseStart: 1282,
+      responseEnd: 1282,
+      transferSize: 44857,
+      encodedBodySize: 43212,
+      decodedBodySize: 399875,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1930,
+      domContentLoadedEventStart: 2019,
+      domContentLoadedEventEnd: 2022,
+      domComplete: 2296,
+      loadEventStart: 2296,
+      loadEventEnd: 2327,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-telluride-packable-ins-jkt-tm19597 was 2.982 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-telluride-packable-ins-jkt-tm19597',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2989,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 149,
+      secureConnectionStart: 74,
+      requestStart: 149,
+      responseStart: 1845,
+      responseEnd: 1848,
+      transferSize: 42945,
+      encodedBodySize: 41300,
+      decodedBodySize: 354236,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2643,
+      domContentLoadedEventStart: 2692,
+      domContentLoadedEventEnd: 2694,
+      domComplete: 2965,
+      loadEventStart: 2965,
+      loadEventEnd: 2989,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-telluride-packable-ins-jkt-tm99597 was 2.624 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-telluride-packable-ins-jkt-tm99597',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2630,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 341,
+      fetchStart: 341,
+      domainLookupStart: 341,
+      domainLookupEnd: 341,
+      connectStart: 341,
+      connectEnd: 341,
+      secureConnectionStart: 341,
+      requestStart: 344,
+      responseStart: 1664,
+      responseEnd: 1664,
+      transferSize: 42923,
+      encodedBodySize: 41435,
+      decodedBodySize: 359637,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2436,
+      domContentLoadedEventStart: 2448,
+      domContentLoadedEventEnd: 2449,
+      domComplete: 2591,
+      loadEventStart: 2591,
+      loadEventEnd: 2630,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-asgard-eco-knit-jacket-tm18139 was 2.407 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-asgard-eco-knit-jacket-tm18139',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2427,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 102,
+      domainLookupEnd: 102,
+      connectStart: 102,
+      connectEnd: 170,
+      secureConnectionStart: 118,
+      requestStart: 170,
+      responseStart: 1437,
+      responseEnd: 1444,
+      transferSize: 40703,
+      encodedBodySize: 39058,
+      decodedBodySize: 332122,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2067,
+      domContentLoadedEventStart: 2113,
+      domContentLoadedEventEnd: 2113,
+      domComplete: 2398,
+      loadEventStart: 2398,
+      loadEventEnd: 2427,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-asgard-eco-knit-jacket-tm98139 was 2.186 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-asgard-eco-knit-jacket-tm98139',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2212,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 359,
+      fetchStart: 359,
+      domainLookupStart: 359,
+      domainLookupEnd: 359,
+      connectStart: 359,
+      connectEnd: 359,
+      secureConnectionStart: 359,
+      requestStart: 367,
+      responseStart: 1438,
+      responseEnd: 1438,
+      transferSize: 40160,
+      encodedBodySize: 38672,
+      decodedBodySize: 328391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2073,
+      domContentLoadedEventStart: 2133,
+      domContentLoadedEventEnd: 2134,
+      domComplete: 2180,
+      loadEventStart: 2180,
+      loadEventEnd: 2212,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-asgard-eco-knit-jacket-tm98139 was 2.142 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-asgard-eco-knit-jacket-tm98139',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2163,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 120,
+      domainLookupEnd: 120,
+      connectStart: 120,
+      connectEnd: 193,
+      secureConnectionStart: 136,
+      requestStart: 194,
+      responseStart: 1333,
+      responseEnd: 1333,
+      transferSize: 40318,
+      encodedBodySize: 38673,
+      decodedBodySize: 328391,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2033,
+      domContentLoadedEventStart: 2069,
+      domContentLoadedEventEnd: 2070,
+      domComplete: 2132,
+      loadEventStart: 2132,
+      loadEventEnd: 2163,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-asgard-eco-knit-jacket-tm18139 was 2.411 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-asgard-eco-knit-jacket-tm18139',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2437,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 298,
+      fetchStart: 298,
+      domainLookupStart: 298,
+      domainLookupEnd: 298,
+      connectStart: 298,
+      connectEnd: 298,
+      secureConnectionStart: 298,
+      requestStart: 301,
+      responseStart: 1376,
+      responseEnd: 1376,
+      transferSize: 40542,
+      encodedBodySize: 39054,
+      decodedBodySize: 332122,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2060,
+      domContentLoadedEventStart: 2155,
+      domContentLoadedEventEnd: 2156,
+      domComplete: 2404,
+      loadEventStart: 2404,
+      loadEventEnd: 2437,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-copperbay-roots73-fz-hoody-tm18734 was 2.311 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-copperbay-roots73-fz-hoody-tm18734',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2327,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 102,
+      domainLookupEnd: 102,
+      connectStart: 102,
+      connectEnd: 172,
+      secureConnectionStart: 119,
+      requestStart: 172,
+      responseStart: 1068,
+      responseEnd: 1068,
+      transferSize: 42880,
+      encodedBodySize: 41235,
+      decodedBodySize: 352663,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1810,
+      domContentLoadedEventStart: 1878,
+      domContentLoadedEventEnd: 1878,
+      domComplete: 2304,
+      loadEventStart: 2304,
+      loadEventEnd: 2327,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-copperbay-roots73-fz-hoody-tm98734 was 2.354 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2357,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 322,
+      fetchStart: 322,
+      domainLookupStart: 322,
+      domainLookupEnd: 322,
+      connectStart: 322,
+      connectEnd: 322,
+      secureConnectionStart: 322,
+      requestStart: 328,
+      responseStart: 1166,
+      responseEnd: 1166,
+      transferSize: 43508,
+      encodedBodySize: 42020,
+      decodedBodySize: 372155,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1845,
+      domContentLoadedEventStart: 1922,
+      domContentLoadedEventEnd: 1923,
+      domComplete: 2335,
+      loadEventStart: 2335,
+      loadEventEnd: 2357,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734 was 2.302 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2323,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 114,
+      connectStart: 115,
+      connectEnd: 177,
+      secureConnectionStart: 130,
+      requestStart: 177,
+      responseStart: 1029,
+      responseEnd: 1029,
+      transferSize: 43690,
+      encodedBodySize: 42045,
+      decodedBodySize: 372155,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1709,
+      domContentLoadedEventStart: 1831,
+      domContentLoadedEventEnd: 1832,
+      domComplete: 2294,
+      loadEventStart: 2294,
+      loadEventEnd: 2323,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-copperbay-roots73-fz-hoody-tm18734 was 2.297 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-copperbay-roots73-fz-hoody-tm18734',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2311,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 338,
+      fetchStart: 338,
+      domainLookupStart: 338,
+      domainLookupEnd: 338,
+      connectStart: 338,
+      connectEnd: 338,
+      secureConnectionStart: 338,
+      requestStart: 342,
+      responseStart: 1058,
+      responseEnd: 1058,
+      transferSize: 42738,
+      encodedBodySize: 41250,
+      decodedBodySize: 352663,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1675,
+      domContentLoadedEventStart: 1724,
+      domContentLoadedEventEnd: 1726,
+      domComplete: 2287,
+      loadEventStart: 2287,
+      loadEventEnd: 2311,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-frazier-eco-knit-jacket-tm18140 was 2.029 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-frazier-eco-knit-jacket-tm18140',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2045,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 112,
+      domainLookupEnd: 112,
+      connectStart: 112,
+      connectEnd: 176,
+      secureConnectionStart: 129,
+      requestStart: 176,
+      responseStart: 1005,
+      responseEnd: 1005,
+      transferSize: 40497,
+      encodedBodySize: 38852,
+      decodedBodySize: 328123,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1675,
+      domContentLoadedEventStart: 1726,
+      domContentLoadedEventEnd: 1727,
+      domComplete: 2020,
+      loadEventStart: 2020,
+      loadEventEnd: 2045,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-frazier-eco-knit-jacket-tm98140 was 2.112 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-frazier-eco-knit-jacket-tm98140',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2126,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 308,
+      fetchStart: 308,
+      domainLookupStart: 308,
+      domainLookupEnd: 308,
+      connectStart: 308,
+      connectEnd: 308,
+      secureConnectionStart: 308,
+      requestStart: 310,
+      responseStart: 1110,
+      responseEnd: 1110,
+      transferSize: 40071,
+      encodedBodySize: 38583,
+      decodedBodySize: 326339,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1840,
+      domContentLoadedEventStart: 1909,
+      domContentLoadedEventEnd: 1910,
+      domComplete: 2100,
+      loadEventStart: 2100,
+      loadEventEnd: 2126,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-frazier-eco-knit-jacket-tm18140 was 2.159 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-frazier-eco-knit-jacket-tm18140',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2175,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 305,
+      fetchStart: 305,
+      domainLookupStart: 305,
+      domainLookupEnd: 305,
+      connectStart: 305,
+      connectEnd: 305,
+      secureConnectionStart: 305,
+      requestStart: 311,
+      responseStart: 1033,
+      responseEnd: 1033,
+      transferSize: 40320,
+      encodedBodySize: 38832,
+      decodedBodySize: 328123,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1774,
+      domContentLoadedEventStart: 1824,
+      domContentLoadedEventEnd: 1826,
+      domComplete: 2151,
+      loadEventStart: 2151,
+      loadEventEnd: 2175,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-joris-eco-softshell-jacket-tm12940 was 2.097 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-joris-eco-softshell-jacket-tm12940',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2115,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 124,
+      domainLookupEnd: 124,
+      connectStart: 124,
+      connectEnd: 192,
+      secureConnectionStart: 140,
+      requestStart: 192,
+      responseStart: 1237,
+      responseEnd: 1237,
+      transferSize: 40617,
+      encodedBodySize: 38972,
+      decodedBodySize: 331492,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1937,
+      domContentLoadedEventStart: 1997,
+      domContentLoadedEventEnd: 1998,
+      domComplete: 2084,
+      loadEventStart: 2084,
+      loadEventEnd: 2115,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-joris-eco-softshell-jacket-tm92940 was 2.361 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-joris-eco-softshell-jacket-tm92940',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2374,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 337,
+      fetchStart: 337,
+      domainLookupStart: 337,
+      domainLookupEnd: 337,
+      connectStart: 337,
+      connectEnd: 337,
+      secureConnectionStart: 337,
+      requestStart: 342,
+      responseStart: 1307,
+      responseEnd: 1307,
+      transferSize: 40388,
+      encodedBodySize: 38900,
+      decodedBodySize: 328223,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2061,
+      domContentLoadedEventStart: 2120,
+      domContentLoadedEventEnd: 2121,
+      domComplete: 2348,
+      loadEventStart: 2348,
+      loadEventEnd: 2374,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/womens-joris-eco-softshell-jacket-tm92940 was 2.245 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-joris-eco-softshell-jacket-tm92940',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2259,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 114,
+      domainLookupEnd: 114,
+      connectStart: 114,
+      connectEnd: 185,
+      secureConnectionStart: 130,
+      requestStart: 185,
+      responseStart: 1161,
+      responseEnd: 1161,
+      transferSize: 40465,
+      encodedBodySize: 38820,
+      decodedBodySize: 328223,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1941,
+      domContentLoadedEventStart: 1950,
+      domContentLoadedEventEnd: 1950,
+      domComplete: 2238,
+      loadEventStart: 2238,
+      loadEventEnd: 2259,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-joris-eco-softshell-jacket-tm12940 was 2.407 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-joris-eco-softshell-jacket-tm12940',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2422,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 346,
+      fetchStart: 346,
+      domainLookupStart: 346,
+      domainLookupEnd: 346,
+      connectStart: 346,
+      connectEnd: 346,
+      secureConnectionStart: 346,
+      requestStart: 351,
+      responseStart: 1327,
+      responseEnd: 1327,
+      transferSize: 40463,
+      encodedBodySize: 38975,
+      decodedBodySize: 331492,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2108,
+      domContentLoadedEventStart: 2117,
+      domContentLoadedEventEnd: 2119,
+      domComplete: 2401,
+      loadEventStart: 2401,
+      loadEventEnd: 2422,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-fontaine-knit-vest-tm12502 was 2.006 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-fontaine-knit-vest-tm12502',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2033,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 84,
+      domainLookupEnd: 84,
+      connectStart: 85,
+      connectEnd: 157,
+      secureConnectionStart: 101,
+      requestStart: 157,
+      responseStart: 1141,
+      responseEnd: 1141,
+      transferSize: 43993,
+      encodedBodySize: 42348,
+      decodedBodySize: 373925,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1879,
+      domContentLoadedEventStart: 1955,
+      domContentLoadedEventEnd: 1956,
+      domComplete: 1995,
+      loadEventStart: 1996,
+      loadEventEnd: 2033,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-fontaine-knit-vest-tm92502 was 2.354 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-fontaine-knit-vest-tm92502',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2365,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 341,
+      fetchStart: 341,
+      domainLookupStart: 341,
+      domainLookupEnd: 341,
+      connectStart: 341,
+      connectEnd: 341,
+      secureConnectionStart: 341,
+      requestStart: 348,
+      responseStart: 1201,
+      responseEnd: 1206,
+      transferSize: 44070,
+      encodedBodySize: 42582,
+      decodedBodySize: 377768,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1920,
+      domContentLoadedEventStart: 2014,
+      domContentLoadedEventEnd: 2015,
+      domComplete: 2344,
+      loadEventStart: 2344,
+      loadEventEnd: 2365,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/mens-perren-knit-jacket-tm18705 was 2.354 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-perren-knit-jacket-tm18705',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2361,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 89,
+      domainLookupEnd: 89,
+      connectStart: 89,
+      connectEnd: 161,
+      secureConnectionStart: 105,
+      requestStart: 161,
+      responseStart: 1269,
+      responseEnd: 1269,
+      transferSize: 43709,
+      encodedBodySize: 42064,
+      decodedBodySize: 370405,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2058,
+      domContentLoadedEventStart: 2105,
+      domContentLoadedEventEnd: 2106,
+      domComplete: 2341,
+      loadEventStart: 2341,
+      loadEventEnd: 2361,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/nbn-linden-15-computer-backpack-3850-21 was 2.025 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/nbn-linden-15-computer-backpack-3850-21',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2039,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 126,
+      domainLookupEnd: 126,
+      connectStart: 126,
+      connectEnd: 204,
+      secureConnectionStart: 142,
+      requestStart: 204,
+      responseStart: 913,
+      responseEnd: 913,
+      transferSize: 47239,
+      encodedBodySize: 45594,
+      decodedBodySize: 499493,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1732,
+      domContentLoadedEventStart: 1786,
+      domContentLoadedEventEnd: 1786,
+      domComplete: 2018,
+      loadEventStart: 2018,
+      loadEventEnd: 2039,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/pla-bento-box-cutting-board-lid-1022-20 was 2.762 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/pla-bento-box-cutting-board-lid-1022-20',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2785,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 106,
+      connectEnd: 169,
+      secureConnectionStart: 122,
+      requestStart: 170,
+      responseStart: 1791,
+      responseEnd: 1791,
+      transferSize: 42194,
+      encodedBodySize: 40549,
+      decodedBodySize: 351279,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2435,
+      domContentLoadedEventStart: 2487,
+      domContentLoadedEventEnd: 2488,
+      domComplete: 2752,
+      loadEventStart: 2752,
+      loadEventEnd: 2785,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/pcnazoomcatalog/getflyers was 7.297 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7312,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 287,
+      fetchStart: 287,
+      domainLookupStart: 287,
+      domainLookupEnd: 287,
+      connectStart: 287,
+      connectEnd: 287,
+      secureConnectionStart: 287,
+      requestStart: 292,
+      responseStart: 1630,
+      responseEnd: 1636,
+      transferSize: 29195,
+      encodedBodySize: 27874,
+      decodedBodySize: 346330,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2318,
+      domContentLoadedEventStart: 2448,
+      domContentLoadedEventEnd: 2449,
+      domComplete: 7287,
+      loadEventStart: 7287,
+      loadEventEnd: 7312,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers was 7.085 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7100,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 137,
+      domainLookupEnd: 137,
+      connectStart: 137,
+      connectEnd: 209,
+      secureConnectionStart: 153,
+      requestStart: 209,
+      responseStart: 1568,
+      responseEnd: 1574,
+      transferSize: 29238,
+      encodedBodySize: 27760,
+      decodedBodySize: 346330,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2217,
+      domContentLoadedEventStart: 2312,
+      domContentLoadedEventEnd: 2313,
+      domComplete: 7081,
+      loadEventStart: 7081,
+      loadEventEnd: 7100,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?q was 6.702 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?q',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6720,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 16,
+      domainLookupEnd: 16,
+      connectStart: 16,
+      connectEnd: 126,
+      secureConnectionStart: 32,
+      requestStart: 126,
+      responseStart: 1127,
+      responseEnd: 1134,
+      transferSize: 29354,
+      encodedBodySize: 27876,
+      decodedBodySize: 346332,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1920,
+      domContentLoadedEventStart: 1934,
+      domContentLoadedEventEnd: 1935,
+      domComplete: 6696,
+      loadEventStart: 6696,
+      loadEventEnd: 6720,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?bu=leeds was 2.536 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?bu=leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2549,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 58,
+      domainLookupEnd: 58,
+      connectStart: 58,
+      connectEnd: 155,
+      secureConnectionStart: 74,
+      requestStart: 155,
+      responseStart: 1142,
+      responseEnd: 1144,
+      transferSize: 25476,
+      encodedBodySize: 23998,
+      decodedBodySize: 228307,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1786,
+      domContentLoadedEventStart: 1906,
+      domContentLoadedEventEnd: 1907,
+      domComplete: 2522,
+      loadEventStart: 2522,
+      loadEventEnd: 2549,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?bu=bullet was 2.912 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?bu=bullet',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2925,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 103,
+      domainLookupEnd: 103,
+      connectStart: 103,
+      connectEnd: 171,
+      secureConnectionStart: 119,
+      requestStart: 172,
+      responseStart: 1180,
+      responseEnd: 1186,
+      transferSize: 26208,
+      encodedBodySize: 24730,
+      decodedBodySize: 244751,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1725,
+      domContentLoadedEventStart: 1817,
+      domContentLoadedEventEnd: 1818,
+      domComplete: 2905,
+      loadEventStart: 2905,
+      loadEventEnd: 2925,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?bu=trimark was 2.597 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/pcnazoomcatalog/getflyers?bu=trimark',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2632,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 100,
+      domainLookupEnd: 100,
+      connectStart: 100,
+      connectEnd: 174,
+      secureConnectionStart: 116,
+      requestStart: 174,
+      responseStart: 1157,
+      responseEnd: 1160,
+      transferSize: 26087,
+      encodedBodySize: 24609,
+      decodedBodySize: 241124,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1757,
+      domContentLoadedEventStart: 1911,
+      domContentLoadedEventEnd: 1911,
+      domComplete: 2594,
+      loadEventStart: 2594,
+      loadEventEnd: 2632,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/pcnazoomcatalog/getflyers?q was 2.193 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/pcnazoomcatalog/getflyers?q',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2205,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 326,
+      fetchStart: 326,
+      domainLookupStart: 326,
+      domainLookupEnd: 326,
+      connectStart: 326,
+      connectEnd: 326,
+      secureConnectionStart: 326,
+      requestStart: 332,
+      responseStart: 419,
+      responseEnd: 419,
+      transferSize: 25212,
+      encodedBodySize: 23762,
+      decodedBodySize: 220093,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 981,
+      domContentLoadedEventStart: 1047,
+      domContentLoadedEventEnd: 1047,
+      domComplete: 2177,
+      loadEventStart: 2177,
+      loadEventEnd: 2205,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/request-samples/leeds was 7.124 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/request-samples/leeds',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 7134,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 325,
+      fetchStart: 325,
+      domainLookupStart: 325,
+      domainLookupEnd: 325,
+      connectStart: 325,
+      connectEnd: 325,
+      secureConnectionStart: 325,
+      requestStart: 330,
+      responseStart: 6109,
+      responseEnd: 6113,
+      transferSize: 25224,
+      encodedBodySize: 23774,
+      decodedBodySize: 220099,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 6817,
+      domContentLoadedEventStart: 6892,
+      domContentLoadedEventEnd: 6894,
+      domComplete: 7113,
+      loadEventStart: 7113,
+      loadEventEnd: 7134,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/dagon-wheat-straw-mug-stainless-liner-14oz-1628-46 was 2.036 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/dagon-wheat-straw-mug-stainless-liner-14oz-1628-46',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2044,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 311,
+      fetchStart: 311,
+      domainLookupStart: 311,
+      domainLookupEnd: 311,
+      connectStart: 311,
+      connectEnd: 311,
+      secureConnectionStart: 311,
+      requestStart: 318,
+      responseStart: 850,
+      responseEnd: 850,
+      transferSize: 43568,
+      encodedBodySize: 42080,
+      decodedBodySize: 379763,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1623,
+      domContentLoadedEventStart: 1671,
+      domContentLoadedEventEnd: 1677,
+      domComplete: 2022,
+      loadEventStart: 2022,
+      loadEventEnd: 2044,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/user/login?returnurl=/en-us/product/reclaim-rpet-5000-mah-wireless-charging-writing-pa-0911-14 was 2.317 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/user/login?returnurl=/en-us/product/reclaim-rpet-5000-mah-wireless-charging-writing-pa-0911-14',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2332,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 373,
+      fetchStart: 373,
+      domainLookupStart: 373,
+      domainLookupEnd: 373,
+      connectStart: 373,
+      connectEnd: 373,
+      secureConnectionStart: 373,
+      requestStart: 378,
+      responseStart: 565,
+      responseEnd: 565,
+      transferSize: 25237,
+      encodedBodySize: 23787,
+      decodedBodySize: 220132,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1212,
+      domContentLoadedEventStart: 1226,
+      domContentLoadedEventEnd: 1227,
+      domComplete: 2312,
+      loadEventStart: 2312,
+      loadEventEnd: 2332,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/pla-bento-box-band-and-utensils-1022-19 was 3.352 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/pla-bento-box-band-and-utensils-1022-19',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3373,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 292,
+      fetchStart: 292,
+      domainLookupStart: 292,
+      domainLookupEnd: 292,
+      connectStart: 292,
+      connectEnd: 292,
+      secureConnectionStart: 292,
+      requestStart: 297,
+      responseStart: 793,
+      responseEnd: 793,
+      transferSize: 38959,
+      encodedBodySize: 37471,
+      decodedBodySize: 318482,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1445,
+      domContentLoadedEventStart: 1453,
+      domContentLoadedEventEnd: 1453,
+      domComplete: 3345,
+      loadEventStart: 3345,
+      loadEventEnd: 3373,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/mens-dege-eco-knit-half-zip-tm18306 was 2.726 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/mens-dege-eco-knit-half-zip-tm18306',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2723,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 353,
+      fetchStart: 353,
+      domainLookupStart: 353,
+      domainLookupEnd: 353,
+      connectStart: 353,
+      connectEnd: 353,
+      secureConnectionStart: 353,
+      requestStart: 358,
+      responseStart: 1729,
+      responseEnd: 1729,
+      transferSize: 44078,
+      encodedBodySize: 42590,
+      decodedBodySize: 377068,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2370,
+      domContentLoadedEventStart: 2428,
+      domContentLoadedEventEnd: 2430,
+      domComplete: 2697,
+      loadEventStart: 2697,
+      loadEventEnd: 2723,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/porto-copper-vac-bottle-no-contact-tool-17oz-1600-05 was 2.08 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/porto-copper-vac-bottle-no-contact-tool-17oz-1600-05',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2093,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 290,
+      fetchStart: 290,
+      domainLookupStart: 290,
+      domainLookupEnd: 290,
+      connectStart: 290,
+      connectEnd: 290,
+      secureConnectionStart: 290,
+      requestStart: 296,
+      responseStart: 773,
+      responseEnd: 773,
+      transferSize: 45055,
+      encodedBodySize: 43567,
+      decodedBodySize: 409114,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1508,
+      domContentLoadedEventStart: 1575,
+      domContentLoadedEventEnd: 1576,
+      domComplete: 2075,
+      loadEventStart: 2075,
+      loadEventEnd: 2093,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/214494 was 3.105 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/214494',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 3109,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 1,
+      redirectEnd: 285,
+      fetchStart: 285,
+      domainLookupStart: 285,
+      domainLookupEnd: 285,
+      connectStart: 285,
+      connectEnd: 285,
+      secureConnectionStart: 285,
+      requestStart: 288,
+      responseStart: 2347,
+      responseEnd: 2347,
+      transferSize: 45197,
+      encodedBodySize: 43839,
+      decodedBodySize: 409403,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2977,
+      domContentLoadedEventStart: 3052,
+      domContentLoadedEventEnd: 3054,
+      domComplete: 3077,
+      loadEventStart: 3077,
+      loadEventEnd: 3109,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/214494 was 2.729 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/214494',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2739,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 88,
+      domainLookupEnd: 88,
+      connectStart: 88,
+      connectEnd: 151,
+      secureConnectionStart: 103,
+      requestStart: 151,
+      responseStart: 1986,
+      responseEnd: 1986,
+      transferSize: 45325,
+      encodedBodySize: 43810,
+      decodedBodySize: 409415,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2604,
+      domContentLoadedEventStart: 2674,
+      domContentLoadedEventEnd: 2675,
+      domComplete: 2696,
+      loadEventStart: 2698,
+      loadEventEnd: 2739,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-omi-short-sleeve-tech-tee-tm97885 was 2.904 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-omi-short-sleeve-tech-tee-tm97885',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2927,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 298,
+      fetchStart: 298,
+      domainLookupStart: 298,
+      domainLookupEnd: 298,
+      connectStart: 298,
+      connectEnd: 298,
+      secureConnectionStart: 298,
+      requestStart: 303,
+      responseStart: 1998,
+      responseEnd: 1998,
+      transferSize: 45199,
+      encodedBodySize: 43711,
+      decodedBodySize: 405902,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2774,
+      domContentLoadedEventStart: 2824,
+      domContentLoadedEventEnd: 2825,
+      domComplete: 2894,
+      loadEventStart: 2894,
+      loadEventEnd: 2927,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/219101 was 2.02 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/219101',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2047,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 289,
+      fetchStart: 289,
+      domainLookupStart: 289,
+      domainLookupEnd: 289,
+      connectStart: 289,
+      connectEnd: 289,
+      secureConnectionStart: 289,
+      requestStart: 291,
+      responseStart: 1186,
+      responseEnd: 1186,
+      transferSize: 43553,
+      encodedBodySize: 42195,
+      decodedBodySize: 372054,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1894,
+      domContentLoadedEventStart: 1965,
+      domContentLoadedEventEnd: 1966,
+      domComplete: 2016,
+      loadEventStart: 2016,
+      loadEventEnd: 2047,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/219101 was 2.249 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/219101',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2264,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 93,
+      domainLookupEnd: 93,
+      connectStart: 93,
+      connectEnd: 243,
+      secureConnectionStart: 108,
+      requestStart: 244,
+      responseStart: 1132,
+      responseEnd: 1132,
+      transferSize: 43625,
+      encodedBodySize: 42110,
+      decodedBodySize: 372042,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1950,
+      domContentLoadedEventStart: 1997,
+      domContentLoadedEventEnd: 1998,
+      domComplete: 2239,
+      loadEventStart: 2239,
+      loadEventEnd: 2264,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/product/womens-quadra-long-sleeve-top-tm97812 was 2.433 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/womens-quadra-long-sleeve-top-tm97812',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2444,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 357,
+      fetchStart: 357,
+      domainLookupStart: 357,
+      domainLookupEnd: 357,
+      connectStart: 357,
+      connectEnd: 357,
+      secureConnectionStart: 357,
+      requestStart: 360,
+      responseStart: 1258,
+      responseEnd: 1258,
+      transferSize: 43703,
+      encodedBodySize: 42215,
+      decodedBodySize: 372145,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1998,
+      domContentLoadedEventStart: 2042,
+      domContentLoadedEventEnd: 2043,
+      domComplete: 2425,
+      loadEventStart: 2425,
+      loadEventEnd: 2444,
+      type: 'navigate',
+      redirectCount: 1
+    }
+  }
+}
+Total load time for https://uatpcna.znodedev.com/en-us/product/55-x-85-eco-color-bound-journalbook-2800-41 was 2.019 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://uatpcna.znodedev.com/en-us/product/55-x-85-eco-color-bound-journalbook-2800-41',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2037,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 106,
+      domainLookupEnd: 106,
+      connectStart: 106,
+      connectEnd: 192,
+      secureConnectionStart: 121,
+      requestStart: 192,
+      responseStart: 846,
+      responseEnd: 846,
+      transferSize: 42157,
+      encodedBodySize: 40512,
+      decodedBodySize: 337795,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1589,
+      domContentLoadedEventStart: 1658,
+      domContentLoadedEventEnd: 1661,
+      domComplete: 2010,
+      loadEventStart: 2010,
+      loadEventEnd: 2037,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
