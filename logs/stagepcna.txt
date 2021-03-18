@@ -1,0 +1,39 @@
+Total load time for https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-blankets was 6.192 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-blankets',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 6168,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 1,
+      domainLookupStart: 16,
+      domainLookupEnd: 16,
+      connectStart: 16,
+      connectEnd: 6011,
+      secureConnectionStart: 33,
+      requestStart: 6011,
+      responseStart: 6143,
+      responseEnd: 6143,
+      transferSize: 783,
+      encodedBodySize: 263,
+      decodedBodySize: 315,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 6162,
+      domContentLoadedEventStart: 6165,
+      domContentLoadedEventEnd: 6166,
+      domComplete: 6168,
+      loadEventStart: 6168,
+      loadEventEnd: 6168,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
