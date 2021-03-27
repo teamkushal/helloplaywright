@@ -2,8 +2,6 @@
     "extends": "./configs/base",
     "files": [
         "hello.ts",
-        "stagepcna.ts",
-        "uatpcna.ts",
         "prodpcna.ts"
     ]
 }
