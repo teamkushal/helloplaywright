@@ -1,7 +1,6 @@
 {
     "extends": "./configs/base",
-    "files": [
-        "hello.ts",
-        "prodpcna.ts"
+    "include": [
+        "src/*"
     ]
 }
