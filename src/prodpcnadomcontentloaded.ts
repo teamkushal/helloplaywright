@@ -22,33 +22,31 @@ async function benchmark(address: string) {
     await page.goto(address);
     const metrics = await getMetrics(page);
     const safeAddress = address.replace(/[^A-Z0-9]/gi, "-");
-    await page.on("domcontentloaded", async () => {
-      console.log({ safeAddress });
-      page.screenshot({
-        path: `screenshots/pcna-safeAddress.png`,
-        fullPage: true,
-      });
-      const end_time = +new Date();
-      const load_time = (end_time - start_time) / 1000;
-      if (metrics.data.duration > threshold_in_seconds * 1000) {
-        console.log({ metrics });
-        console.log(`Total load time for ${address} was ${load_time} seconds`);
-      }
-      hrefs = await page.$$eval("a", (as: any[]) => as.map((a) => a.href));
-      for (const href of hrefs) {
-        const hrefHashPosition = href.indexOf("#");
-        const hrefWithoutHash =
-          hrefHashPosition > -1 ? href.substr(0, hrefHashPosition) : href;
-        if (
-          !visited.includes(hrefWithoutHash) &&
-          href.startsWith(sentinel) &&
-          visited.length < max_capacity
-        ) {
-          visited.push(hrefWithoutHash);
-          await benchmark(hrefWithoutHash);
-        }
-      }
+    console.log({ safeAddress });
+    page.screenshot({
+      path: `screenshots/pcna-${safeAddress}.png`,
+      fullPage: false,
     });
+    const end_time = +new Date();
+    const load_time = (end_time - start_time) / 1000;
+    if (metrics.data.duration > threshold_in_seconds * 1000) {
+      console.log({ metrics });
+      console.log(`Total load time for ${address} was ${load_time} seconds`);
+    }
+    hrefs = await page.$$eval("a", (as: any[]) => as.map((a) => a.href));
+    for (const href of hrefs) {
+      const hrefHashPosition = href.indexOf("#");
+      const hrefWithoutHash =
+        hrefHashPosition > -1 ? href.substr(0, hrefHashPosition) : href;
+      if (
+        !visited.includes(hrefWithoutHash) &&
+        href.startsWith(sentinel) &&
+        visited.length < max_capacity
+      ) {
+        visited.push(hrefWithoutHash);
+        await benchmark(hrefWithoutHash);
+      }
+    }
     await browser.close();
   } catch (error) {
     console.log(`Error benchmarking ${address}`);
