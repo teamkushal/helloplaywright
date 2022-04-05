@@ -1,206 +1,11 @@
-Total load time for https://www.google.com/ was 0.744 seconds
+Total load time for https://www.google.com/ was 1.031 seconds
 {
   metrics: {
     data: {
       name: 'https://www.google.com/',
       entryType: 'navigation',
       startTime: 0,
-      duration: 745,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 66,
-      domainLookupEnd: 66,
-      connectStart: 66,
-      connectEnd: 143,
-      secureConnectionStart: 69,
-      requestStart: 143,
-      responseStart: 206,
-      responseEnd: 208,
-      transferSize: 38228,
-      encodedBodySize: 37082,
-      decodedBodySize: 123057,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 282,
-      domContentLoadedEventStart: 519,
-      domContentLoadedEventEnd: 519,
-      domComplete: 737,
-      loadEventStart: 737,
-      loadEventEnd: 745,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://maps.google.com/ was 0.584 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://www.google.com/maps',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 563,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 145,
-      fetchStart: 145,
-      domainLookupStart: 148,
-      domainLookupEnd: 148,
-      connectStart: 148,
-      connectEnd: 175,
-      secureConnectionStart: 150,
-      requestStart: 175,
-      responseStart: 253,
-      responseEnd: 257,
-      transferSize: 84782,
-      encodedBodySize: 84241,
-      decodedBodySize: 348384,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 495,
-      domContentLoadedEventStart: 505,
-      domContentLoadedEventEnd: 506,
-      domComplete: 561,
-      loadEventStart: 563,
-      loadEventEnd: 563,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://myreactivematerial.web.app/ was 0.47 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://myreactivematerial.web.app/',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 451,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 80,
-      domainLookupEnd: 143,
-      connectStart: 143,
-      connectEnd: 234,
-      secureConnectionStart: 144,
-      requestStart: 234,
-      responseStart: 235,
-      responseEnd: 235,
-      transferSize: 1507,
-      encodedBodySize: 954,
-      decodedBodySize: 7008,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 259,
-      domContentLoadedEventStart: 446,
-      domContentLoadedEventEnd: 447,
-      domComplete: 451,
-      loadEventStart: 451,
-      loadEventEnd: 451,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://pat.tilde.team/ was 0.699 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://pat.tilde.team/',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 693,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 68,
-      domainLookupEnd: 145,
-      connectStart: 145,
-      connectEnd: 276,
-      secureConnectionStart: 164,
-      requestStart: 276,
-      responseStart: 294,
-      responseEnd: 294,
-      transferSize: 722,
-      encodedBodySize: 484,
-      decodedBodySize: 1031,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 311,
-      domContentLoadedEventStart: 690,
-      domContentLoadedEventEnd: 690,
-      domComplete: 693,
-      loadEventStart: 693,
-      loadEventEnd: 693,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://coloradoquiz.web.app/ was 0.857 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://coloradoquiz.web.app/',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 830,
-      initiatorType: 'navigation',
-      nextHopProtocol: 'h2',
-      workerStart: 0,
-      redirectStart: 0,
-      redirectEnd: 0,
-      fetchStart: 0,
-      domainLookupStart: 58,
-      domainLookupEnd: 71,
-      connectStart: 71,
-      connectEnd: 168,
-      secureConnectionStart: 73,
-      requestStart: 168,
-      responseStart: 169,
-      responseEnd: 169,
-      transferSize: 6657,
-      encodedBodySize: 6103,
-      decodedBodySize: 33072,
-      serverTiming: [],
-      unloadEventStart: 0,
-      unloadEventEnd: 0,
-      domInteractive: 312,
-      domContentLoadedEventStart: 472,
-      domContentLoadedEventEnd: 473,
-      domComplete: 830,
-      loadEventStart: 830,
-      loadEventEnd: 830,
-      type: 'navigate',
-      redirectCount: 0
-    }
-  }
-}
-Total load time for https://scottkast.github.com/ was 0.167 seconds
-{
-  metrics: {
-    data: {
-      name: 'https://scottkast.github.com/',
-      entryType: 'navigation',
-      startTime: 0,
-      duration: 146,
+      duration: 1025,
       initiatorType: 'navigation',
       nextHopProtocol: 'h2',
       workerStart: 0,
@@ -209,24 +14,219 @@ Total load time for https://scottkast.github.com/ was 0.167 seconds
       fetchStart: 0,
       domainLookupStart: 72,
       domainLookupEnd: 72,
-      connectStart: 72,
-      connectEnd: 80,
-      secureConnectionStart: 73,
-      requestStart: 80,
-      responseStart: 92,
-      responseEnd: 92,
-      transferSize: 5950,
+      connectStart: 73,
+      connectEnd: 201,
+      secureConnectionStart: 99,
+      requestStart: 201,
+      responseStart: 280,
+      responseEnd: 280,
+      transferSize: 38140,
+      encodedBodySize: 36994,
+      decodedBodySize: 122945,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 363,
+      domContentLoadedEventStart: 606,
+      domContentLoadedEventEnd: 606,
+      domComplete: 1020,
+      loadEventStart: 1020,
+      loadEventEnd: 1025,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://maps.google.com/ was 0.961 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://www.google.com/maps',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 955,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 282,
+      fetchStart: 282,
+      domainLookupStart: 285,
+      domainLookupEnd: 285,
+      connectStart: 285,
+      connectEnd: 365,
+      secureConnectionStart: 309,
+      requestStart: 365,
+      responseStart: 460,
+      responseEnd: 460,
+      transferSize: 85007,
+      encodedBodySize: 84215,
+      decodedBodySize: 348318,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 775,
+      domContentLoadedEventStart: 792,
+      domContentLoadedEventEnd: 793,
+      domComplete: 954,
+      loadEventStart: 954,
+      loadEventEnd: 955,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://myreactivematerial.web.app/ was 0.646 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://myreactivematerial.web.app/',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 640,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 65,
+      domainLookupEnd: 80,
+      connectStart: 80,
+      connectEnd: 180,
+      secureConnectionStart: 94,
+      requestStart: 180,
+      responseStart: 193,
+      responseEnd: 193,
+      transferSize: 1500,
+      encodedBodySize: 954,
+      decodedBodySize: 7008,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 211,
+      domContentLoadedEventStart: 522,
+      domContentLoadedEventEnd: 523,
+      domComplete: 640,
+      loadEventStart: 640,
+      loadEventEnd: 640,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://pat.tilde.team/ was 0.972 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://pat.tilde.team/',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 951,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 39,
+      domainLookupEnd: 187,
+      connectStart: 187,
+      connectEnd: 414,
+      secureConnectionStart: 217,
+      requestStart: 414,
+      responseStart: 444,
+      responseEnd: 444,
+      transferSize: 722,
+      encodedBodySize: 484,
+      decodedBodySize: 1031,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 459,
+      domContentLoadedEventStart: 931,
+      domContentLoadedEventEnd: 931,
+      domComplete: 951,
+      loadEventStart: 951,
+      loadEventEnd: 951,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://coloradoquiz.web.app/ was 1.189 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://coloradoquiz.web.app/',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 1173,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 78,
+      domainLookupEnd: 78,
+      connectStart: 78,
+      connectEnd: 185,
+      secureConnectionStart: 92,
+      requestStart: 185,
+      responseStart: 200,
+      responseEnd: 200,
+      transferSize: 6683,
+      encodedBodySize: 6103,
+      decodedBodySize: 33072,
+      serverTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 325,
+      domContentLoadedEventStart: 509,
+      domContentLoadedEventEnd: 510,
+      domComplete: 1172,
+      loadEventStart: 1172,
+      loadEventEnd: 1173,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://scottkast.github.com/ was 0.225 seconds
+{
+  metrics: {
+    data: {
+      name: 'https://scottkast.github.com/',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 215,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'h2',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0,
+      domainLookupStart: 73,
+      domainLookupEnd: 73,
+      connectStart: 73,
+      connectEnd: 106,
+      secureConnectionStart: 86,
+      requestStart: 106,
+      responseStart: 153,
+      responseEnd: 153,
+      transferSize: 5943,
       encodedBodySize: 5343,
       decodedBodySize: 9593,
       serverTiming: [],
       unloadEventStart: 0,
       unloadEventEnd: 0,
-      domInteractive: 127,
-      domContentLoadedEventStart: 130,
-      domContentLoadedEventEnd: 130,
-      domComplete: 146,
-      loadEventStart: 146,
-      loadEventEnd: 146,
+      domInteractive: 170,
+      domContentLoadedEventStart: 203,
+      domContentLoadedEventEnd: 205,
+      domComplete: 215,
+      loadEventStart: 215,
+      loadEventEnd: 215,
       type: 'navigate',
       redirectCount: 0
     }
